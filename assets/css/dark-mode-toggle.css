@@ -1,0 +1,12 @@
+#dark-mode-toggle {
+  background-color: var(--header-background-color);
+  color: var(--toggle-text-color);
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
+
+#dark-mode-toggle:hover {
+  background-color: var(--text-color);
+  color: var(--header-background-color);
+}
