@@ -1,4 +1,4 @@
 {
-    "YOUTUBE_API_KEY": "your_api_key_here",
-    "CHANNEL_ID": "your_channel_id_here"
+    "YOUTUBE_API_KEY": "${YOUTUBE_API_KEY}",
+    "CHANNEL_ID": "UCOt8sKxnjgZAM02Lc89Ijkw"
 }
