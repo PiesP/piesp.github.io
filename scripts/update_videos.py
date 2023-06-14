@@ -55,7 +55,7 @@ def create_post(title, video_id, publish_time, description):
         logging.info(f"Post for video {video_id} already exists. Skipping...")
         return
 
-    with open('post_template.md', 'r') as f:
+    with open('post.template', 'r') as f:
         template = Template(f.read())
 
     post_content = template.substitute(title=title, date=date, video_id=video_id, description=description)
