@@ -47,7 +47,7 @@ def get_video_info(api_key, channel_id):
 
 def create_post(title, video_id, publish_time, description):
     """Create a blog post for a video."""
-    date = datetime.strptime(publish_time, "%Y-%m-%dT%H:%M:%SZ").date()
+    date = datetime.strptime(publish_time, "%Y-%m-%dT%H:%M:%SZ").date().strftime("%Y-%m-%d")
     filename = f"_posts/{date}-my-video-{video_id}.md"
 
     existing_posts = [post for post in os.listdir("_posts") if post.endswith(f"my-video-{video_id}.md")]
