@@ -10,7 +10,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 
 def load_config():
     """Load configuration from a JSON file."""
-    with open('config_update_videos.json', 'r') as f:
+    with open('scripts/config_update_videos.json', 'r') as f:
         config = json.load(f)
     return config
 
