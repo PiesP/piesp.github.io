@@ -1,26 +1,44 @@
 import os
 import requests
 import json
+import logging
 from datetime import datetime
+from string import Template
+
+# Set up logging
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+
+def load_config():
+    """Load configuration from a JSON file."""
+    with open('config_update_videos.json', 'r') as f:
+        config = json.load(f)
+    return config
 
 def get_video_info(api_key, channel_id):
+    """Fetch video information from YouTube API."""
     url = f"https://www.googleapis.com/youtube/v3/search?key={api_key}&channelId={channel_id}&part=snippet,id&order=date&maxResults=50"
     videos = []
 
     while True:
-        response = requests.get(url)
-        data = json.loads(response.text)
+        try:
+            response = requests.get(url)
+            response.raise_for_status()
+        except requests.exceptions.RequestException as e:
+            logging.error(f"Failed to fetch data from YouTube API: {e}")
+            break
 
-        for item in data['items']:
-            if item['id']['kind'] == "youtube#video":
+        data = response.json()
+
+        for item in data.get('items', []):
+            if item.get('id', {}).get('kind') == "youtube#video":
                 title = item['snippet']['title']
                 video_id = item['id']['videoId']
                 publish_time = item['snippet']['publishTime']
                 description = item['snippet']['description']
                 videos.append((title, video_id, publish_time, description))
 
-        if 'nextPageToken' in data:
-            next_page_token = data['nextPageToken']
+        next_page_token = data.get('nextPageToken')
+        if next_page_token:
             url = f"{url}&pageToken={next_page_token}"
         else:
             break
@@ -28,32 +46,43 @@ def get_video_info(api_key, channel_id):
     return videos
 
 def create_post(title, video_id, publish_time, description):
+    """Create a blog post for a video."""
     date = datetime.strptime(publish_time, "%Y-%m-%dT%H:%M:%SZ").date()
     filename = f"_posts/{date}-my-video-{video_id}.md"
 
     existing_posts = [post for post in os.listdir("_posts") if post.endswith(f"my-video-{video_id}.md")]
     if existing_posts:
-        print(f"Post for video {video_id} already exists. Skipping...")
+        logging.info(f"Post for video {video_id} already exists. Skipping...")
         return
 
+    with open('post_template.md', 'r') as f:
+        template = Template(f.read())
+
+    post_content = template.substitute(title=title, date=date, video_id=video_id, description=description)
+
     with open(filename, "w") as f:
-        f.write(f"""---
-layout: default
-title: {title}
-date: {date}
-categories: videos
----
+        f.write(post_content)
 
-# {title}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/{video_id}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    logging.info(f"Created post: {filename}")
 
-{description}
-""")
-    print(f"Created post: {filename}")
+def main():
+    """Main function to fetch video info and create posts."""
+    config = load_config()
 
-api_key = os.environ["YOUTUBE_API_KEY"]
-channel_id = "UCOt8sKxnjgZAM02Lc89Ijkw"
-videos = get_video_info(api_key, channel_id)
+    api_key = config.get("YOUTUBE_API_KEY")
+    if not api_key:
+        logging.error("The YOUTUBE_API_KEY is not set in the configuration file.")
+        return
 
-for video in videos:
-    create_post(*video)
+    channel_id = config.get("CHANNEL_ID")
+    if not channel_id:
+        logging.error("The CHANNEL_ID is not set in the configuration file.")
+        return
+
+    videos = get_video_info(api_key, channel_id)
+
+    for video in videos:
+        create_post(*video)
+
+if __name__ == "__main__":
+    main()
