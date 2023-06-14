@@ -5,6 +5,11 @@
   --toggle-text-color: #232323;
 }
 
+code {
+  color: #2b2b2b;
+  background-color: #fbfaf7;
+}
+
 body {
   color: var(--text-color);
   background-color: var(--background-color);
@@ -15,10 +20,10 @@ header {
 }
 
 [data-theme="dark"] {
-  --text-color: #f2f2f2;
-  --background-color: #111;
-  --header-background-color: #222;
-  --toggle-text-color: #f2f2f2;
+  --text-color: #fbfaf7;
+  --background-color: #232323;
+  --header-background-color: #171717;
+  --toggle-text-color: #fbfaf7;
 }
 
 [data-theme="dark"] h1,
@@ -28,5 +33,11 @@ header {
 [data-theme="dark"] h5,
 [data-theme="dark"] h6,
 [data-theme="dark"] p {
-  color: #fff;
+  color: #fbfaf7;
+}
+
+[data-theme="dark"] code,
+[data-theme="dark"] pre.highlight {
+  color: #fbfaf7;
+  background-color: #232323;
 }

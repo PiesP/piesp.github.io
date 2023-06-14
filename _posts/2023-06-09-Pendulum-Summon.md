@@ -5,7 +5,7 @@ date: 2023-06-09
 categories: tips-and-guides
 ---
 
-# 펜듈럼 소환
+# {{ page.title }}
 
 이 문서의 내용은 2023년 6월 3일까지의 정보를 바탕으로 하고 있다.
 

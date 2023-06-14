@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "효과 카피 계열 효과 처리에 대하여"
+title: "효과를 복사하는 효과의 처리에 대하여"
 date: 2023-06-10
 categories: tips-and-guides
 ---
 
-# 효과 카피 계열 효과 처리에 대하여
+# {{ page.title }}
 
 [「트랜잭션 롤백」을 발동, 적용할 때에 대상이 된 카드에 적힌 텍스트에서 어느 부분을 적용하나요?](https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23985&request_locale=ja)
 
