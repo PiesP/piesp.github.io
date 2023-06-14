@@ -12,6 +12,12 @@ def load_config():
     """Load configuration from a JSON file."""
     with open('scripts/config_update_videos.json', 'r') as f:
         config = json.load(f)
+
+    # Get YOUTUBE_API_KEY from Repository secrets
+    api_key = os.environ.get("YOUTUBE_API_KEY")
+    if api_key:
+        config["YOUTUBE_API_KEY"] = api_key
+
     return config
 
 def get_video_info(api_key, channel_id):
