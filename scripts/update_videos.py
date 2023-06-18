@@ -12,29 +12,29 @@ def load_config():
     """Load configuration from a JSON file."""
     with open('scripts/config_update_videos.json', 'r') as f:
         config = json.load(f)
-
-    # Get YOUTUBE_API_KEY from Repository secrets
-    api_key = os.environ.get("YOUTUBE_API_KEY")
+    api_key = os.getenv("YOUTUBE_API_KEY")
     if api_key:
         config["YOUTUBE_API_KEY"] = api_key
-
     return config
+
+def fetch_data_from_youtube_api(url):
+    """Fetch data from YouTube API."""
+    try:
+        response = requests.get(url)
+        response.raise_for_status()
+    except requests.exceptions.RequestException as e:
+        logging.error(f"Failed to fetch data from YouTube API: {e}")
+        return None
+    return response.json()
 
 def get_video_info(api_key, channel_id):
     """Fetch video information from YouTube API."""
     url = f"https://www.googleapis.com/youtube/v3/search?key={api_key}&channelId={channel_id}&part=snippet,id&order=date&maxResults=50"
     videos = []
-
     while True:
-        try:
-            response = requests.get(url)
-            response.raise_for_status()
-        except requests.exceptions.RequestException as e:
-            logging.error(f"Failed to fetch data from YouTube API: {e}")
+        data = fetch_data_from_youtube_api(url)
+        if not data:
             break
-
-        data = response.json()
-
         for item in data.get('items', []):
             if item.get('id', {}).get('kind') == "youtube#video":
                 title = item['snippet']['title']
@@ -42,51 +42,40 @@ def get_video_info(api_key, channel_id):
                 publish_time = item['snippet']['publishTime']
                 description = item['snippet']['description']
                 videos.append((title, video_id, publish_time, description))
-
         next_page_token = data.get('nextPageToken')
         if next_page_token:
             url = f"{url}&pageToken={next_page_token}"
         else:
             break
-
     return videos
 
 def create_post(title, video_id, publish_time, description):
     """Create a blog post for a video."""
     date = datetime.strptime(publish_time, "%Y-%m-%dT%H:%M:%SZ").date().strftime("%Y-%m-%d")
     filename = f"_posts/{date}-my-video-{video_id}.md"
-
     existing_posts = [post for post in os.listdir("_posts") if post.endswith(f"my-video-{video_id}.md")]
     if existing_posts:
         logging.info(f"Post for video {video_id} already exists. Skipping...")
         return
-
     with open('scripts/post.template', 'r') as f:
         template = Template(f.read())
-
     post_content = template.substitute(title=title, date=date, video_id=video_id, description=description)
-
     with open(filename, "w") as f:
         f.write(post_content)
-
     logging.info(f"Created post: {filename}")
 
 def main():
     """Main function to fetch video info and create posts."""
     config = load_config()
-
     api_key = config.get("YOUTUBE_API_KEY")
     if not api_key:
         logging.error("The YOUTUBE_API_KEY is not set in the configuration file.")
         return
-
     channel_id = config.get("CHANNEL_ID")
     if not channel_id:
         logging.error("The CHANNEL_ID is not set in the configuration file.")
         return
-
     videos = get_video_info(api_key, channel_id)
-
     for video in videos:
         create_post(*video)
 

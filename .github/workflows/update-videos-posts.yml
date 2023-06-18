@@ -1,49 +1,44 @@
-name: Update YouTube Videos
+name: Update videos posts
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Run workflow every day at 00:00
+    - cron: '0 0 * * *'  # Run workflow every day at midnight
   workflow_dispatch:
 
 jobs:
-  update:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repository
-        uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.JEKYLL_PAT }}  # Use GitHub token to push changes to repository
+    - name: Checkout repository
+      uses: actions/checkout@v3
 
-      - name: Set up Python
-        uses: actions/setup-python@v3
-        with:
-          python-version: '3.x'
+    - name: Set up Python
+      uses: actions/setup-python@v3
+      with:
+        python-version: '3.x'
 
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
 
-      - name: Check directory state before update
-        run: |
-          python -c "import os; import hashlib; print(hashlib.sha256(''.join(sorted(os.listdir('_posts'))).encode()).hexdigest())" > /tmp/before.txt
+    - name: Check directory state before
+      run: ls _posts > /tmp/before.txt
 
-      - name: Update videos
-        env:
-          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}  # Use YouTube API key from secrets
-        run: |
-          python scripts/update_videos.py  # Run Python script to update videos
+    - name: Update videos
+      run: python scripts/update_videos.py
+      env:
+        YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
 
-      - name: Check directory state after update
-        run: |
-          python -c "import os; import hashlib; print(hashlib.sha256(''.join(sorted(os.listdir('_posts'))).encode()).hexdigest())" > /tmp/after.txt
+    - name: Check directory state after
+      run: ls _posts > /tmp/after.txt
 
-      - name: Push changes to original repository
-        run: |
-          if ! cmp -s /tmp/before.txt /tmp/after.txt; then
-            git config --global user.name 'GitHub Actions'
-            git config --global user.email 'actions@github.com'
-            git add -A
-            git commit -am "Update YouTube Videos"
-            git push
-          fi
+    - name: Push changes
+      run: |
+        if ! diff /tmp/before.txt /tmp/after.txt; then
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add _posts
+          git commit -m "Update videos posts"
+          git push
+        fi
