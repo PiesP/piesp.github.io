@@ -50,19 +50,20 @@ def get_video_info(api_key, channel_id):
     return videos
 
 def create_post(title, video_id, publish_time, description):
-    """Create a blog post for a video."""
+    """Create or update a blog post for a video."""
     date = datetime.strptime(publish_time, "%Y-%m-%dT%H:%M:%SZ").date().strftime("%Y-%m-%d")
     filename = f"_posts/{date}-my-video-{video_id}.md"
     existing_posts = [post for post in os.listdir("_posts") if post.endswith(f"my-video-{video_id}.md")]
     if existing_posts:
-        logging.info(f"Post for video {video_id} already exists. Skipping...")
-        return
+        logging.info(f"Post for video {video_id} already exists. Updating...")
+    else:
+        logging.info(f"Creating post for video {video_id}...")
     with open('scripts/post.template', 'r') as f:
         template = Template(f.read())
     post_content = template.substitute(title=title, date=date, video_id=video_id, description=description)
     with open(filename, "w") as f:
         f.write(post_content)
-    logging.info(f"Created post: {filename}")
+    logging.info(f"Created/Updated post: {filename}")
 
 def main():
     """Main function to fetch video info and create posts."""
