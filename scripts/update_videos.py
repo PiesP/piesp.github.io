@@ -2,6 +2,7 @@ import os
 import requests
 import json
 import logging
+import argparse
 from datetime import datetime
 from string import Template
 
@@ -58,7 +59,7 @@ def create_post(title, video_id, publish_time, description):
         logging.info(f"Post for video {video_id} already exists. Updating...")
     else:
         logging.info(f"Creating post for video {video_id}...")
-    with open('scripts/post.template', 'r') as f:
+    with open(template_path, 'r') as f:
         template = Template(f.read())
     post_content = template.substitute(title=title, date=date, video_id=video_id, description=description)
     with open(filename, "w") as f:
@@ -67,10 +68,15 @@ def create_post(title, video_id, publish_time, description):
 
 def main():
     """Main function."""
+    parser = argparse.ArgumentParser(description='Update blog posts with YouTube videos.')
+    parser.add_argument('--template_path', type=str, default='scripts/post.template',
+                        help='Path to the post template file.')
+    args = parser.parse_args()
+
     config = load_config()
     videos = get_video_info(config['YOUTUBE_API_KEY'], config['CHANNEL_ID'])
     for title, video_id, publish_time, description in videos:
-        create_post(title, video_id, publish_time, description)
+        create_post(title, video_id, publish_time, description, args.template_path)
 
 if __name__ == '__main__':
     main()
