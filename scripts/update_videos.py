@@ -65,20 +65,12 @@ def create_post(title, video_id, publish_time, description):
         f.write(post_content)
     logging.info(f"Created/Updated post: {filename}")
 
-def main():
-    """Main function to fetch video info and create posts."""
+    def main():
+    """Main function."""
     config = load_config()
-    api_key = config.get("YOUTUBE_API_KEY")
-    if not api_key:
-        logging.error("The YOUTUBE_API_KEY is not set in the configuration file.")
-        return
-    channel_id = config.get("CHANNEL_ID")
-    if not channel_id:
-        logging.error("The CHANNEL_ID is not set in the configuration file.")
-        return
-    videos = get_video_info(api_key, channel_id)
-    for video in videos:
-        create_post(*video)
+    videos = get_video_info(config['YOUTUBE_API_KEY'], config['CHANNEL_ID'])
+    for title, video_id, publish_time, description in videos:
+        create_post(title, video_id, publish_time, description)
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()
