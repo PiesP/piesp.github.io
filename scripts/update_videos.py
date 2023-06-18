@@ -65,7 +65,7 @@ def create_post(title, video_id, publish_time, description):
         f.write(post_content)
     logging.info(f"Created/Updated post: {filename}")
 
-    def main():
+def main():
     """Main function."""
     config = load_config()
     videos = get_video_info(config['YOUTUBE_API_KEY'], config['CHANNEL_ID'])
