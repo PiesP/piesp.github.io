@@ -50,7 +50,7 @@ def get_video_info(api_key, channel_id):
             break
     return videos
 
-def create_post(title, video_id, publish_time, description):
+def create_post(title, video_id, publish_time, description, template_path):
     """Create or update a blog post for a video."""
     date = datetime.strptime(publish_time, "%Y-%m-%dT%H:%M:%SZ").date().strftime("%Y-%m-%d")
     filename = f"_posts/{date}-my-video-{video_id}.md"
