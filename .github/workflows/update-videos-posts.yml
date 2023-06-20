@@ -11,6 +11,8 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.JEKYLL_PAT }}
 
     - name: Set up Python
       uses: actions/setup-python@v3
@@ -40,5 +42,5 @@ jobs:
           git config --local user.name "GitHub Action"
           git add _posts
           git commit -m "Update videos posts"
-          git push https://${{ secrets.JEKYLL_PAT }}@github.com/PiesP/piesp.github.io.git
+          git push
         fi
