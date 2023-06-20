@@ -40,5 +40,5 @@ jobs:
           git config --local user.name "GitHub Action"
           git add _posts
           git commit -m "Update videos posts"
-          git push
+          git push https://${{ secrets.JEKYLL_PAT }}@github.com/PiesP/piesp.github.io.git
         fi
