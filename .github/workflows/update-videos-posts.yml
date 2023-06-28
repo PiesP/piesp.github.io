@@ -2,7 +2,7 @@ name: Update videos posts
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Run workflow every day at midnight
+    - cron: '0 15 * * *'  # Run workflow every day at 15:00 UTC (which is 0:00 JST)
   workflow_dispatch:
 
 jobs:
