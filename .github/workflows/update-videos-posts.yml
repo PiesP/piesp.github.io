@@ -44,3 +44,10 @@ jobs:
           git commit -m "Update videos posts"
           git push
         fi
+
+    - name: Trigger deploy workflow
+      uses: peter-evans/repository-dispatch@v2
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        event-type: deploy-jekyll
+  
