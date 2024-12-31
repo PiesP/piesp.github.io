@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼" 호루스 삼사라 티아라멘츠 vs R-ACE, 스네이크아이, 메멘토
+title: "마스터 듀얼\" 호루스 삼사라 티아라멘츠 vs R-ACE, 스네이크아이, 메멘토
 date: 2024-05-20
 categories: videos
 ---

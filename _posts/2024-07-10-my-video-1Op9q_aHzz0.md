@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼" 티아라멘츠 vs 염왕 트라이브리게이드, 언체인드, 60 낙인
+title: "마스터 듀얼\" 티아라멘츠 vs 염왕 트라이브리게이드, 언체인드, 60 낙인
 date: 2024-07-10
 categories: videos
 ---

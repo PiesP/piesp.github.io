@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼" 티아라멘츠 vs 육화, 충혹마, 트릭스터
+title: "마스터 듀얼\" 티아라멘츠 vs 육화, 충혹마, 트릭스터
 date: 2024-07-03
 categories: videos
 ---

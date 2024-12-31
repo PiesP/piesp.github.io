@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼" 호루스 티아라멘츠 vs VS, 60 R-ACE
+title: "마스터 듀얼\" 호루스 티아라멘츠 vs VS, 60 R-ACE
 date: 2024-05-12
 categories: videos
 ---

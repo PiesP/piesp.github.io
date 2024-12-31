@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼" 죄보 티아라멘츠(선) vs 메타비트(후): 죄보 티아라멘츠 전개 영상
+title: "마스터 듀얼\" 죄보 티아라멘츠(선) vs 메타비트(후): 죄보 티아라멘츠 전개 영상
 date: 2024-02-15
 categories: videos
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "효과를 복사하는 효과의 처리에 대하여"
+title: "효과를 복사하는 효과의 처리에 대하여\"
 date: 2023-06-10
 categories: tips-and-guides
 ---

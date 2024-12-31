@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼" 티아라멘츠 vs 라뷰린스, 낙인 루닉, 키메라, 언체인드
+title: "마스터 듀얼\" 티아라멘츠 vs 라뷰린스, 낙인 루닉, 키메라, 언체인드
 date: 2024-05-09
 categories: videos
 ---

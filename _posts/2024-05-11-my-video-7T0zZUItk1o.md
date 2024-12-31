@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼" 호루스 티아라멘츠 vs 호루스 티아라멘츠: 케벤세누프의 숨겨진 효과!
+title: "마스터 듀얼\" 호루스 티아라멘츠 vs 호루스 티아라멘츠: 케벤세누프의 숨겨진 효과!
 date: 2024-05-11
 categories: videos
 ---

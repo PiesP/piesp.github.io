@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼" 레볼싱 티아라멘츠 vs 스네이크아이2, VS
+title: "마스터 듀얼\" 레볼싱 티아라멘츠 vs 스네이크아이2, VS
 date: 2024-03-06
 categories: videos
 ---

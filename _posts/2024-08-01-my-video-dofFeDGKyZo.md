@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼" 티아라멘츠 vs 염왕, 스프라이트
+title: "마스터 듀얼\" 티아라멘츠 vs 염왕, 스프라이트
 date: 2024-08-01
 categories: videos
 ---

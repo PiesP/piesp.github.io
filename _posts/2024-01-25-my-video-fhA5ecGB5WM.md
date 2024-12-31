@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼" 티아라멘츠 vs P.U.N.K.
+title: "마스터 듀얼\" 티아라멘츠 vs P.U.N.K.
 date: 2024-01-25
 categories: videos
 ---

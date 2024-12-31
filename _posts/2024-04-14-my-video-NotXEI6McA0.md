@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼" 삼사라 티아라멘츠 vs 키메라, 60 용사GS, 스네이크아이
+title: "마스터 듀얼\" 삼사라 티아라멘츠 vs 키메라, 60 용사GS, 스네이크아이
 date: 2024-04-14
 categories: videos
 ---

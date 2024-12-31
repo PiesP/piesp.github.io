@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼" 티아라멘츠(후) vs 60 용사 스프라이트(선)
+title: "마스터 듀얼\" 티아라멘츠(후) vs 60 용사 스프라이트(선)
 date: 2024-02-08
 categories: videos
 ---

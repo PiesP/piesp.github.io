@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼" 티아라멘츠 vs 미캉코, 후완다리즈, 스네이크아이
+title: "마스터 듀얼\" 티아라멘츠 vs 미캉코, 후완다리즈, 스네이크아이
 date: 2024-04-25
 categories: videos
 ---

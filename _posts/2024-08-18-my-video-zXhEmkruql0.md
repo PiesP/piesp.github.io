@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼" 티아라멘츠 vs 염왕: 선공에서도 훌륭하게 초동으로 활약하는 허프니스
+title: "마스터 듀얼\" 티아라멘츠 vs 염왕: 선공에서도 훌륭하게 초동으로 활약하는 허프니스
 date: 2024-08-18
 categories: videos
 ---

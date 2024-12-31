@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼" 레볼싱 티아라멘츠 vs 라뷰린스, 스네이크아이, 참기, 크샤트리라 SR
+title: "마스터 듀얼\" 레볼싱 티아라멘츠 vs 라뷰린스, 스네이크아이, 참기, 크샤트리라 SR
 date: 2024-03-10
 categories: videos
 ---

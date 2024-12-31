@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼" 티아라멘츠 vs 티아라멘츠, 유벨, 샐러맨그레이트
+title: "마스터 듀얼\" 티아라멘츠 vs 티아라멘츠, 유벨, 샐러맨그레이트
 date: 2024-07-25
 categories: videos
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼" 호루스 크샤트리라 티아라멘츠 vs 후완다리즈, 테라나이트
+title: "마스터 듀얼\" 호루스 크샤트리라 티아라멘츠 vs 후완다리즈, 테라나이트
 date: 2024-06-25
 categories: videos
 ---

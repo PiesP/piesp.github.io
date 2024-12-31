@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼" 테마 클로니클 고티스 vs 세피라
+title: "마스터 듀얼\" 테마 클로니클 고티스 vs 세피라
 date: 2024-01-22
 categories: videos
 ---

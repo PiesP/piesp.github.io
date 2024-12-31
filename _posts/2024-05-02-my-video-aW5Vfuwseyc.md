@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼" 티아라멘츠 vs 언체인드, 크샤트리라 메타비트, 60 싱크로 GS
+title: "마스터 듀얼\" 티아라멘츠 vs 언체인드, 크샤트리라 메타비트, 60 싱크로 GS
 date: 2024-05-02
 categories: videos
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼" 티아라멘츠 vs R-ACE, 호루스 마나둠
+title: "마스터 듀얼\" 티아라멘츠 vs R-ACE, 호루스 마나둠
 date: 2024-05-18
 categories: videos
 ---

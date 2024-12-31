@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼" 삼사라 티아라멘츠 vs R-ACE, 60 호루스 용사 팬텀나이트
+title: "마스터 듀얼\" 삼사라 티아라멘츠 vs R-ACE, 60 호루스 용사 팬텀나이트
 date: 2024-05-17
 categories: videos
 ---

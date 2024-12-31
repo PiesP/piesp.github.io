@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼" 티아라멘츠(후) vs 스케어클로 마나둠(선)
+title: "마스터 듀얼\" 티아라멘츠(후) vs 스케어클로 마나둠(선)
 date: 2024-03-01
 categories: videos
 ---

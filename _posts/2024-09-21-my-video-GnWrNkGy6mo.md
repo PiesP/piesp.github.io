@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼" 티아라멘츠 vs 드래곤 링크, 유벨, 루닉, 60 GS, 엑소시스터 [DC 2024 SEP]
+title: "마스터 듀얼\" 티아라멘츠 vs 드래곤 링크, 유벨, 루닉, 60 GS, 엑소시스터 [DC 2024 SEP]
 date: 2024-09-21
 categories: videos
 ---

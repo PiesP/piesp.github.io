@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼" 레볼싱 티아라멘츠 vs 낙인, 크샤트리라 티아라멘츠, 스네이크아이3
+title: "마스터 듀얼\" 레볼싱 티아라멘츠 vs 낙인, 크샤트리라 티아라멘츠, 스네이크아이3
 date: 2024-03-09
 categories: videos
 ---

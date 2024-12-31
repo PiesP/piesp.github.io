@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼" 호루스 크샤트리라 티아라멘츠 vs 낙인
+title: "마스터 듀얼\" 호루스 크샤트리라 티아라멘츠 vs 낙인
 date: 2024-05-30
 categories: videos
 ---

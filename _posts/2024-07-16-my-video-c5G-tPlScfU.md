@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼" 유벨 티아라멘츠 vs 참기, 호루스 비트, 크샤트리라, 60 낙인
+title: "마스터 듀얼\" 유벨 티아라멘츠 vs 참기, 호루스 비트, 크샤트리라, 60 낙인
 date: 2024-07-16
 categories: videos
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼" 미계역 티아라멘츠 vs 상검, 얼터가이스트, 낙인 루닉
+title: "마스터 듀얼\" 미계역 티아라멘츠 vs 상검, 얼터가이스트, 낙인 루닉
 date: 2024-04-24
 categories: videos
 ---

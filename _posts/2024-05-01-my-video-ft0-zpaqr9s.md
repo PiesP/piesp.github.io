@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼" 티아라멘츠 vs 후완다리즈, R-ACE, 참기, 라뷰린스
+title: "마스터 듀얼\" 티아라멘츠 vs 후완다리즈, R-ACE, 참기, 라뷰린스
 date: 2024-05-01
 categories: videos
 ---

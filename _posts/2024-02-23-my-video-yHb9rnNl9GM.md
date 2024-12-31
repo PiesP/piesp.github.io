@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼" 파병 티아라멘츠(후) vs 마나둠(선)
+title: "마스터 듀얼\" 파병 티아라멘츠(후) vs 마나둠(선)
 date: 2024-02-23
 categories: videos
 ---

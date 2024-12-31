@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼" 티아라멘츠 vs 라뷰린스, 메타비트, 60 스네이크아이 썬더드래곤
+title: "마스터 듀얼\" 티아라멘츠 vs 라뷰린스, 메타비트, 60 스네이크아이 썬더드래곤
 date: 2024-05-08
 categories: videos
 ---

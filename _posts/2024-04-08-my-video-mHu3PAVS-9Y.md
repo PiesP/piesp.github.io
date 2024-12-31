@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼" 암흑계 티아라멘츠 vs 티아라멘츠, 참기
+title: "마스터 듀얼\" 암흑계 티아라멘츠 vs 티아라멘츠, 참기
 date: 2024-04-08
 categories: videos
 ---

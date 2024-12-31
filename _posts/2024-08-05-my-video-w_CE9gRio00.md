@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼" 티아라멘츠 vs 호루스 티아라멘츠, 티아라멘츠
+title: "마스터 듀얼\" 티아라멘츠 vs 호루스 티아라멘츠, 티아라멘츠
 date: 2024-08-05
 categories: videos
 ---

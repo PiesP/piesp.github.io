@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼" 티아라멘츠 vs 염왕, 순성, 엑소시스터, 유벨 [레이팅]
+title: "마스터 듀얼\" 티아라멘츠 vs 염왕, 순성, 엑소시스터, 유벨 [레이팅]
 date: 2024-10-01
 categories: videos
 ---

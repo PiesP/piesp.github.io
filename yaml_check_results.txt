@@ -1,0 +1,3496 @@
+Valid YAML: ./_posts\2023-04-08-my-video-aWCBqmriyr4.md
+Valid YAML: ./_posts\2023-04-08-my-video-f1UGTTVatfw.md
+Valid YAML: ./_posts\2023-04-15-my-video-5f--qFir_eo.md
+Valid YAML: ./_posts\2023-04-17-my-video-3WtnKlcZf6g.md
+Valid YAML: ./_posts\2023-04-18-my-video-jl2Cdhl0DIc.md
+Valid YAML: ./_posts\2023-05-02-my-video-4cwwL7y7uWo.md
+Valid YAML: ./_posts\2023-05-04-my-video-WreZaGOJmqg.md
+Valid YAML: ./_posts\2023-05-14-my-video-wx1Xs5q6J74.md
+Valid YAML: ./_posts\2023-05-25-my-video-ObnK1FcO0oA.md
+Valid YAML: ./_posts\2023-05-27-my-video-MDgVTYQUSx8.md
+Valid YAML: ./_posts\2023-06-04-my-video-BryoyVhoJ3c.md
+Valid YAML: ./_posts\2023-06-04-my-video-qIb1gSux2Ls.md
+Valid YAML: ./_posts\2023-06-04-my-video-vKPOFnmf9kg.md
+Valid YAML: ./_posts\2023-06-04-my-video-y4VK7JkXbEU.md
+Valid YAML: ./_posts\2023-06-09-Pendulum-Summon.md
+Valid YAML: ./_posts\2023-06-10-Copy-Effect.md
+Valid YAML: ./_posts\2023-06-10-my-video-IlSlD2DBo5Q.md
+Valid YAML: ./_posts\2023-06-10-my-video-MOfvWm-uzn4.md
+Valid YAML: ./_posts\2023-06-11-my-video-2e38N9uALs4.md
+Valid YAML: ./_posts\2023-06-11-my-video-2ttsr2asV24.md
+Valid YAML: ./_posts\2023-06-11-my-video-Gcx-dW8wtcY.md
+Valid YAML: ./_posts\2023-06-11-my-video-McoGcqnE8iU.md
+Valid YAML: ./_posts\2023-06-11-my-video-tRfQP0SWJNk.md
+Valid YAML: ./_posts\2023-06-12-my-video-ceX_pZelb8E.md
+Valid YAML: ./_posts\2023-06-12-my-video-EHtQjzLE9v0.md
+Valid YAML: ./_posts\2023-06-12-my-video-GdDzJP50E4M.md
+Valid YAML: ./_posts\2023-06-12-my-video-jl31-Odk0c8.md
+Valid YAML: ./_posts\2023-06-12-my-video-jUK7kF_0J4I.md
+Valid YAML: ./_posts\2023-06-12-my-video-NhXaRXEbLB8.md
+Valid YAML: ./_posts\2023-06-13-my-video-b5zPIzhg4uI.md
+Valid YAML: ./_posts\2023-06-16-my-video-coIPwEZZ5As.md
+Valid YAML: ./_posts\2023-06-16-my-video-fm5vtiZd1H4.md
+Valid YAML: ./_posts\2023-06-16-my-video-UzBsNeCcRW8.md
+Valid YAML: ./_posts\2023-06-17-my-video-2RsgVHuVHso.md
+Valid YAML: ./_posts\2023-06-19-my-video-GMZvLjscEG0.md
+Valid YAML: ./_posts\2023-06-19-my-video-hEn8j7kosRw.md
+Valid YAML: ./_posts\2023-06-19-my-video-K25_4obDeGk.md
+Valid YAML: ./_posts\2023-06-19-my-video-yq0z7Sno2Us.md
+Valid YAML: ./_posts\2023-06-21-my-video-IIAED0F8x2s.md
+Valid YAML: ./_posts\2023-06-22-my-video-OEefIUXrW7U.md
+Valid YAML: ./_posts\2023-06-24-my-video-FvMOeR7E_l0.md
+Valid YAML: ./_posts\2023-06-24-my-video-yY8VHT5ND8g.md
+Valid YAML: ./_posts\2023-06-25-my-video-B0rNOVA_e0E.md
+Valid YAML: ./_posts\2023-06-25-my-video-G63gM5KlKPk.md
+Valid YAML: ./_posts\2023-06-25-my-video-MzCcYc3O23o.md
+Valid YAML: ./_posts\2023-06-25-my-video-qEraQaGHJzk.md
+Valid YAML: ./_posts\2023-06-25-my-video-UbKdlI4llHY.md
+Valid YAML: ./_posts\2023-06-25-my-video-YnY36RNJtRE.md
+Valid YAML: ./_posts\2023-06-26-my-video--5hQzmAKXUM.md
+Valid YAML: ./_posts\2023-06-26-my-video-B8_sOCtCeBM.md
+Valid YAML: ./_posts\2023-06-26-my-video-EXQkv5EdGvI.md
+Valid YAML: ./_posts\2023-06-26-my-video-oa3dNnolXqM.md
+Valid YAML: ./_posts\2023-06-28-my-video-0l3x9wtqt04.md
+Valid YAML: ./_posts\2023-06-28-my-video-1mWmGI1T8yI.md
+Valid YAML: ./_posts\2023-06-28-my-video-EHCi7C8y5Og.md
+Valid YAML: ./_posts\2023-06-28-my-video-N-Raj2XejB4.md
+Valid YAML: ./_posts\2023-06-28-my-video-vpRGrHuUt0M.md
+Valid YAML: ./_posts\2023-06-30-my-video-b8zxbXb05EU.md
+Valid YAML: ./_posts\2023-06-30-my-video-_qF5-A2FcRY.md
+Valid YAML: ./_posts\2023-07-23-my-video-ww2TkIEle64.md
+Valid YAML: ./_posts\2023-08-16-my-video-a8u4cRPZxu8.md
+Valid YAML: ./_posts\2023-09-16-my-video-6BSjPxO0HD4.md
+Valid YAML: ./_posts\2023-09-17-my-video-s6eUzvzD3J0.md
+Valid YAML: ./_posts\2023-09-19-my-video-eGxSDswC_uA.md
+Valid YAML: ./_posts\2023-10-07-my-video-dGajhIThVWw.md
+Valid YAML: ./_posts\2023-11-02-my-video-oReMI4zfPwY.md
+Valid YAML: ./_posts\2023-11-05-my-video-BjGvR2HBV6U.md
+Valid YAML: ./_posts\2023-11-05-my-video-TwhjdIyYBEk.md
+Valid YAML: ./_posts\2023-11-06-my-video-zo3WrrYu_NY.md
+Valid YAML: ./_posts\2023-11-07-my-video-kUnYZktE6pU.md
+Valid YAML: ./_posts\2023-11-08-my-video-758eEMYsW0k.md
+Valid YAML: ./_posts\2023-11-08-my-video-S7pOf_HamHU.md
+Valid YAML: ./_posts\2023-11-09-my-video-6MmnEtY-3pw.md
+Valid YAML: ./_posts\2023-11-09-my-video-mve9VxYBxEk.md
+Valid YAML: ./_posts\2023-11-09-my-video-tiv_N4AOKAM.md
+Valid YAML: ./_posts\2023-11-12-my-video-4EWdFgknizw.md
+Valid YAML: ./_posts\2023-11-12-my-video-pIYZG7adKH4.md
+Valid YAML: ./_posts\2023-11-12-my-video-rt54-goOav4.md
+Valid YAML: ./_posts\2023-11-14-my-video-KKb3qWfj49o.md
+Valid YAML: ./_posts\2023-11-18-my-video-As1MIPnxNF4.md
+Valid YAML: ./_posts\2023-11-20-my-video-FdtEDXs8_ag.md
+Valid YAML: ./_posts\2023-11-20-my-video-XBTnUV7SPb0.md
+Valid YAML: ./_posts\2023-11-21-my-video-mfaTgNN3QD8.md
+Valid YAML: ./_posts\2023-11-21-my-video-PySA7GxlBo8.md
+Valid YAML: ./_posts\2023-11-26-my-video-CzOusVLHDyM.md
+Valid YAML: ./_posts\2023-11-26-my-video-DIVNzxXOnNs.md
+Valid YAML: ./_posts\2023-11-26-my-video-EGcMj3uA-y8.md
+Valid YAML: ./_posts\2023-11-26-my-video-ffBg-FWRbec.md
+Valid YAML: ./_posts\2023-11-26-my-video-mT_BXomBWac.md
+Valid YAML: ./_posts\2023-11-26-my-video-Z7rnBfBHIvo.md
+Valid YAML: ./_posts\2023-11-28-my-video-2TzGA6Jpdu8.md
+Valid YAML: ./_posts\2023-11-28-my-video-C7uwE8OhLYo.md
+Valid YAML: ./_posts\2023-11-30-my-video-pp4qUqQcFe4.md
+Valid YAML: ./_posts\2023-12-01-my-video-LI2a39JFDzI.md
+Valid YAML: ./_posts\2023-12-02-my-video-X4D_QfwO_dc.md
+Valid YAML: ./_posts\2023-12-03-my-video-f05TlN5059Y.md
+Valid YAML: ./_posts\2023-12-03-my-video-mYRwEyPSgaI.md
+Valid YAML: ./_posts\2023-12-03-my-video-rneULDKrS8c.md
+Valid YAML: ./_posts\2023-12-03-my-video-uZ4PtHsbFEQ.md
+Valid YAML: ./_posts\2023-12-03-my-video-yKVnuLPbu28.md
+Valid YAML: ./_posts\2023-12-05-my-video-EWlODdXqXu8.md
+Valid YAML: ./_posts\2023-12-05-my-video-PFVwzkBIYA8.md
+Valid YAML: ./_posts\2023-12-06-my-video-paaM9ep-JZU.md
+Valid YAML: ./_posts\2023-12-07-my-video-gdwoqPiielQ.md
+Valid YAML: ./_posts\2023-12-07-my-video-hbMH3JB1Jow.md
+Valid YAML: ./_posts\2023-12-07-my-video-p_HRMNia34I.md
+Valid YAML: ./_posts\2023-12-07-my-video-R5TNjdOjCeg.md
+Valid YAML: ./_posts\2023-12-07-my-video-_zzn4EBzW-g.md
+Valid YAML: ./_posts\2023-12-08-my-video-7fDwnyQj5UI.md
+Valid YAML: ./_posts\2023-12-08-my-video-A_cyZEZ1CzU.md
+Valid YAML: ./_posts\2023-12-09-my-video-8WfAI7Eo-ZU.md
+Valid YAML: ./_posts\2023-12-09-my-video-O7gtappm1WE.md
+Valid YAML: ./_posts\2023-12-10-my-video-072ePnXJhDk.md
+Valid YAML: ./_posts\2023-12-10-my-video-BJMi_IOYP0o.md
+Valid YAML: ./_posts\2023-12-10-my-video-EFu_fyJREbM.md
+Valid YAML: ./_posts\2023-12-10-my-video-ezvvKiFkC1Q.md
+Valid YAML: ./_posts\2023-12-10-my-video-opnV4ASkok8.md
+Valid YAML: ./_posts\2023-12-10-my-video-SR0JnQEhXlY.md
+Valid YAML: ./_posts\2023-12-10-my-video-wkAJDtEec0A.md
+Valid YAML: ./_posts\2023-12-11-my-video-e_l9UzgI2LI.md
+Valid YAML: ./_posts\2023-12-11-my-video-OU3vZ5rDbHA.md
+Valid YAML: ./_posts\2023-12-12-my-video-5b1kkcfW5PQ.md
+Valid YAML: ./_posts\2023-12-12-my-video-M6p7NRLlFm8.md
+Valid YAML: ./_posts\2023-12-13-my-video-9QJYH1-1vQ4.md
+Valid YAML: ./_posts\2023-12-13-my-video-hYSjyBUoRVo.md
+Valid YAML: ./_posts\2023-12-14-my-video-mHdOJliUfLs.md
+Valid YAML: ./_posts\2023-12-14-my-video-WRZTK7UjGK0.md
+Valid YAML: ./_posts\2023-12-14-my-video-xpr8LcCkgng.md
+Valid YAML: ./_posts\2023-12-15-my-video-qE4Kct7iJbU.md
+Valid YAML: ./_posts\2023-12-15-my-video-SVnQWZzSnyY.md
+Valid YAML: ./_posts\2023-12-15-my-video-Wo56FzVVz_Y.md
+Valid YAML: ./_posts\2023-12-16-my-video-1Zvge4AHqs0.md
+Valid YAML: ./_posts\2023-12-16-my-video-3xoP6-wdCyI.md
+Valid YAML: ./_posts\2023-12-16-my-video-BnpnojIaNzM.md
+Valid YAML: ./_posts\2023-12-16-my-video-sKLXWSeqk2U.md
+Valid YAML: ./_posts\2023-12-16-my-video-w5mrFpbrkmQ.md
+Valid YAML: ./_posts\2023-12-18-my-video-krstieOuFPM.md
+Valid YAML: ./_posts\2023-12-19-my-video-dy5wbGc3X6o.md
+Valid YAML: ./_posts\2023-12-19-my-video-q5lF1BhiEjo.md
+Valid YAML: ./_posts\2023-12-19-my-video-SCVOI63jO5Q.md
+Valid YAML: ./_posts\2023-12-19-my-video-uuJieOO9wgE.md
+Valid YAML: ./_posts\2023-12-20-my-video--uhRi0sE--M.md
+Valid YAML: ./_posts\2023-12-20-my-video-0Ip5HD7A0Yw.md
+Valid YAML: ./_posts\2023-12-20-my-video-HYutk2qrHr8.md
+Valid YAML: ./_posts\2023-12-21-my-video-_fQ0TU5StcM.md
+Valid YAML: ./_posts\2023-12-22-my-video-WDOQRMxZ5pE.md
+Valid YAML: ./_posts\2023-12-23-my-video-4iF3N3KOg68.md
+Valid YAML: ./_posts\2023-12-23-my-video-As5RK__bX04.md
+Valid YAML: ./_posts\2023-12-23-my-video-CU4sRO1yJC8.md
+Valid YAML: ./_posts\2023-12-23-my-video-lonyoc7mAig.md
+Valid YAML: ./_posts\2023-12-24-my-video-DEXEnRm-PUs.md
+Valid YAML: ./_posts\2023-12-24-my-video-nMncjuaVTx0.md
+Valid YAML: ./_posts\2023-12-24-my-video-om6s8fXXqF8.md
+Valid YAML: ./_posts\2023-12-24-my-video-Ozj5iWKtI28.md
+Valid YAML: ./_posts\2023-12-24-my-video-tkshUYKioW0.md
+Valid YAML: ./_posts\2023-12-25-my-video-fb23wG2yfqI.md
+Valid YAML: ./_posts\2023-12-26-my-video-s7Px3Bmso88.md
+Valid YAML: ./_posts\2023-12-27-my-video-2Rj0hJVLE-s.md
+Valid YAML: ./_posts\2023-12-28-my-video-eViFQUoMrHo.md
+Valid YAML: ./_posts\2023-12-28-my-video-UpwGivFJe8g.md
+Valid YAML: ./_posts\2023-12-30-my-video-avMk6jX1weo.md
+Valid YAML: ./_posts\2023-12-30-my-video-lbq93nXwUbk.md
+Valid YAML: ./_posts\2023-12-30-my-video-LRqtBUezheA.md
+Valid YAML: ./_posts\2023-12-30-my-video-wmgfpotFEEo.md
+Valid YAML: ./_posts\2023-12-31-my-video--lYN4_6FAbU.md
+Valid YAML: ./_posts\2023-12-31-my-video-a0QHDMYJFoA.md
+Valid YAML: ./_posts\2023-12-31-my-video-jXyb1bk_cug.md
+Valid YAML: ./_posts\2023-12-31-my-video-P3SJjHSEEHw.md
+Valid YAML: ./_posts\2023-12-31-my-video-QVakua3qVhc.md
+Valid YAML: ./_posts\2023-12-31-my-video-rtuP3Cyn-Ug.md
+Valid YAML: ./_posts\2023-12-31-my-video-WRUM5hLKnhk.md
+Valid YAML: ./_posts\2024-01-01-my-video-8wxo6Zgk7G8.md
+Valid YAML: ./_posts\2024-01-01-my-video-FwjBxqzxIQM.md
+Valid YAML: ./_posts\2024-01-02-my-video-17kOf37WwTA.md
+Valid YAML: ./_posts\2024-01-02-my-video-ae1fUwmrWG4.md
+Valid YAML: ./_posts\2024-01-02-my-video-FI-mi1rlnpg.md
+Valid YAML: ./_posts\2024-01-02-my-video-ozog6EwHOig.md
+Valid YAML: ./_posts\2024-01-02-my-video-Uz7aoBneYM8.md
+Valid YAML: ./_posts\2024-01-02-my-video-xlRDXmJYKOk.md
+Valid YAML: ./_posts\2024-01-03-my-video-8SNMiZWY1lw.md
+Valid YAML: ./_posts\2024-01-03-my-video-DwIRXNokBgA.md
+Valid YAML: ./_posts\2024-01-03-my-video-YlvH3XD9biA.md
+Valid YAML: ./_posts\2024-01-04-my-video-nlgPZyLIQNo.md
+Valid YAML: ./_posts\2024-01-05-my-video-hZrLoNibmAk.md
+Valid YAML: ./_posts\2024-01-05-my-video-pSyF6dDuzXU.md
+Valid YAML: ./_posts\2024-01-06-my-video-1-J_Q2MKYaE.md
+Valid YAML: ./_posts\2024-01-06-my-video-dkpDIqsDa8w.md
+Valid YAML: ./_posts\2024-01-06-my-video-eojDpmnFxAk.md
+Valid YAML: ./_posts\2024-01-06-my-video-Jz1oWdIDdBU.md
+Valid YAML: ./_posts\2024-01-06-my-video-mEf5lnVuf6E.md
+Valid YAML: ./_posts\2024-01-06-my-video-modDVec2938.md
+Valid YAML: ./_posts\2024-01-06-my-video-RCmK6B6iQ0o.md
+Valid YAML: ./_posts\2024-01-06-my-video-t-xTcPmT01o.md
+Valid YAML: ./_posts\2024-01-06-my-video-zmCGmJzj-Zg.md
+Valid YAML: ./_posts\2024-01-07-my-video-cIwTvGOrfc8.md
+Valid YAML: ./_posts\2024-01-08-my-video-3hX0RDqGFZA.md
+Valid YAML: ./_posts\2024-01-08-my-video-5BbgKb1_b-k.md
+Valid YAML: ./_posts\2024-01-08-my-video-U4oL9uxfkro.md
+Valid YAML: ./_posts\2024-01-09-my-video-hm_DrEwvPrM.md
+Valid YAML: ./_posts\2024-01-09-my-video-nc91zXsQUY8.md
+Valid YAML: ./_posts\2024-01-10-my-video-U7abya2pWVY.md
+Valid YAML: ./_posts\2024-01-10-my-video-Zgm89N8sjU8.md
+Valid YAML: ./_posts\2024-01-11-my-video--hMQW4DG23c.md
+Valid YAML: ./_posts\2024-01-11-my-video-j3ZaztJuP4s.md
+Valid YAML: ./_posts\2024-01-11-my-video-KGtAzN8wjRI.md
+Valid YAML: ./_posts\2024-01-11-my-video-OfIgs9WS0_k.md
+Valid YAML: ./_posts\2024-01-11-my-video-oHQDJI1D2k8.md
+Valid YAML: ./_posts\2024-01-11-my-video-xkmp2tp-3jM.md
+Valid YAML: ./_posts\2024-01-11-my-video-_xNUhejdh1o.md
+Valid YAML: ./_posts\2024-01-12-my-video-60RWJPQiURk.md
+Valid YAML: ./_posts\2024-01-12-my-video-rRMs1rNv6GQ.md
+Valid YAML: ./_posts\2024-01-13-my-video--E3OjBRVY4M.md
+Valid YAML: ./_posts\2024-01-13-my-video-2PgF5Iavcbo.md
+Valid YAML: ./_posts\2024-01-13-my-video-JZSOigMI324.md
+Valid YAML: ./_posts\2024-01-13-my-video-N09qfLpFp3c.md
+Valid YAML: ./_posts\2024-01-13-my-video-WlVJ8cGav2U.md
+Valid YAML: ./_posts\2024-01-13-my-video-XmZjfyCQPSk.md
+Valid YAML: ./_posts\2024-01-14-my-video-3R3EdCIyin4.md
+Valid YAML: ./_posts\2024-01-14-my-video-7vbbB1_qmFk.md
+Valid YAML: ./_posts\2024-01-14-my-video-mPl34Be3UcU.md
+Valid YAML: ./_posts\2024-01-14-my-video-N29Jo2LxL9Q.md
+Valid YAML: ./_posts\2024-01-14-my-video-p6jru5TYoWE.md
+Valid YAML: ./_posts\2024-01-15-my-video-4moSucZZDL8.md
+Valid YAML: ./_posts\2024-01-15-my-video-LunwdjVTtUk.md
+Valid YAML: ./_posts\2024-01-15-my-video-PTm-x0-NGIM.md
+Valid YAML: ./_posts\2024-01-16-my-video-1jn8-MyYdfc.md
+Valid YAML: ./_posts\2024-01-16-my-video-AGY9KqfasXc.md
+Valid YAML: ./_posts\2024-01-16-my-video-bEa_16Wy5Xo.md
+Valid YAML: ./_posts\2024-01-16-my-video-qKTrQkB2Rq0.md
+Valid YAML: ./_posts\2024-01-19-my-video-IkA_HMKTowI.md
+Valid YAML: ./_posts\2024-01-19-my-video-N48bzSRBdnA.md
+YAML Error in ./_posts\2024-01-20-my-video-a0oc5haZCNY.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 낙인 티아라멘츠 vs 스케어클로 마나둠: 아나콘다로 날먹하 ... 
+                    ^
+Valid YAML: ./_posts\2024-01-20-my-video-RSRpTZqsalo.md
+YAML Error in ./_posts\2024-01-20-my-video-vtkNRFJF5S0.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 낙인 티아라멘츠 vs 60 낙인: 19900
+                    ^
+YAML Error in ./_posts\2024-01-21-my-video-qC65yNZBhNs.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 크샤트리라 마나둠 티아라멘츠 vs 마나둠 티아라멘츠: 자강두천
+                    ^
+YAML Error in ./_posts\2024-01-21-my-video-WTiT4B4QJng.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 낙인 티아라멘츠 vs 초중 상검
+                    ^
+YAML Error in ./_posts\2024-01-21-my-video-_C_gXmbJiR8.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 크샤트리라 마나둠 티아라멘츠 vs 60 언데드
+                    ^
+YAML Error in ./_posts\2024-01-22-my-video-LVAwiWwX7Ts.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 테마 클로니클 고티스 vs 세피라
+                    ^
+YAML Error in ./_posts\2024-01-22-my-video-nloaX3sDP58.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 낙인 티아라멘츠 vs 히어로 티아라멘츠: 상대의 덱을 보고 ... 
+                    ^
+YAML Error in ./_posts\2024-01-23-my-video-2gFr5ICPBLQ.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 낙인 티아라멘츠 vs 60 낙인
+                    ^
+YAML Error in ./_posts\2024-01-23-my-video-M94uPVMw7iE.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 마나둠 티아라멘츠 vs 낙인
+                    ^
+YAML Error in ./_posts\2024-01-23-my-video-MpchJD3u4vM.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 마나둠 티아라멘츠 vs 엑소시스터
+                    ^
+YAML Error in ./_posts\2024-01-23-my-video-wl0pdRSPikY.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 마나둠 티아라멘츠 vs 낙인 스케어클로
+                    ^
+YAML Error in ./_posts\2024-01-24-my-video-AFnLcDIaH0A.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 카르테시아 티아라멘츠 vs 초중무사
+                    ^
+YAML Error in ./_posts\2024-01-24-my-video-UTCK-bi_BF8.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 카르테시아 티아라멘츠 vs 용기사P: 결과물이 궁금해서 전 ... 
+                    ^
+YAML Error in ./_posts\2024-01-25-my-video-4ZwPKUvhDQ0.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 카르테시아 티아라멘츠 vs R-ACE
+                    ^
+YAML Error in ./_posts\2024-01-25-my-video-fhA5ecGB5WM.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs P.U.N.K.
+                    ^
+YAML Error in ./_posts\2024-01-25-my-video-wqif93FUTBM.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 카르테시아 티아라멘츠 vs 크샤트리라
+                    ^
+YAML Error in ./_posts\2024-01-25-my-video-Ya5dlE3E_xw.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 매크로 박제용
+                    ^
+YAML Error in ./_posts\2024-01-26-my-video-dn7WOOnQPr8.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 낙인 티아라멘츠 vs 60 낙인: 기믹 퍼핏-나이트메어 발사
+                    ^
+YAML Error in ./_posts\2024-01-26-my-video-GwhnYe2_jG0.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 낙인 티아라멘츠 vs 라뷰린스
+                    ^
+YAML Error in ./_posts\2024-01-28-my-video-CXsPN-S2A0w.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 낙인 티아라멘츠 vs 엔디미온
+                    ^
+YAML Error in ./_posts\2024-01-28-my-video-NF2Qxn_gl8E.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 낙인 티아라멘츠 vs 참기
+                    ^
+YAML Error in ./_posts\2024-01-28-my-video-vW1qsrOhYhY.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 마나둠 티아라멘츠 vs 60 낙인
+                    ^
+YAML Error in ./_posts\2024-01-28-my-video-ZL6bXkljKt8.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 마나둠 티아라멘츠 vs 라뷰린스
+                    ^
+YAML Error in ./_posts\2024-01-28-my-video-ztM_K0Dm71c.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 낙인 티아라멘츠 vs 60 라뷰린스
+                    ^
+YAML Error in ./_posts\2024-01-28-my-video-_ji1CLVA12g.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 낙인 티아라멘츠 vs 낙인: 비스테드 빔 맞고 쭈글쭈글해진 ... 
+                    ^
+YAML Error in ./_posts\2024-01-30-my-video-6bMpbFkAC4s.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 마나둠 티아라멘츠 vs 크샤트리라 티아라멘츠
+                    ^
+YAML Error in ./_posts\2024-01-30-my-video-7EeChakXjK0.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 낙인 티아라멘츠 vs 7축 티아라멘츠
+                    ^
+YAML Error in ./_posts\2024-01-30-my-video-iMTMep_VYr0.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 낙인 티아라멘츠 vs 충혹마
+                    ^
+YAML Error in ./_posts\2024-01-30-my-video-LuAVYKNGbgE.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 마나둠 티아라멘츠 vs 육화: 전개 연습중
+                    ^
+YAML Error in ./_posts\2024-01-30-my-video-TqpQyn4UFIU.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 낙인 티아라멘츠 vs 낙인
+                    ^
+YAML Error in ./_posts\2024-02-01-my-video-AlGjFxdhAxU.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 낙인 티아라멘츠 vs 공룡
+                    ^
+YAML Error in ./_posts\2024-02-01-my-video-WL8DXkwuaqY.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 낙인 티아라멘츠 vs 60 하이드랜더: 사실상 나의 패배
+                    ^
+YAML Error in ./_posts\2024-02-02-my-video-mlZsoYrwUww.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 마나둠 티아라멘츠 vs 라뷰린스
+                    ^
+YAML Error in ./_posts\2024-02-02-my-video-TCbY8KlaOSc.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 낙인 티아라멘츠 vs 낙인: 충격적인 결말
+                    ^
+YAML Error in ./_posts\2024-02-02-my-video-TnF-LpO4TB8.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 낙인 티아라멘츠 vs 마술사
+                    ^
+YAML Error in ./_posts\2024-02-02-my-video-UxdjUfSpiTI.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 낙인 티아라멘츠 vs 메타비트
+                    ^
+YAML Error in ./_posts\2024-02-03-my-video-LgB7DEdgS2Q.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 낙인 티아라멘츠 vs VS: 어트 맞음 어트캄?
+                    ^
+YAML Error in ./_posts\2024-02-03-my-video-oBuJhn4QdC0.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 낙인 티아라멘츠 vs 60 낙인
+                    ^
+YAML Error in ./_posts\2024-02-04-my-video-48802hpPmSQ.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 낙인 티아라멘츠 vs 60 낙인: 낙인이 굴리기 어렵긴 하지
+                    ^
+YAML Error in ./_posts\2024-02-04-my-video-UgzypPSz7Qs.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 낙인 티아라멘츠 vs 스케어클로 마나둠
+                    ^
+YAML Error in ./_posts\2024-02-04-my-video-vucLS-I5zkM.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 낙인 티아라멘츠 미러매치
+                    ^
+YAML Error in ./_posts\2024-02-05-my-video-7QzKB51cgvA.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 60 낙인: 살로니르와 초융합의 대결
+                    ^
+YAML Error in ./_posts\2024-02-05-my-video-dRD9Zm2JcA4.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 라뷰린스
+                    ^
+YAML Error in ./_posts\2024-02-06-my-video-b9AYG0sAmV0.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠(선) vs 라뷰린스(후): 라뷰랑 7턴 동안 듀얼함
+                    ^
+YAML Error in ./_posts\2024-02-06-my-video-D1Wt9rKQON0.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 참기: 티아라를 좋아하는 이유는
+                    ^
+YAML Error in ./_posts\2024-02-06-my-video-TTaJrLPuTZ4.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 60 낙인: 초융합의 기적
+                    ^
+YAML Error in ./_posts\2024-02-06-my-video-ZItMlKRsdoI.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠(후) vs 60 낙인(선)
+                    ^
+YAML Error in ./_posts\2024-02-07-my-video-WNX2JsPKp00.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠(선) vs 크샤트리라(후)
+                    ^
+YAML Error in ./_posts\2024-02-08-my-video-82_nkg_g7wA.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠(후) vs 60 용사 스프라이트(선)
+                    ^
+YAML Error in ./_posts\2024-02-08-my-video-BmYcdqnvLWY.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠(선) vs VS(후)
+                    ^
+YAML Error in ./_posts\2024-02-08-my-video-f6xlG7IA_zE.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠(선) vs 60 낙인(후)
+                    ^
+YAML Error in ./_posts\2024-02-08-my-video-XAW20Ymbn2k.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠(후) vs 낙인(선): 초융합 2장의 기적
+                    ^
+YAML Error in ./_posts\2024-02-11-my-video-1nECHx7JVJo.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 마나둠 티아라멘츠(후) vs 60 낙인(선): 역시 상대  ... 
+                    ^
+YAML Error in ./_posts\2024-02-11-my-video-ftDufaOw1cs.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠(선) vs 스네이크 아이(후): 화염 카르텔의  ... 
+                    ^
+YAML Error in ./_posts\2024-02-11-my-video-PgZl0rTEr1w.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠(후) vs 스네이크 아이(선)
+                    ^
+YAML Error in ./_posts\2024-02-11-my-video-YOxaQQJG9-E.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 마나둠 티아라멘츠(선) vs 낙인(후): 마나둠 티아라멘츠 ... 
+                    ^
+YAML Error in ./_posts\2024-02-12-my-video-_oa3lvw1V5M.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 마나둠 티아라멘츠(선) vs 낙인(후): 마나둠 티아라멘츠 ... 
+                    ^
+YAML Error in ./_posts\2024-02-13-my-video-imluz6DIudY.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠(후) vs 스네이크 아이(선)
+                    ^
+YAML Error in ./_posts\2024-02-14-my-video-nEApqwshOG4.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 샐러맨그레이트(후) vs 시계신 번(선): 레전드 엔솔로지
+                    ^
+YAML Error in ./_posts\2024-02-14-my-video-PHPWgHweT3s.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠(후) vs 참기(선): 마1 승급전
+                    ^
+YAML Error in ./_posts\2024-02-14-my-video-vnZGkzGl-lo.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠(후) vs 마나둠 티아라멘츠(선)
+                    ^
+YAML Error in ./_posts\2024-02-15-my-video-yrMmOMJhsEI.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 죄보 티아라멘츠(선) vs 메타비트(후): 죄보 티아라멘츠 ... 
+                    ^
+YAML Error in ./_posts\2024-02-16-my-video-GwJmQHw3rQc.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠(후) vs VS(선)
+                    ^
+YAML Error in ./_posts\2024-02-16-my-video-Hq2B0Jg3Kac.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠(선) vs 초중무사(후)
+                    ^
+YAML Error in ./_posts\2024-02-16-my-video-mTmWeHwHJbs.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 죄보 티아라멘츠(후) vs 스네이크아이(선)
+                    ^
+YAML Error in ./_posts\2024-02-16-my-video-uBm7WWFDDEM.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠(후) vs R-ACE(선)
+                    ^
+YAML Error in ./_posts\2024-02-17-my-video-krGpqdrJUM4.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 죄보 티아라멘츠(선) vs 마나둠 티아라멘츠(후): 죄보  ... 
+                    ^
+YAML Error in ./_posts\2024-02-17-my-video-LNfbOJ38Bbs.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠(후) vs 참기(선): 참기 전개를 구경하는 영상
+                    ^
+YAML Error in ./_posts\2024-02-17-my-video-OgeqOW1Kx9Q.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 미러매치
+                    ^
+YAML Error in ./_posts\2024-02-18-my-video-eZ56dmlri1Y.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠(선) vs 엑소시스터(후): 한 턴에 아르테미트 ... 
+                    ^
+YAML Error in ./_posts\2024-02-18-my-video-spO7yQwzM0w.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 죄보 티아라멘츠(선) vs 죄보 스네이크아(후): 죄보 티 ... 
+                    ^
+YAML Error in ./_posts\2024-02-18-my-video-veZd_Qj-h8Y.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠(후) vs 죄보 스네이크아이(선)
+                    ^
+YAML Error in ./_posts\2024-02-20-my-video-PXNdnnDNQ6s.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 죄보 티아라멘츠(선) vs 섬도희(후)
+                    ^
+YAML Error in ./_posts\2024-02-20-my-video-ytXPQDCar-k.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 죄보 티아라멘츠(선) vs 죄보 오르페골(후)
+                    ^
+YAML Error in ./_posts\2024-02-21-my-video-KcWhOIAABco.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 파병 티아라멘츠(후) vs 십이수(선)
+                    ^
+YAML Error in ./_posts\2024-02-21-my-video-rRAl6UeOio0.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 파병 티아라멘츠(후) vs 상검(선): 티아라멘츠를 굴리면 ... 
+                    ^
+YAML Error in ./_posts\2024-02-21-my-video-SOVOk5aAw0w.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 파병 티아라멘츠(후) vs 스네이크아이(선)
+                    ^
+YAML Error in ./_posts\2024-02-22-my-video-4SnFsYR41JY.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 레볼싱 티아라멘츠(선) vs 번(후)
+                    ^
+YAML Error in ./_posts\2024-02-22-my-video-iEJ66rPD9dI.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 파병 티아라멘츠(선) vs 마술사(후)
+                    ^
+YAML Error in ./_posts\2024-02-22-my-video-_2Bx6eJ7Vfg.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 마나둠 티아라멘츠(선) vs 파괴수 카구야(후): 어트랙터 ... 
+                    ^
+YAML Error in ./_posts\2024-02-23-my-video-yHb9rnNl9GM.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 파병 티아라멘츠(후) vs 마나둠(선)
+                    ^
+YAML Error in ./_posts\2024-02-24-my-video-s0OUBR6tXDo.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 파병 티아라멘츠(후) vs 죄보 스네이크아이(선): 상대  ... 
+                    ^
+YAML Error in ./_posts\2024-02-24-my-video-T_b59exQ7AQ.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 파병 티아라멘츠(후) vs 샐러맨그레이트(선): 한 듀얼에 ... 
+                    ^
+YAML Error in ./_posts\2024-02-25-my-video-DthS4AgG-Ic.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 파병 티아라멘츠(선) vs 라뷰린스(후)
+                    ^
+YAML Error in ./_posts\2024-02-26-my-video-1gp6lMYLgeM.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 파병 티아라멘츠(선) vs 죄보 용사 티아라멘츠(후)
+                    ^
+YAML Error in ./_posts\2024-02-26-my-video-FgGB9a5XL1g.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 파병 티아라멘츠(선) vs 천위 상검(후)
+                    ^
+YAML Error in ./_posts\2024-02-27-my-video-h14xPuHzCDM.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 파병 티아라멘츠(선) vs 마나둠 티아라멘츠(후)
+                    ^
+YAML Error in ./_posts\2024-02-27-my-video-MsY-OzpUNcA.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 파병 티아라멘츠(선) vs 60 낙인 티아라멘츠(후)
+                    ^
+YAML Error in ./_posts\2024-02-28-my-video-acC31u-xTYI.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠(후) vs 마나둠 티아라멘츠(선): 키토칼로스가 2장!
+                    ^
+YAML Error in ./_posts\2024-02-28-my-video-ZGXwDRdeNe4.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠(선) vs 라뷰린스(후)
+                    ^
+YAML Error in ./_posts\2024-02-29-my-video-4RrGZ6o321k.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠(선) vs 죄보 티아라멘츠(후)
+                    ^
+YAML Error in ./_posts\2024-02-29-my-video-X0k7WwfdAXc.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠(후) vs 의식 드래그마(선): 엑스트라 덱의  ... 
+                    ^
+YAML Error in ./_posts\2024-03-01-my-video-MkbBtwTRVrg.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 마나둠 티아라멘츠(후) vs 히어로(선)
+                    ^
+YAML Error in ./_posts\2024-03-01-my-video-z7I8vHuk24Y.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠(후) vs 스케어클로 마나둠(선)
+                    ^
+YAML Error in ./_posts\2024-03-02-my-video-aAHrrb6ilPk.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 파병 티아라멘츠(후) vs 불꽃성기사(선): 3월 스탠다드 ... 
+                    ^
+YAML Error in ./_posts\2024-03-02-my-video-Kfa-n0q-YmE.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 파병 티아라멘츠 vs 크샤트리라, 스네이크아이, 스네이크아이
+                    ^
+YAML Error in ./_posts\2024-03-02-my-video-ZJCEZUK9QsY.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 파병 티아라멘츠(후) vs 초중무사(선): 캘러미티 발사  ... 
+                    ^
+YAML Error in ./_posts\2024-03-03-my-video-8E1lXqNiqdg.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 파병 티아라멘츠 vs 라뷰린스, 스네이크아이, 스네이크아이
+                    ^
+YAML Error in ./_posts\2024-03-03-my-video-FaBk1RHtOKw.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 파병 티아라멘츠 vs 낙인, 후완다리즈, 라뷰린스
+                    ^
+YAML Error in ./_posts\2024-03-04-my-video-hTjNQTRQlCY.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 미계역 티아라멘츠 vs 스네이크아이, R-ACE: 듀얼은 대화
+                    ^
+YAML Error in ./_posts\2024-03-04-my-video-wkj8OopXSF8.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 미계역 티아라멘츠 vs 천위 상검, 스네이크아이2
+                    ^
+YAML Error in ./_posts\2024-03-05-my-video-fq6Y_U5jIj8.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 미계역 티아라멘츠 vs 천위 상검, 후완다리즈, 참기, 미캉코
+                    ^
+YAML Error in ./_posts\2024-03-05-my-video-U_kEXGRkBCs.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 레볼싱 티아라멘츠 vs 초중무사, 참기, 낙인
+                    ^
+YAML Error in ./_posts\2024-03-05-my-video-z1jVKFXrKT0.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 미계역 티아라멘츠 vs 라뷰린스, VS
+                    ^
+YAML Error in ./_posts\2024-03-06-my-video-kymI4anuBB0.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 레볼싱 티아라멘츠 vs 스네이크아이2, VS
+                    ^
+YAML Error in ./_posts\2024-03-06-my-video-xolv_PfzL4I.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 미계역 티아라멘츠 vs 참기, 스네이크아이
+                    ^
+YAML Error in ./_posts\2024-03-07-my-video-0jlsfjD-nq8.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 레볼싱 티아라멘츠 vs 스네이크아이, 참기, 스네이크아이 주안
+                    ^
+YAML Error in ./_posts\2024-03-07-my-video-GgH7d2xkUbE.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 레볼싱 티아라멘츠 vs 메타비트, 히어로, BF, 참기:  ... 
+                    ^
+YAML Error in ./_posts\2024-03-08-my-video-23pf_8xpjfk.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 파병 티아라멘츠 vs 스네이크아이, 라뷰린스,후완다리즈:  ... 
+                    ^
+YAML Error in ./_posts\2024-03-08-my-video-Kpfgvree1r0.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 파병 티아라멘츠 vs 메타비트, 스네이크아이, 초중무사,  ... 
+                    ^
+YAML Error in ./_posts\2024-03-09-my-video-4IB1rQZqDnI.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 레볼싱 티아라멘츠 vs 크샤트리라, 라뷰린스, 후완다리즈, ... 
+                    ^
+YAML Error in ./_posts\2024-03-09-my-video-bzkhZHsqHEw.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 레볼싱 티아라멘츠 vs 낙인, 크샤트리라 티아라멘츠, 스네 ... 
+                    ^
+YAML Error in ./_posts\2024-03-09-my-video-uPrDz9fmOgc.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 파병, 레볼싱 티아라멘츠 vs 60 낙인2, 레드 데몬,  ... 
+                    ^
+YAML Error in ./_posts\2024-03-10-my-video-3GE2QSwk_FY.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 레볼싱 티아라멘츠 vs 레볼싱 티아라멘츠, 미캉코, 라뷰린스
+                    ^
+YAML Error in ./_posts\2024-03-10-my-video-OCqvXLkQBnE.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 레볼싱 티아라멘츠 vs 라뷰린스, 스네이크아이, 참기, 크 ... 
+                    ^
+YAML Error in ./_posts\2024-03-11-my-video-EM2h3bBySzA.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 레볼싱 티아라멘츠 vs 스네이크아이2, 스프라이트 이빌트윈
+                    ^
+YAML Error in ./_posts\2024-03-11-my-video-WzF46xq8psY.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 낙인, 스네이크아이: 나이트메어 발사!
+                    ^
+YAML Error in ./_posts\2024-03-12-my-video-BFIVPsQttiU.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 티아라멘츠, 용사 레볼싱 티아라멘츠, 크샤 ... 
+                    ^
+YAML Error in ./_posts\2024-03-12-my-video-etsaCKbi310.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 라뷰린스, 마나둠, 낙인, 60 낙인 티아 ... 
+                    ^
+YAML Error in ./_posts\2024-03-13-my-video-aFESJFz3WD0.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 레볼싱 티아라멘츠 vs 스테이크아이, VS, 트랜잭션 티아라멘츠
+                    ^
+YAML Error in ./_posts\2024-03-13-my-video-kiuZoC3j4kQ.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 레볼싱 티아라멘츠 vs 충혹마, 레볼싱 티아라멘츠, 스네이크아이
+                    ^
+YAML Error in ./_posts\2024-03-14-my-video-Szcu2wouTeA.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 파병 티아라멘츠 vs 60 낙인, BF, 스네이크아이, 티 ... 
+                    ^
+YAML Error in ./_posts\2024-03-15-my-video-Tw-F0w5qXis.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 파병 티아라멘츠 vs 히어로, 낙인, 레드 데몬[듀얼리스트 컵]
+                    ^
+YAML Error in ./_posts\2024-03-16-my-video-8DH9ZN-2cPQ.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 파병 티아라멘츠 vs 스네이크아이, 십이수 크샤트리라 [듀 ... 
+                    ^
+YAML Error in ./_posts\2024-03-17-my-video-oQhH7eOV1Ec.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 파병 티아라멘츠 vs 라뷰린스, 티스티나, 스네이크아이:  ... 
+                    ^
+YAML Error in ./_posts\2024-03-17-my-video-UsayAlhztQw.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 파병 티아라멘츠 vs 60 낙인, 초중무사, 참기: 초중이 ... 
+                    ^
+YAML Error in ./_posts\2024-03-18-my-video-C9EN_-tVgrI.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 파병 티아라멘츠 vs 크샤트리라, 죄보 티아라멘츠, 라뷰린 ... 
+                    ^
+YAML Error in ./_posts\2024-03-19-my-video--dZ7z5w4FWQ.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 레볼싱 티아라멘츠 vs  메타비트, 초중무사, 이빌트윈[듀 ... 
+                    ^
+YAML Error in ./_posts\2024-03-20-my-video-FWrlT0mMeAw.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 롤백 티아라멘츠 vs 네무렐리아, 참기
+                    ^
+YAML Error in ./_posts\2024-03-20-my-video-oJHMp6Ys66I.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 롤백 티아라멘츠 vs 미계역 티아라멘츠, 60 낙인 티아라 ... 
+                    ^
+YAML Error in ./_posts\2024-03-21-my-video-9U42SY_oTFk.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 롤백 티아라멘츠 vs 스네이크아이
+                    ^
+YAML Error in ./_posts\2024-03-21-my-video-WFvZ0ZyQ2uw.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 롤백 티아라멘츠 vs 스네이크아이, 낙인, 다이놀피어
+                    ^
+YAML Error in ./_posts\2024-03-22-my-video-s0qLJEaQRXk.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 크샤트리라 티아라멘츠 vs 용사 프랭키즈, 크샤트리라 스네 ... 
+                    ^
+YAML Error in ./_posts\2024-03-23-my-video-JzWcp5Ir34U.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 크샤트리라 티아라멘츠 vs 크샤트리라 스네이크아이
+                    ^
+YAML Error in ./_posts\2024-03-23-my-video-ojGZ9ZM3wxQ.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 크샤트리라 티아라멘츠 vs 스네이크아이
+                    ^
+YAML Error in ./_posts\2024-03-24-my-video-eXQ1SazKBcY.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 파병 티아라멘츠 vs 60 낙인 [듀얼리스트 컵]
+                    ^
+YAML Error in ./_posts\2024-03-24-my-video-RNGsHtJBJCc.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 크샤트리라 티아라멘츠 vs 라뷰린스, 크샤트리라 스네이크아 ... 
+                    ^
+YAML Error in ./_posts\2024-03-25-my-video-yNNQwgopoWM.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 파병 티아라멘츠 vs 마나둠 티아라멘츠, 크샤트리라, 스네 ... 
+                    ^
+YAML Error in ./_posts\2024-03-26-my-video-8pyCKy9wPwA.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 스네이크아이, VS, 라뷰린스
+                    ^
+YAML Error in ./_posts\2024-03-27-my-video-6qUSW5Q7xHU.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 참기, 크샤트리라 스네이크아이, 스프라이트
+                    ^
+YAML Error in ./_posts\2024-03-28-my-video-NmHLCnUYCyo.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 크샤트리라 티아라멘츠 vs 라뷰린스, 십이수
+                    ^
+YAML Error in ./_posts\2024-03-30-my-video-gkSPtVt05PI.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 크샤트리라 티아라멘츠, 크샤트리라 스네이크 ... 
+                    ^
+YAML Error in ./_posts\2024-03-31-my-video-F7Iq64WkVXc.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 레볼싱 티아라멘츠 vs 크샤트리라 스네이크아이(선)
+                    ^
+YAML Error in ./_posts\2024-03-31-my-video-FUsrxiEbdUE.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 마신왕 티아라멘츠 vs 크샤트리라 스네이크아이, 라뷰린스, ... 
+                    ^
+YAML Error in ./_posts\2024-04-01-my-video-9nB1qvcOnE0.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 레볼싱 티아라멘츠 vs 드라이트론, 크샤트리라 스네이크아이 ... 
+                    ^
+YAML Error in ./_posts\2024-04-01-my-video-H-MPTIk8V5U.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 레볼싱 티아라멘츠 vs 스네이크아이, 라뷰린스, 리추어 스프라이트
+                    ^
+YAML Error in ./_posts\2024-04-03-my-video-vy2cHaiFA90.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 파병 티아라멘츠 vs 언체인드, 라뷰린스
+                    ^
+YAML Error in ./_posts\2024-04-04-my-video-k5AqgsMEHPI.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 소환수 GS, 엑소시스터, LL 트라이브리게이드
+                    ^
+YAML Error in ./_posts\2024-04-04-my-video-sB3Hh3-xYck.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 티아라멘츠, 후완다리즈 [듀얼 트라이얼:  ... 
+                    ^
+YAML Error in ./_posts\2024-04-06-my-video-C5bgNtU6dmY.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 섬도희, 크샤트리라 스네이크아이, 참기, 미캉코
+                    ^
+YAML Error in ./_posts\2024-04-07-my-video-bygxgSC4IgQ.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 티아라멘츠, 레볼싱 티아라멘츠, 낙인 티아 ... 
+                    ^
+YAML Error in ./_posts\2024-04-07-my-video-k27E4vKt_4s.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 참기, LL 트라이브리게이드
+                    ^
+YAML Error in ./_posts\2024-04-07-my-video-sJVPBhYn5v4.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 크샤트리라 스네이크아이, 초중무사, 크샤트 ... 
+                    ^
+YAML Error in ./_posts\2024-04-08-my-video-mHu3PAVS-9Y.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 암흑계 티아라멘츠 vs 티아라멘츠, 참기
+                    ^
+YAML Error in ./_posts\2024-04-09-my-video-Nanr8WbRb_s.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 암흑계 티아라멘츠 vs 라뷰린스, 스네이크아이, 비스테드  ... 
+                    ^
+YAML Error in ./_posts\2024-04-10-my-video-eBqKgzJY7O0.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 암흑계 티아라멘츠 vs 스네이크아이, 티아라멘츠
+                    ^
+YAML Error in ./_posts\2024-04-11-my-video-78Rx3BlcXqI.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 삼사라 티아라멘츠 vs 리추어 스프라이트, 루닉, 라뷰린스
+                    ^
+YAML Error in ./_posts\2024-04-11-my-video-M9yqoUpd4V4.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 암흑계 티아라멘츠 vs 나츄르 루닉, 크샤트리라 스네이크아 ... 
+                    ^
+YAML Error in ./_posts\2024-04-12-my-video-CzdZtx3Zyjc.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 삼사라 티아라멘츠 vs 퓨어리, 미캉코, 버스터 블레이더, 키메라
+                    ^
+YAML Error in ./_posts\2024-04-13-my-video-WOVGbv4vgnM.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 크샤트리라 스네이크아이, 초중무사, 라뷰린스
+                    ^
+YAML Error in ./_posts\2024-04-14-my-video-NotXEI6McA0.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 삼사라 티아라멘츠 vs 키메라, 60 용사GS, 스네이크아이
+                    ^
+YAML Error in ./_posts\2024-04-15-my-video-5jgEnzmeANc.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 삼사라 티아라멘츠 vs 미캉코, R-ACE, 라뷰린스
+                    ^
+YAML Error in ./_posts\2024-04-16-my-video-Y40Ej6HK-88.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 삼사라 티아라멘츠 vs 크샤트리라 스네이크아이, 라뷰린스, ... 
+                    ^
+YAML Error in ./_posts\2024-04-17-my-video-kr89TumeAjU.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 마나둠, R-ACE
+                    ^
+YAML Error in ./_posts\2024-04-18-my-video-iyrS9qzsQVY.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 스네이크아이, 크샤트리라
+                    ^
+YAML Error in ./_posts\2024-04-19-my-video-zBSverP8vTE.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 파병 티아라멘츠 vs 샤크 크샤트리라, 레드 데몬, 천위  ... 
+                    ^
+YAML Error in ./_posts\2024-04-20-my-video-aH0zgy0gJ3o.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs R-ACE
+                    ^
+YAML Error in ./_posts\2024-04-21-my-video-DO6AoHzACbI.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 낙인, 스네이크아이, 60 인페르노이드
+                    ^
+YAML Error in ./_posts\2024-04-21-my-video-mLcss62CvQ4.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 참기, 키메라, 후완다리즈, 스네이크아이
+                    ^
+YAML Error in ./_posts\2024-04-22-my-video-NyvemCHgWUw.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 60 티아라멘츠 퓨어리, 퓨어리, 미캉코
+                    ^
+YAML Error in ./_posts\2024-04-23-my-video-bVz14N-xK8c.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 미계역 티아라멘츠 vs 라뷰린스, 메타비트, 스네이크아이, ... 
+                    ^
+YAML Error in ./_posts\2024-04-24-my-video-GQ66jGd_2E4.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 미계역 티아라멘츠 vs 티아라멘츠, 스네이크아이
+                    ^
+YAML Error in ./_posts\2024-04-24-my-video-mayA6EKCh-U.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 미계역 티아라멘츠 vs 상검, 얼터가이스트, 낙인 루닉
+                    ^
+YAML Error in ./_posts\2024-04-25-my-video-LFnwlITKsX4.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 미캉코, 후완다리즈, 스네이크아이
+                    ^
+YAML Error in ./_posts\2024-04-26-my-video-5gkl9v5ifbA.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 라뷰린스, R-ACE
+                    ^
+YAML Error in ./_posts\2024-04-28-my-video-7N3oT7DGFk8.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 미계역 티아라멘츠 vs 퓨어리, 의식 드래그마, 키메라 티 ... 
+                    ^
+YAML Error in ./_posts\2024-04-28-my-video-aJHyCrlsQlA.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 티아라멘츠, R-ACE
+                    ^
+YAML Error in ./_posts\2024-04-29-my-video-Zq_UGyUAYuo.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 천위 상검, 퓨어리
+                    ^
+YAML Error in ./_posts\2024-04-30-my-video-QHR_FGIuBWc.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 삼사라 티아라멘츠 vs 엑소시스터, 언체인드, 얼터가이스트 ... 
+                    ^
+YAML Error in ./_posts\2024-04-30-my-video-QXP_V7kef6o.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 삼사라 티아라멘츠 vs 낙인 키메라, 언체인드 라뷰린스, 참기
+                    ^
+YAML Error in ./_posts\2024-05-01-my-video-ft0-zpaqr9s.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 후완다리즈, R-ACE, 참기, 라뷰린스
+                    ^
+YAML Error in ./_posts\2024-05-02-my-video-aW5Vfuwseyc.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 언체인드, 크샤트리라 메타비트, 60 싱크로 GS
+                    ^
+YAML Error in ./_posts\2024-05-03-my-video-4NoTQVyfdik.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 크샤트리라, 참기
+                    ^
+YAML Error in ./_posts\2024-05-03-my-video-UdQ2Z7IfImM.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 크샤트리라 티아라멘츠, 파병 티아라멘츠,  ... 
+                    ^
+YAML Error in ./_posts\2024-05-04-my-video-suGtiy3MuYQ.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 미캉코
+                    ^
+YAML Error in ./_posts\2024-05-04-my-video-Y4aEqTlB3Nc.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 나이트메어 데몬즈 티아라멘츠
+                    ^
+YAML Error in ./_posts\2024-05-05-my-video-k8cRSuZ12gk.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 스네이크아이: 한 듀얼에 데스트루도의 효과 ... 
+                    ^
+YAML Error in ./_posts\2024-05-06-my-video-pB0XMiy3rRo.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 키메라
+                    ^
+YAML Error in ./_posts\2024-05-07-my-video-vZLr4K1lY7s.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 티아라멘츠, 60 죄보 퓨어리
+                    ^
+YAML Error in ./_posts\2024-05-08-my-video-vQOiAisMfks.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 라뷰린스, 메타비트, 60 스네이크아이 썬더드래곤
+                    ^
+YAML Error in ./_posts\2024-05-09-my-video-AyPgAF1No5c.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 라뷰린스, 낙인 루닉, 키메라, 언체인드
+                    ^
+YAML Error in ./_posts\2024-05-09-my-video-S8eoGdH7JxY.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 호루스 티아라멘츠 vs 60 다이놀피어, R-ACE, 스네이크아이
+                    ^
+YAML Error in ./_posts\2024-05-10-my-video-YiT5LbfJCx0.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 호루스 티아라멘츠 vs 호루스 티아라멘츠, 라뷰린스
+                    ^
+YAML Error in ./_posts\2024-05-11-my-video-7T0zZUItk1o.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 호루스 티아라멘츠 vs 호루스 티아라멘츠: 케벤세누프의 숨 ... 
+                    ^
+YAML Error in ./_posts\2024-05-11-my-video-B4fbGmV4BQQ.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 호루스 티아라멘츠 vs 호루스 티아라멘츠
+                    ^
+YAML Error in ./_posts\2024-05-11-my-video-laZs4ANweo8.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 호루스 티아라멘츠 vs 60 R-ACE, 낙인
+                    ^
+YAML Error in ./_posts\2024-05-11-my-video-Wdu4p2-7S4c.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 호루스 티아라멘츠 vs 샐러맨그레이트, R-ACE
+                    ^
+YAML Error in ./_posts\2024-05-12-my-video-8tavSC1EaEY.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 호루스 티아라멘츠 vs VS, 60 R-ACE
+                    ^
+YAML Error in ./_posts\2024-05-13-my-video-avuDudtqHkM.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 낙인 티아라멘츠 vs VS, 60 R-ACE
+                    ^
+YAML Error in ./_posts\2024-05-13-my-video-GnyheNhy6ZU.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 호루스 티아라멘츠 vs 호루스 나츄르, 언체인드
+                    ^
+YAML Error in ./_posts\2024-05-13-my-video-uOIDILze5eU.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 호루스 최고의 순간 #shorts
+                    ^
+YAML Error in ./_posts\2024-05-14-my-video-h36iAsBHLsk.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 호루스 티아라멘츠 vs 키메라
+                    ^
+YAML Error in ./_posts\2024-05-15-my-video-IRTokZ0PZHw.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 리미트 원 페스티벌 2024
+                    ^
+YAML Error in ./_posts\2024-05-16-my-video-zOHPzqAM04A.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs R-ACE, 60 낙인 키메라, 레볼싱 티아라멘츠
+                    ^
+YAML Error in ./_posts\2024-05-17-my-video-XEdfbkvZqRQ.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 삼사라 티아라멘츠 vs R-ACE, 60 호루스 용사 팬텀나이트
+                    ^
+YAML Error in ./_posts\2024-05-18-my-video-08JZniSnpiA.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs R-ACE, 호루스 마나둠
+                    ^
+YAML Error in ./_posts\2024-05-19-my-video-ufo94QZQtf8.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 호루스 티아라멘츠 vs 호루스 티아라멘츠, 파괴수 미계역
+                    ^
+YAML Error in ./_posts\2024-05-20-my-video-kR9NLm9SHbg.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 호루스 삼사라 티아라멘츠 vs R-ACE, 스네이크아이, 메멘토
+                    ^
+YAML Error in ./_posts\2024-05-21-my-video-jkaBQNDiHKw.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 퓨전 x 링크 페스티벌 2024
+                    ^
+YAML Error in ./_posts\2024-05-21-my-video-OkNAJ8Dv7lQ.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 링크축 티아라멘츠 vs R-ACE, 스네이크아이, 메멘토
+                    ^
+YAML Error in ./_posts\2024-05-23-my-video-aoFwbKK3omw.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 링크축 티아라멘츠 vs 샐러맨그래이트, 낙인, 용사 전뇌계
+                    ^
+YAML Error in ./_posts\2024-05-24-my-video-HCUNbqV-Sg8.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 호루스 티아라멘츠 vs R-ACE, 샐러맨그레이트, 마신왕 ... 
+                    ^
+YAML Error in ./_posts\2024-05-25-my-video-SS9rGBFER_Q.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 롤백 티아라멘츠, 호루스 티아라멘츠, 스네이크아이
+                    ^
+YAML Error in ./_posts\2024-05-26-my-video-z615qOWeTtQ.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 크샤트리라 티아라멘츠 vs R-ACE, 미캉코
+                    ^
+YAML Error in ./_posts\2024-05-27-my-video-_TJpnfHzCEY.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 호루스 크샤트리라 티아라멘츠 vs 호루스 초중무사, 퓨어리 ... 
+                    ^
+YAML Error in ./_posts\2024-05-28-my-video-0l0HcVF1_1A.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 크샤트리라 티아라멘츠 vs 스네이크아이, 십이수, 샐러맨그레이트
+                    ^
+YAML Error in ./_posts\2024-05-29-my-video-BeAnyU6xTNc.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 크샤트리라 티아라멘츠 vs 후완다리즈, 호루스 비트, 크샤 ... 
+                    ^
+YAML Error in ./_posts\2024-05-30-my-video-f-S4hG8Azic.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 호루스 크샤트리라 티아라멘츠 vs 낙인
+                    ^
+YAML Error in ./_posts\2024-05-31-my-video-puNadQk6zKc.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 호루스 크샤트리라 티아라멘츠 vs 호루스 라, 호루스 나츄 ... 
+                    ^
+YAML Error in ./_posts\2024-06-01-my-video-qOjY50mV-4s.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 용사 호루스, 섬도희, 호루스 티아라멘츠, ... 
+                    ^
+YAML Error in ./_posts\2024-06-02-my-video-Sd2sj14xv1I.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 리추어 스프라이트, R-ACE, 60 낙인 ... 
+                    ^
+YAML Error in ./_posts\2024-06-03-my-video-oc65CJJEJhY.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 크샤트리라 티아라멘츠 vs 메타비트, 호루스 오르페골, 라 ... 
+                    ^
+YAML Error in ./_posts\2024-06-04-my-video-3nYbUwBa1sQ.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 크샤트리라 티아라멘츠 vs 크샤트리라, 스네이크아이, 호루스 비트
+                    ^
+YAML Error in ./_posts\2024-06-05-my-video-KYd_pHaBF_A.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 호루스 티아라멘츠 vs 누메론, R-ACE, 마계극단
+                    ^
+YAML Error in ./_posts\2024-06-06-my-video-LaybThgiCGg.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 호루스 크샤트리라 티아라멘츠 vs 스네이크아이, 엑소시스터 ... 
+                    ^
+YAML Error in ./_posts\2024-06-07-my-video-EryeaFNvFaQ.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 호루스 크샤트리라 티아라멘츠 vs 호루스 비트, 샐러맨그레이트
+                    ^
+YAML Error in ./_posts\2024-06-08-my-video-ppL1e-dSpAA.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 크샤트리라 티아라멘츠 vs 상검, 샐러맨그레이트, 크샤트리 ... 
+                    ^
+YAML Error in ./_posts\2024-06-09-my-video--jfCnCy6fnc.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 크샤트리라 티아라멘츠 vs 샐러맨그레이트, 메타비트, R-ACE
+                    ^
+YAML Error in ./_posts\2024-06-10-my-video-o7XfNAEaIrM.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 크샤트리라 티아라멘츠 vs 샐러맨그레이트, 샤트리라 스네이 ... 
+                    ^
+YAML Error in ./_posts\2024-06-11-my-video-2bD58sekY30.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 크샤트리라 티아라멘츠 vs 스네이크아이 염왕, 크샤트리라, ... 
+                    ^
+YAML Error in ./_posts\2024-06-12-my-video-dMBi__L-lc4.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 크샤트리라 티아라멘츠 vs 바르모니카, 염왕, 호루스 티아 ... 
+                    ^
+YAML Error in ./_posts\2024-06-13-my-video-AeTn-7XojxA.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 크샤트리라 티아라멘츠 vs 크샤트리라 스네이크아이, 패왕  ... 
+                    ^
+YAML Error in ./_posts\2024-06-14-my-video-rf8_Na1vwgw.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 크샤트리라 티아라멘츠 vs 염왕 스네이크아이, 크샤트리라, ... 
+                    ^
+YAML Error in ./_posts\2024-06-15-my-video-Hy2Zun2HBEk.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 크샤트리라 티아라멘츠 vs 용사 호루스 팬텀 나이츠, 염왕 ... 
+                    ^
+YAML Error in ./_posts\2024-06-16-my-video-VUY3YuTcACU.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 크샤트리라 티아라멘츠 vs 티아라멘츠(마1 승급전), 호루 ... 
+                    ^
+YAML Error in ./_posts\2024-06-17-my-video-5GBrzW-V5fg.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 호루스 티아라멘츠 vs 60 용사 호루스 트라이브리게이드  ... 
+                    ^
+YAML Error in ./_posts\2024-06-18-my-video-q5YsZAUNMZ8.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs R-ACE, 호루스 비트
+                    ^
+YAML Error in ./_posts\2024-06-19-my-video-luGqde5qC0w.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 크샤트리라 티아라멘츠 vs 섬도희, 라뷰린스, 바르모니카
+                    ^
+YAML Error in ./_posts\2024-06-20-my-video-KohqpGMY5ag.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 크샤트리라 티아라멘츠 vs R-ACE, 호루스 티아라멘츠, ... 
+                    ^
+YAML Error in ./_posts\2024-06-21-my-video-jEg2UVSARfg.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 크샤트리라 티아라멘츠 vs 스프라이트, 염왕 스네이크아이, 참기
+                    ^
+YAML Error in ./_posts\2024-06-22-my-video-4YHGgLsfUjo.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 크샤트리라 티아라멘츠 vs 섬도희, 샐러맨그레이트, 메타비 ... 
+                    ^
+YAML Error in ./_posts\2024-06-23-my-video-N-iMO-A8Uf8.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 크샤트리라 티아라멘츠 vs R-ACE, 미계역 암흑계, 섬 ... 
+                    ^
+YAML Error in ./_posts\2024-06-24-my-video-sXmPfVmAsjk.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 솜털의 사자와 별의 용 [타임 트래블 2010]
+                    ^
+YAML Error in ./_posts\2024-06-25-my-video-38nu4kWbXiY.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 호루스 크샤트리라 티아라멘츠 vs 후완다리즈, 테라나이트
+                    ^
+YAML Error in ./_posts\2024-06-26-my-video-3-hzPbxFyIA.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 호루스 크샤트리라 티아라멘츠 vs 염왕, 플런드롤, 60  ... 
+                    ^
+YAML Error in ./_posts\2024-06-27-my-video-UjPAlofNcUQ.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 호루스 비트, 문라이트, 염왕: 티아라 금 ... 
+                    ^
+YAML Error in ./_posts\2024-06-28-my-video-Lc0skX8QFqU.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 호루스 티아라멘츠, 마신왕 티아라멘츠, 크샤트리라
+                    ^
+YAML Error in ./_posts\2024-06-29-my-video--SK8GJ-JNGQ.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 참기, 참기, 마나둠, 사이버 드래곤
+                    ^
+YAML Error in ./_posts\2024-06-30-my-video-hq6sZfEVIaI.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 염왕, 호루스FTK, 참기: 염왕과 한 가 ... 
+                    ^
+YAML Error in ./_posts\2024-07-01-my-video-9sa7luCfkN4.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 불꽃성기사, 60 낙인, 크샤트리라
+                    ^
+YAML Error in ./_posts\2024-07-02-my-video-UNZZiE4U89k.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 호루스 티아라멘츠, 이빌트윈 스프라이트,  ... 
+                    ^
+YAML Error in ./_posts\2024-07-03-my-video-PxfafmsY0KM.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 육화, 충혹마, 트릭스터
+                    ^
+YAML Error in ./_posts\2024-07-04-my-video-_cbkKUZCGTQ.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 스네이크아이, R-ACE, 번
+                    ^
+YAML Error in ./_posts\2024-07-05-my-video-ALEMju3Hdlk.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 번, 의식 드래그마, 염왕 스네이크아이 [ ... 
+                    ^
+YAML Error in ./_posts\2024-07-06-my-video-HOac52Rbde8.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 염왕 스네이크아이, R-ACE
+                    ^
+YAML Error in ./_posts\2024-07-07-my-video-QJCNAN2ci1c.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 호루스 P.U.N.K., 메타비트, 60  ... 
+                    ^
+YAML Error in ./_posts\2024-07-08-my-video-vHaCoFqGS8s.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 60 비틀트루퍼, 무한기동
+                    ^
+YAML Error in ./_posts\2024-07-09-my-video-3QQ45qPPqDA.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 60 낙인 섀도르, 퓨어리, 마나둠 티아라멘츠
+                    ^
+YAML Error in ./_posts\2024-07-10-my-video-1Op9q_aHzz0.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 염왕 트라이브리게이드, 언체인드, 60 낙인
+                    ^
+YAML Error in ./_posts\2024-07-11-my-video-5D7Xr9rKzaw.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 센츄리온, 미캉코, 언체인드: 팬텀 오브  ... 
+                    ^
+YAML Error in ./_posts\2024-07-11-my-video-9mhB4YIPt60.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 상검, 라뷰린스, 스네이크아이, 염왕 스네이크아이
+                    ^
+YAML Error in ./_posts\2024-07-13-my-video-wIVoBDPmOug.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 60 낙인 티아라멘츠, 레볼싱 티아라멘츠, ... 
+                    ^
+YAML Error in ./_posts\2024-07-14-my-video-L-KF8ej52rw.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 유벨 티아라멘츠 vs 염왕 스네이크아이, 마나둠
+                    ^
+YAML Error in ./_posts\2024-07-15-my-video-DNxx2fsgfJA.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 유벨 티아라멘츠 vs 센츄리온
+                    ^
+YAML Error in ./_posts\2024-07-16-my-video-c5G-tPlScfU.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 유벨 티아라멘츠 vs 참기, 호루스 비트, 크샤트리라, 60 낙인
+                    ^
+YAML Error in ./_posts\2024-07-17-my-video-FZfl8C865Ow.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 유벨 티아라멘츠 vs 참기, 호루스 비트, 크샤트리라, 60 낙인
+                    ^
+YAML Error in ./_posts\2024-07-18-my-video-GaYPM0Fy3sE.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 유벨, 크샤트리라
+                    ^
+YAML Error in ./_posts\2024-07-21-my-video-Q-ccDpQu4Z4.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 호루스 크샤트리라, 유벨, 누메론
+                    ^
+YAML Error in ./_posts\2024-07-22-my-video-ztYfmkTwQfY.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 패왕 마술사, 60 호루스 유벨 센츄리온  ... 
+                    ^
+YAML Error in ./_posts\2024-07-23-my-video-bd_IWZ1-tdw.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 호루스 키메라, 호루스 퍼니멀, P.U.N ... 
+                    ^
+YAML Error in ./_posts\2024-07-24-my-video-OERwNPBs2Gg.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 참기, 삼사라 참기 센츄리온
+                    ^
+YAML Error in ./_posts\2024-07-25-my-video-p9PWMoKkFjY.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 티아라멘츠, 유벨, 샐러맨그레이트
+                    ^
+YAML Error in ./_posts\2024-07-27-my-video-IU2UDtV90XA.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 센츄리온, 메타비트
+                    ^
+YAML Error in ./_posts\2024-07-28-my-video-DFq8R2FqjBw.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs R-ACE, 루닉, 패왕 마술사, 티아라멘츠
+                    ^
+YAML Error in ./_posts\2024-07-29-my-video-Xvjmu9uwTEM.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 염왕 스네이크아이, 호루스 팬텀나이츠 유벨 ... 
+                    ^
+YAML Error in ./_posts\2024-07-30-my-video-v5v0HMQCwu0.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 호루스 센츄리온, 언체인드 유벨
+                    ^
+YAML Error in ./_posts\2024-07-31-my-video-J24yp4Bu8QA.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 유벨
+                    ^
+YAML Error in ./_posts\2024-08-01-my-video-dofFeDGKyZo.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 염왕, 스프라이트
+                    ^
+YAML Error in ./_posts\2024-08-02-my-video-9-Q4YwT03Po.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 레드 데몬, 후완다리즈, 크샤트리라
+                    ^
+YAML Error in ./_posts\2024-08-05-my-video-w_CE9gRio00.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 호루스 티아라멘츠, 티아라멘츠
+                    ^
+YAML Error in ./_posts\2024-08-06-my-video-xxNWpmgLCB8.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 크샤트리라, 섬도희, 마탄, 번, 라뷰린스
+                    ^
+YAML Error in ./_posts\2024-08-07-my-video-XMRmabPAE00.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 크샤트리라, 섬도희, 마탄, 번, 라뷰린스
+                    ^
+YAML Error in ./_posts\2024-08-08-my-video-n1G4e6FWHnY.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs R-ACE, 라뷰린스, 유벨, 60 초중  ... 
+                    ^
+YAML Error in ./_posts\2024-08-09-my-video-MxzolTBhz98.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 염왕, 스네이크아이
+                    ^
+YAML Error in ./_posts\2024-08-10-my-video-BjZW0mq5r4g.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 60 초중 마제스펙터 펜듈럼, 순성
+                    ^
+YAML Error in ./_posts\2024-08-11-my-video-7MheRtMFgqY.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs TG 스네이크아이, 유벨
+                    ^
+YAML Error in ./_posts\2024-08-12-my-video-NN5qc0T8uaA.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs R-ACE
+                    ^
+YAML Error in ./_posts\2024-08-13-my-video-NDDMc_VGajU.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 순성
+                    ^
+YAML Error in ./_posts\2024-08-14-my-video-VwqPSnm-dJc.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 유벨, 유벨 스프라이트
+                    ^
+YAML Error in ./_posts\2024-08-15-my-video-Fz22o_XPnrI.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 순성: 사엔퍼를 뚫지 못하네
+                    ^
+YAML Error in ./_posts\2024-08-16-my-video-1FeQ261mG14.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 염왕: 서로 초동이 망하면 이렇게 됨
+                    ^
+YAML Error in ./_posts\2024-08-17-my-video-z4P-Xq3v_5g.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 낙인
+                    ^
+YAML Error in ./_posts\2024-08-18-my-video-zXhEmkruql0.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 염왕: 선공에서도 훌륭하게 초동으로 활약하 ... 
+                    ^
+YAML Error in ./_posts\2024-08-19-my-video-mib5nX7MmjM.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 티아라멘츠, 60 호루스 스네이크아이 썬더 ... 
+                    ^
+YAML Error in ./_posts\2024-08-20-my-video-0_XwqTBfEZI.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 센츄리온
+                    ^
+YAML Error in ./_posts\2024-08-21-my-video-472HEZVxIq0.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 루닉, 빙결계, 후완다리즈, 의식 드래그마 ... 
+                    ^
+YAML Error in ./_posts\2024-08-22-my-video-l4Z8bvD7bdo.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 유벨 [레이팅]
+                    ^
+YAML Error in ./_posts\2024-08-23-my-video-oNwm6ruaLmI.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 낙인 [레이팅]
+                    ^
+YAML Error in ./_posts\2024-08-24-my-video-h3KCe7RRXV8.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 크샤트리라 티아라멘츠 vs 염왕, 레볼싱 티아라멘츠, 십이 ... 
+                    ^
+YAML Error in ./_posts\2024-08-25-my-video-pf_aATvMEF0.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 유벨, 센츄리온, 티아라멘츠 [레이팅]:  ... 
+                    ^
+YAML Error in ./_posts\2024-08-26-my-video-OZCVof0cClc.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 스네이크아이, 순성, 염왕, R-ACE [레이팅]
+                    ^
+YAML Error in ./_posts\2024-08-27-my-video-XisScKsyMMg.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 순성, 스네이크아이 [레이팅]: 아나콘다→ ... 
+                    ^
+YAML Error in ./_posts\2024-08-28-my-video-D452lcVugEw.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 스프라이트, 이빌트윈 [레이팅]: 티 폰의 활약
+                    ^
+YAML Error in ./_posts\2024-08-29-my-video-iBq91Ap6Kzw.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 순성 [레이팅]: 증식의 G 착지는 역시 순성
+                    ^
+YAML Error in ./_posts\2024-08-30-my-video-tMWBLLLH-9E.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 60 낙인, 후완다리즈, 티아라멘츠 [레이팅]
+                    ^
+YAML Error in ./_posts\2024-08-31-my-video-Uk-MGpVORkI.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 염왕, 스네이크아이, 스프라이트 [레이팅] ... 
+                    ^
+YAML Error in ./_posts\2024-09-01-my-video-6n_kkHJBBdo.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 유벨, 센츄리온, 순성 [레이팅]
+                    ^
+YAML Error in ./_posts\2024-09-02-my-video-2ZW6S9Z1Vws.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 티아라멘츠, 염왕
+                    ^
+YAML Error in ./_posts\2024-09-03-my-video-6_ZNWVnVQcY.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 유벨
+                    ^
+YAML Error in ./_posts\2024-09-04-my-video-W8sjpF3ijck.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 티아라멘츠: 티아라와 3연속으로 듀얼한 기록
+                    ^
+YAML Error in ./_posts\2024-09-05-my-video-sqHFu-z0nLk.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 순성, 빙결계, 미캉코
+                    ^
+YAML Error in ./_posts\2024-09-06-my-video-oxpoecu5cgI.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 티아라멘츠, 센츄리온
+                    ^
+YAML Error in ./_posts\2024-09-07-my-video-P9K4z1yQwFk.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 염왕, 유벨
+                    ^
+YAML Error in ./_posts\2024-09-08-my-video-rJF5wcniV0E.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 티아라멘츠, 참기, 인페르노이드
+                    ^
+YAML Error in ./_posts\2024-09-09-my-video--R6f2zTzY8E.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 순성
+                    ^
+YAML Error in ./_posts\2024-09-10-my-video-tzczC9L1lJ0.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 염왕, 티아라멘츠
+                    ^
+YAML Error in ./_posts\2024-09-11-my-video-niHRpGqTgaI.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 나츄르, 센츄리온, 유벨
+                    ^
+YAML Error in ./_posts\2024-09-12-my-video-UcZhQafK1mA.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 티아라멘츠 [레이팅]
+                    ^
+YAML Error in ./_posts\2024-09-13-my-video-_zLzq_66S6o.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 스프라이트, 유벨, 센츄리온, 메타비트 [레이팅]
+                    ^
+YAML Error in ./_posts\2024-09-14-my-video-12jvHWiaaxA.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" Jesse Kotton 선수의 덱 1 [WCS2024 렌탈 ... 
+                    ^
+YAML Error in ./_posts\2024-09-15-my-video-6D8waDojmXs.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 유벨, 루닉, 순성, 센츄리온, 티아라멘츠 ... 
+                    ^
+YAML Error in ./_posts\2024-09-17-my-video-wxi1KKiVv20.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 참기, 센츄리온, R-ACE, 유벨 [레이팅]
+                    ^
+YAML Error in ./_posts\2024-09-21-my-video-GnWrNkGy6mo.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 드래곤 링크, 유벨, 루닉, 60 GS,  ... 
+                    ^
+YAML Error in ./_posts\2024-09-22-my-video-1JutTgBQ_qQ.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 마술사, 센츄리온, 염왕, 60 GS, 라 ... 
+                    ^
+YAML Error in ./_posts\2024-09-23-my-video-ezhMVgWoFRI.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 미캉코, 센츄리온 [DC 2024 SEP]
+                    ^
+YAML Error in ./_posts\2024-09-25-my-video-BANw5vUqnw4.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 센츄리온, 번 [DC 2024 SEP]
+                    ^
+YAML Error in ./_posts\2024-09-27-my-video-g_UGQorHMgY.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 센츄리온, 스네이크아이, 라뷰린스 [레이팅]
+                    ^
+YAML Error in ./_posts\2024-09-29-my-video-u3PBQxVlMaY.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 유벨, 파괴수 카구야 [DC 2024 SEP]
+                    ^
+YAML Error in ./_posts\2024-09-30-my-video-AYdxsh-z1ac.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 드래곤 링크, 센츄리온, 마나둠: 사로스  ... 
+                    ^
+YAML Error in ./_posts\2024-10-01-my-video-pN2JA-2-HQE.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 염왕, 순성, 엑소시스터, 유벨 [레이팅]
+                    ^
+YAML Error in ./_posts\2024-10-02-my-video-lDdmO20zHnc.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 빙결계, 엑소시스터, 크샤트리라, 미캉코  ... 
+                    ^
+YAML Error in ./_posts\2024-10-03-my-video-PddXyTpTKIU.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 티아라멘츠 [스탠다드]
+                    ^
+YAML Error in ./_posts\2024-10-06-my-video-j_9tUb8-Y1M.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 센츄리온, 테라나이트, 초중무사 [스탠다드]
+                    ^
+YAML Error in ./_posts\2024-10-10-my-video-s_Oa7HP4u8w.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 천배룡 [스탠다드]
+                    ^
+YAML Error in ./_posts\2024-10-11-my-video-lVyd5Rn9kVY.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 샐러맨그레이트, 60 싱크로, 메타비트 [ ... 
+                    ^
+YAML Error in ./_posts\2024-10-12-my-video-hCfeSTvQUj0.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 천배룡 [스탠다드]
+                    ^
+YAML Error in ./_posts\2024-10-13-my-video-lCmm0CCMWJc.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 염왕, 유벨, 천배룡 [스탠다드]
+                    ^
+YAML Error in ./_posts\2024-10-14-my-video-Ucp2bERZxBU.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 60 호루스 티아라멘츠 [스탠다드]
+                    ^
+YAML Error in ./_posts\2024-10-15-my-video-g1G8VMYUKko.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 천배룡 [스탠다드]
+                    ^
+YAML Error in ./_posts\2024-10-16-my-video-7kJkFDeC97U.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 센츄리온, 낙인, 천배룡 [스탠다드]
+                    ^
+YAML Error in ./_posts\2024-10-17-my-video-fCgiYl5T2Fg.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 천배룡 [듀얼 트라이앵글]
+                    ^
+YAML Error in ./_posts\2024-10-26-my-video-n7fPolcRgiw.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 유벨 [스탠다드]
+                    ^
+YAML Error in ./_posts\2024-10-27-my-video-Jsslr03_RGI.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 크샤트리라, 천배룡, 미캉코, 유벨 [레이팅]
+                    ^
+YAML Error in ./_posts\2024-10-29-my-video-VqQeX8hGJEY.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 라뷰린스, 스프라이트, 레드 데몬 [레이팅]
+                    ^
+YAML Error in ./_posts\2024-10-30-my-video-iwatpUrA3Ig.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 순성 [레이팅]
+                    ^
+YAML Error in ./_posts\2024-10-31-my-video-jU1GhfivU2U.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 유벨, 상검, 천배룡 [레이팅]
+                    ^
+YAML Error in ./_posts\2024-11-01-my-video-Ney1Nh1HeIA.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 라이트로드, 스케어클로 [레이팅]
+                    ^
+YAML Error in ./_posts\2024-11-02-my-video-vuwZbaQUTjA.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs F.A., 미캉코, 참기 [레이팅]
+                    ^
+YAML Error in ./_posts\2024-11-03-my-video-as4vmz58YXg.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 천배룡 [스탠다드]
+                    ^
+YAML Error in ./_posts\2024-11-04-my-video-XMlKTbq9zcQ.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 참기 [스탠다드]
+                    ^
+YAML Error in ./_posts\2024-11-05-my-video-pkb4NcO8lLo.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs R-ACE, 낙인, 티아라멘츠 [스탠다드]
+                    ^
+YAML Error in ./_posts\2024-11-06-my-video-CeD_3B2A9yE.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 천배룡 [스탠다드]
+                    ^
+YAML Error in ./_posts\2024-11-07-my-video-J-qeKdYK3dM.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 유벨, 라뷰린스 [스탠다드]
+                    ^
+YAML Error in ./_posts\2024-11-08-my-video-1J5EkyCqjHU.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 령수, 순성, 유벨, 천배룡 [스탠다드]
+                    ^
+YAML Error in ./_posts\2024-11-09-my-video-0uZ_vNRiYbE.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 순성, 다이놀피어, 환주 [스탠다드]
+                    ^
+YAML Error in ./_posts\2024-11-10-my-video-BhFbO-FiL_w.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 천배룡 [스탠다드]
+                    ^
+YAML Error in ./_posts\2024-11-11-my-video-J1Uq2ZolNCQ.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 낙인, 환주, 이빌트윈 [스탠다드]
+                    ^
+YAML Error in ./_posts\2024-11-12-my-video-UQxVE_qCA80.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 천배룡 [레이팅]
+                    ^
+YAML Error in ./_posts\2024-11-13-my-video-6K2k1_2hnSA.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 천배룡 [레이팅]
+                    ^
+YAML Error in ./_posts\2024-11-14-my-video-LwEI3ywvrrQ.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 염왕, 티아라멘츠 [레이팅]
+                    ^
+YAML Error in ./_posts\2024-11-15-my-video-mtFfs2EbWv0.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 낙인, 환주 [레이팅]
+                    ^
+YAML Error in ./_posts\2024-11-16-my-video-9ioXV8ole8I.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 령수, 불꽃성기사, 유벨 [레이팅]
+                    ^
+YAML Error in ./_posts\2024-11-17-my-video-zzpT5YB8QGc.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 천배룡 [레이팅]
+                    ^
+YAML Error in ./_posts\2024-11-18-my-video-xMZZ9iHam9I.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 인페르노이드, 낙인, 라뷰린스 [레이팅]
+                    ^
+YAML Error in ./_posts\2024-11-19-my-video-DtQWUv5LCcA.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 천배룡 [레이팅]
+                    ^
+YAML Error in ./_posts\2024-11-20-my-video-WacOH8gbS0k.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 티아라멘츠, 순성 [레이팅]
+                    ^
+YAML Error in ./_posts\2024-11-21-my-video-s-idIYzaKMU.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 라뷰린스, 천배룡 [레이팅]
+                    ^
+YAML Error in ./_posts\2024-11-22-my-video-KIKUbxXgs5Y.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 순성, GP [레이팅]
+                    ^
+YAML Error in ./_posts\2024-11-22-my-video-lzV77P_hWSc.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 후공 최고의 순간 #shorts
+                    ^
+YAML Error in ./_posts\2024-11-23-my-video-KcZXddbInsc.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 천배룡 [레이팅]
+                    ^
+YAML Error in ./_posts\2024-11-24-my-video-Me2JdzDECps.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 낙인, 환주, 순성 [레이팅]
+                    ^
+YAML Error in ./_posts\2024-11-25-my-video-VzvmLGPIIvE.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 라뷰린스, 순성, 미캉코 [레이팅]
+                    ^
+YAML Error in ./_posts\2024-11-26-my-video-ZIEcKmkJ5F4.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 천배룡 [레이팅]
+                    ^
+YAML Error in ./_posts\2024-11-27-my-video-YPfvLaGsFB8.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 바르모니카, 플런드롤 [레이팅]
+                    ^
+YAML Error in ./_posts\2024-11-28-my-video-l81QkZPtc5w.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 선공에 내 패를 터는 라뷰린스 #shorts
+                    ^
+YAML Error in ./_posts\2024-11-28-my-video-z4yq6btPYLo.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 환주, 천배룡 [레이팅]
+                    ^
+YAML Error in ./_posts\2024-11-29-my-video--JFd8ZWCmuI.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 참기, 낙인 [레이팅]
+                    ^
+YAML Error in ./_posts\2024-11-30-my-video-OJ2Id47y17s.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 천배룡 [레이팅]
+                    ^
+YAML Error in ./_posts\2024-12-01-my-video-fqwwcZPK0p4.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 티아라멘츠, 스프라이트, 드라이트론 [레이팅]
+                    ^
+YAML Error in ./_posts\2024-12-02-my-video-ttZ-EPMQF_Q.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 낙인, 티아라멘츠, 령수 [스탠다드]
+                    ^
+YAML Error in ./_posts\2024-12-03-my-video-PAZlDPMvurw.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 천배룡 [스탠다드]
+                    ^
+YAML Error in ./_posts\2024-12-04-my-video-rDk6D6SEHqw.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 낙인, 60GS, 식물족 [스탠다드]
+                    ^
+YAML Error in ./_posts\2024-12-05-my-video-x6Ivo4f01AI.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 천배룡 [스탠다드]
+                    ^
+YAML Error in ./_posts\2024-12-06-my-video-WUkR45f5r-A.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 유벨, 령수, 순성 [스탠다드]
+                    ^
+YAML Error in ./_posts\2024-12-07-my-video-O2TDIAJTN3Y.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 티아라멘츠, 순성, 참기 [스탠다드]
+                    ^
+YAML Error in ./_posts\2024-12-08-my-video-Axt6pIdDp98.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 센츄리온, 마린세스 [스탠다드]
+                    ^
+YAML Error in ./_posts\2024-12-09-my-video-o1_ZpFswL0U.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 천배룡 [스탠다드]
+                    ^
+YAML Error in ./_posts\2024-12-10-my-video-cMps1DAxDG8.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 염왕, 하얀 숲 [스탠다드]
+                    ^
+YAML Error in ./_posts\2024-12-11-my-video-_jln8ehuVAI.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 유벨 [스탠다드]
+                    ^
+YAML Error in ./_posts\2024-12-12-my-video-xaJWgM5Fntc.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 60 라뷰린스 루닉, 마술사, 순성 [스탠다드]
+                    ^
+YAML Error in ./_posts\2024-12-13-my-video-6n5p2VUSuJo.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 오르페골, 참기 [듀얼리스트 컵]
+                    ^
+YAML Error in ./_posts\2024-12-14-my-video-YqqHLXh55Ng.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 공룡족, 스네이크아이 [듀얼리스트 컵]
+                    ^
+YAML Error in ./_posts\2024-12-15-my-video-_aJ77bQCHto.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 하얀 숲 센츄리온 유벨 낙인, 하얀 숲 [ ... 
+                    ^
+YAML Error in ./_posts\2024-12-16-my-video-S2_yphZB2-Y.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 천배룡 [듀얼리스트 컵]
+                    ^
+YAML Error in ./_posts\2024-12-17-my-video-zD1timZ7s80.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 섬도희, 루닉 [듀얼리스트 컵]
+                    ^
+YAML Error in ./_posts\2024-12-18-my-video-43pLRep4Se8.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 스프라이트, 기믹 퍼핏 [듀얼리스트 컵]
+                    ^
+YAML Error in ./_posts\2024-12-19-my-video-aD763kW6Upc.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 참기, 낙인, 티아라멘츠 [스탠다드]
+                    ^
+YAML Error in ./_posts\2024-12-20-my-video-kdmG86i3zIo.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 불꽃성기사, 령수 [스탠다드]
+                    ^
+YAML Error in ./_posts\2024-12-21-my-video-P6LFWLKwAl8.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 천배룡 [스탠다드]
+                    ^
+YAML Error in ./_posts\2024-12-22-my-video-94HlK8NT03E.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 염왕, 라뷰린스 [스탠다드]
+                    ^
+YAML Error in ./_posts\2024-12-23-my-video-rtiEUNW3KXU.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 미캉코 [스탠다드]
+                    ^
+YAML Error in ./_posts\2024-12-24-my-video-yz44R0AJVd8.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 염왕, 환주 [스탠다드]
+                    ^
+YAML Error in ./_posts\2024-12-25-my-video-0Xyj9irLz-s.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 암흑계, 라뷰린스 [스탠다드]
+                    ^
+YAML Error in ./_posts\2024-12-26-my-video-NAmhiv_97pg.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 천배룡 [스탠다드]
+                    ^
+YAML Error in ./_posts\2024-12-27-my-video-Fu5yhkSgK0k.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 스프라이트, 땅GS [스탠다드]
+                    ^
+YAML Error in ./_posts\2024-12-28-my-video-n8Xs4diMua8.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 기믹 퍼핏, 순성 [스탠다드]
+                    ^
+YAML Error in ./_posts\2024-12-29-my-video-oKgTgrb_d8U.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 기믹 퍼핏, 센츄리온, 천배룡 [스탠다드]
+                    ^
+YAML Error in ./_posts\2024-12-30-my-video-X0QVKcmeaP4.md: while parsing a block mapping
+  in "<unicode string>", line 2, column 1:
+    layout: default
+    ^
+expected <block end>, but found '<scalar>'
+  in "<unicode string>", line 3, column 17:
+    title: "마스터 듀얼" 티아라멘츠 vs 라뷰린스 [스탠다드]
+                    ^

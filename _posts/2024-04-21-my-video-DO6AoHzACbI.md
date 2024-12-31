@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼" 티아라멘츠 vs 낙인, 스네이크아이, 60 인페르노이드
+title: "마스터 듀얼\" 티아라멘츠 vs 낙인, 스네이크아이, 60 인페르노이드
 date: 2024-04-21
 categories: videos
 ---

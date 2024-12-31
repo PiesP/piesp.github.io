@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼" 삼사라 티아라멘츠 vs 엑소시스터, 언체인드, 얼터가이스트, R-ACE
+title: "마스터 듀얼\" 삼사라 티아라멘츠 vs 엑소시스터, 언체인드, 얼터가이스트, R-ACE
 date: 2024-04-30
 categories: videos
 ---

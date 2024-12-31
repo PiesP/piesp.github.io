@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼" 크샤트리라 티아라멘츠 vs R-ACE, 미캉코
+title: "마스터 듀얼\" 크샤트리라 티아라멘츠 vs R-ACE, 미캉코
 date: 2024-05-26
 categories: videos
 ---

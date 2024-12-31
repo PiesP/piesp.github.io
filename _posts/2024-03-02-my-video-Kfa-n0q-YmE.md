@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼" 파병 티아라멘츠 vs 크샤트리라, 스네이크아이, 스네이크아이
+title: "마스터 듀얼\" 파병 티아라멘츠 vs 크샤트리라, 스네이크아이, 스네이크아이
 date: 2024-03-02
 categories: videos
 ---

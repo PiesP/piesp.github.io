@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼" 낙인 티아라멘츠 vs 메타비트
+title: "마스터 듀얼\" 낙인 티아라멘츠 vs 메타비트
 date: 2024-02-02
 categories: videos
 ---

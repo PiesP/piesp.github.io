@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼" 카르테시아 티아라멘츠 vs R-ACE
+title: "마스터 듀얼\" 카르테시아 티아라멘츠 vs R-ACE
 date: 2024-01-25
 categories: videos
 ---

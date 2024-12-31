@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼" 마나둠 티아라멘츠 vs 라뷰린스
+title: "마스터 듀얼\" 마나둠 티아라멘츠 vs 라뷰린스
 date: 2024-02-02
 categories: videos
 ---

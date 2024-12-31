@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼" 티아라멘츠 vs 호루스 센츄리온, 언체인드 유벨
+title: "마스터 듀얼\" 티아라멘츠 vs 호루스 센츄리온, 언체인드 유벨
 date: 2024-07-30
 categories: videos
 ---

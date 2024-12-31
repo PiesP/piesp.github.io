@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼" 죄보 티아라멘츠(후) vs 스네이크아이(선)
+title: "마스터 듀얼\" 죄보 티아라멘츠(후) vs 스네이크아이(선)
 date: 2024-02-16
 categories: videos
 ---
