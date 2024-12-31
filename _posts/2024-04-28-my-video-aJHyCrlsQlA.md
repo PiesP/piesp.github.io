@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠 vs 티아라멘츠, R-ACE
+title: "마스터 듀얼\" 티아라멘츠 vs 티아라멘츠, R-ACE"
 date: 2024-04-28
 categories: videos
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 죄보 티아라멘츠(선) vs 죄보 오르페골(후)
+title: "마스터 듀얼\" 죄보 티아라멘츠(선) vs 죄보 오르페골(후)"
 date: 2024-02-20
 categories: videos
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠 vs 호루스 티아라멘츠, 마신왕 티아라멘츠, 크샤트리라
+title: "마스터 듀얼\" 티아라멘츠 vs 호루스 티아라멘츠, 마신왕 티아라멘츠, 크샤트리라"
 date: 2024-06-28
 categories: videos
 ---

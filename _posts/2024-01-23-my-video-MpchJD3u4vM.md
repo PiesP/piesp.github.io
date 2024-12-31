@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 마나둠 티아라멘츠 vs 엑소시스터
+title: "마스터 듀얼\" 마나둠 티아라멘츠 vs 엑소시스터"
 date: 2024-01-23
 categories: videos
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠 vs 참기, 크샤트리라 스네이크아이, 스프라이트
+title: "마스터 듀얼\" 티아라멘츠 vs 참기, 크샤트리라 스네이크아이, 스프라이트"
 date: 2024-03-27
 categories: videos
 ---

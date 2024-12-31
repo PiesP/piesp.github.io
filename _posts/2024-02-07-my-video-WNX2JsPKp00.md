@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠(선) vs 크샤트리라(후)
+title: "마스터 듀얼\" 티아라멘츠(선) vs 크샤트리라(후)"
 date: 2024-02-07
 categories: videos
 ---

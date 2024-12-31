@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠 vs 유벨
+title: "마스터 듀얼\" 티아라멘츠 vs 유벨"
 date: 2024-09-03
 categories: videos
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠 vs 티아라멘츠, 염왕
+title: "마스터 듀얼\" 티아라멘츠 vs 티아라멘츠, 염왕"
 date: 2024-09-02
 categories: videos
 ---

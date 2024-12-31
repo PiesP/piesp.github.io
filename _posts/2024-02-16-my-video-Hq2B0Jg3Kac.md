@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠(선) vs 초중무사(후)
+title: "마스터 듀얼\" 티아라멘츠(선) vs 초중무사(후)"
 date: 2024-02-16
 categories: videos
 ---

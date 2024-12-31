@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 낙인 티아라멘츠 vs 낙인: 비스테드 빔 맞고 쭈글쭈글해진 티아라멘츠
+title: "마스터 듀얼\" 낙인 티아라멘츠 vs 낙인: 비스테드 빔 맞고 쭈글쭈글해진 티아라멘츠"
 date: 2024-01-28
 categories: videos
 ---

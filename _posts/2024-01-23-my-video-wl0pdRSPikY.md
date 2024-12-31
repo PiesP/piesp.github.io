@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 마나둠 티아라멘츠 vs 낙인 스케어클로
+title: "마스터 듀얼\" 마나둠 티아라멘츠 vs 낙인 스케어클로"
 date: 2024-01-23
 categories: videos
 ---

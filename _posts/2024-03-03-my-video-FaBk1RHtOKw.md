@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 파병 티아라멘츠 vs 낙인, 후완다리즈, 라뷰린스
+title: "마스터 듀얼\" 파병 티아라멘츠 vs 낙인, 후완다리즈, 라뷰린스"
 date: 2024-03-03
 categories: videos
 ---

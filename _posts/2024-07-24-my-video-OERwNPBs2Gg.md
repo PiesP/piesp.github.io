@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠 vs 참기, 삼사라 참기 센츄리온
+title: "마스터 듀얼\" 티아라멘츠 vs 참기, 삼사라 참기 센츄리온"
 date: 2024-07-24
 categories: videos
 ---

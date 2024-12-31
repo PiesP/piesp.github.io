@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 샐러맨그레이트(후) vs 시계신 번(선): 레전드 엔솔로지
+title: "마스터 듀얼\" 샐러맨그레이트(후) vs 시계신 번(선): 레전드 엔솔로지"
 date: 2024-02-14
 categories: videos
 ---

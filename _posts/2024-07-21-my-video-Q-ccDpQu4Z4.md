@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠 vs 호루스 크샤트리라, 유벨, 누메론
+title: "마스터 듀얼\" 티아라멘츠 vs 호루스 크샤트리라, 유벨, 누메론"
 date: 2024-07-21
 categories: videos
 ---

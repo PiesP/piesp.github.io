@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 유벨 티아라멘츠 vs 센츄리온
+title: "마스터 듀얼\" 유벨 티아라멘츠 vs 센츄리온"
 date: 2024-07-15
 categories: videos
 ---

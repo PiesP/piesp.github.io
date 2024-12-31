@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 낙인 티아라멘츠 vs 60 라뷰린스
+title: "마스터 듀얼\" 낙인 티아라멘츠 vs 60 라뷰린스"
 date: 2024-01-28
 categories: videos
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 유벨 티아라멘츠 vs 염왕 스네이크아이, 마나둠
+title: "마스터 듀얼\" 유벨 티아라멘츠 vs 염왕 스네이크아이, 마나둠"
 date: 2024-07-14
 categories: videos
 ---

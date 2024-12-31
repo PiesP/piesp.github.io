@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "펜듈럼 소환\"
+title: "펜듈럼 소환\""
 date: 2023-06-09
 categories: tips-and-guides
 ---

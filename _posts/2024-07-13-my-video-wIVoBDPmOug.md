@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠 vs 60 낙인 티아라멘츠, 레볼싱 티아라멘츠, 호루스 라
+title: "마스터 듀얼\" 티아라멘츠 vs 60 낙인 티아라멘츠, 레볼싱 티아라멘츠, 호루스 라"
 date: 2024-07-13
 categories: videos
 ---

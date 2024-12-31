@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠 vs 티아라멘츠: 티아라와 3연속으로 듀얼한 기록
+title: "마스터 듀얼\" 티아라멘츠 vs 티아라멘츠: 티아라와 3연속으로 듀얼한 기록"
 date: 2024-09-04
 categories: videos
 ---

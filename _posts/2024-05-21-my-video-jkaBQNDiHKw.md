@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 퓨전 x 링크 페스티벌 2024
+title: "마스터 듀얼\" 퓨전 x 링크 페스티벌 2024"
 date: 2024-05-21
 categories: videos
 ---

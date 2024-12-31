@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 카르테시아 티아라멘츠 vs 크샤트리라
+title: "마스터 듀얼\" 카르테시아 티아라멘츠 vs 크샤트리라"
 date: 2024-01-25
 categories: videos
 ---

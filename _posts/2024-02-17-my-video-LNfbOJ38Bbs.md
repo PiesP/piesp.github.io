@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠(후) vs 참기(선): 참기 전개를 구경하는 영상
+title: "마스터 듀얼\" 티아라멘츠(후) vs 참기(선): 참기 전개를 구경하는 영상"
 date: 2024-02-17
 categories: videos
 ---

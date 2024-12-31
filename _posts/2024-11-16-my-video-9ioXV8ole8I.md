@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠 vs 령수, 불꽃성기사, 유벨 [레이팅]
+title: "마스터 듀얼\" 티아라멘츠 vs 령수, 불꽃성기사, 유벨 [레이팅]"
 date: 2024-11-16
 categories: videos
 ---

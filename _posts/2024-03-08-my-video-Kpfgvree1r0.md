@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 파병 티아라멘츠 vs 메타비트, 스네이크아이, 초중무사, SPYRAL
+title: "마스터 듀얼\" 파병 티아라멘츠 vs 메타비트, 스네이크아이, 초중무사, SPYRAL"
 date: 2024-03-08
 categories: videos
 ---

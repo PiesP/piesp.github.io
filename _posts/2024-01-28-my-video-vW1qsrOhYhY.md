@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 마나둠 티아라멘츠 vs 60 낙인
+title: "마스터 듀얼\" 마나둠 티아라멘츠 vs 60 낙인"
 date: 2024-01-28
 categories: videos
 ---

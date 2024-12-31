@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠 vs 티아라멘츠, 60 죄보 퓨어리
+title: "마스터 듀얼\" 티아라멘츠 vs 티아라멘츠, 60 죄보 퓨어리"
 date: 2024-05-07
 categories: videos
 ---

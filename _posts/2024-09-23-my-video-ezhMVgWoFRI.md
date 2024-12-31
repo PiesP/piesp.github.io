@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠 vs 미캉코, 센츄리온 [DC 2024 SEP]
+title: "마스터 듀얼\" 티아라멘츠 vs 미캉코, 센츄리온 [DC 2024 SEP]"
 date: 2024-09-23
 categories: videos
 ---

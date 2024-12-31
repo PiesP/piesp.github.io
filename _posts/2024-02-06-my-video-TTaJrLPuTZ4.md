@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠 vs 60 낙인: 초융합의 기적
+title: "마스터 듀얼\" 티아라멘츠 vs 60 낙인: 초융합의 기적"
 date: 2024-02-06
 categories: videos
 ---

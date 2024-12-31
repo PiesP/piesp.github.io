@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 호루스 티아라멘츠 vs 누메론, R-ACE, 마계극단
+title: "마스터 듀얼\" 호루스 티아라멘츠 vs 누메론, R-ACE, 마계극단"
 date: 2024-06-05
 categories: videos
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 크샤트리라 티아라멘츠 vs 크샤트리라 스네이크아이, 패왕 마술사, 루닉, 스네이크아이 염왕, 후완다리즈 [World Championship 2024 예선]
+title: "마스터 듀얼\" 크샤트리라 티아라멘츠 vs 크샤트리라 스네이크아이, 패왕 마술사, 루닉, 스네이크아이 염왕, 후완다리즈 [World Championship 2024 예선]"
 date: 2024-06-13
 categories: videos
 ---

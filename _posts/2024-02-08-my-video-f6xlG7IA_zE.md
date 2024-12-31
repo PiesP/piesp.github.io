@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠(선) vs 60 낙인(후)
+title: "마스터 듀얼\" 티아라멘츠(선) vs 60 낙인(후)"
 date: 2024-02-08
 categories: videos
 ---

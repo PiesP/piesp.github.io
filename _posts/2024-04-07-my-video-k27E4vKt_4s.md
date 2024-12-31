@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠 vs 참기, LL 트라이브리게이드
+title: "마스터 듀얼\" 티아라멘츠 vs 참기, LL 트라이브리게이드"
 date: 2024-04-07
 categories: videos
 ---

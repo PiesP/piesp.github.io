@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠 vs 60 낙인 섀도르, 퓨어리, 마나둠 티아라멘츠
+title: "마스터 듀얼\" 티아라멘츠 vs 60 낙인 섀도르, 퓨어리, 마나둠 티아라멘츠"
 date: 2024-07-09
 categories: videos
 ---

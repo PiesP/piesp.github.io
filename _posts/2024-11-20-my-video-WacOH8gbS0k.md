@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠 vs 티아라멘츠, 순성 [레이팅]
+title: "마스터 듀얼\" 티아라멘츠 vs 티아라멘츠, 순성 [레이팅]"
 date: 2024-11-20
 categories: videos
 ---

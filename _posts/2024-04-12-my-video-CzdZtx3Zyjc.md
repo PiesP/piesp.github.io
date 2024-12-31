@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 삼사라 티아라멘츠 vs 퓨어리, 미캉코, 버스터 블레이더, 키메라
+title: "마스터 듀얼\" 삼사라 티아라멘츠 vs 퓨어리, 미캉코, 버스터 블레이더, 키메라"
 date: 2024-04-12
 categories: videos
 ---

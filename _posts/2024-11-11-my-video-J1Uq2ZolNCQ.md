@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠 vs 낙인, 환주, 이빌트윈 [스탠다드]
+title: "마스터 듀얼\" 티아라멘츠 vs 낙인, 환주, 이빌트윈 [스탠다드]"
 date: 2024-11-11
 categories: videos
 ---

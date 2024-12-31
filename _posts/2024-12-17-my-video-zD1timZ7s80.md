@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠 vs 섬도희, 루닉 [듀얼리스트 컵]
+title: "마스터 듀얼\" 티아라멘츠 vs 섬도희, 루닉 [듀얼리스트 컵]"
 date: 2024-12-17
 categories: videos
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 크샤트리라 마나둠 티아라멘츠 vs 60 언데드
+title: "마스터 듀얼\" 크샤트리라 마나둠 티아라멘츠 vs 60 언데드"
 date: 2024-01-21
 categories: videos
 ---

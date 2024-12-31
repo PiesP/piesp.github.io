@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 호루스 티아라멘츠 vs 호루스 티아라멘츠, 라뷰린스
+title: "마스터 듀얼\" 호루스 티아라멘츠 vs 호루스 티아라멘츠, 라뷰린스"
 date: 2024-05-10
 categories: videos
 ---

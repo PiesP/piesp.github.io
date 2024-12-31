@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠 vs 마나둠, R-ACE
+title: "마스터 듀얼\" 티아라멘츠 vs 마나둠, R-ACE"
 date: 2024-04-17
 categories: videos
 ---

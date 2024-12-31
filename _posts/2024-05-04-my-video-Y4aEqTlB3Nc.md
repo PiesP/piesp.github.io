@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 나이트메어 데몬즈 티아라멘츠
+title: "마스터 듀얼\" 나이트메어 데몬즈 티아라멘츠"
 date: 2024-05-04
 categories: videos
 ---

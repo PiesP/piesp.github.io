@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 삼사라 티아라멘츠 vs 미캉코, R-ACE, 라뷰린스
+title: "마스터 듀얼\" 삼사라 티아라멘츠 vs 미캉코, R-ACE, 라뷰린스"
 date: 2024-04-15
 categories: videos
 ---
