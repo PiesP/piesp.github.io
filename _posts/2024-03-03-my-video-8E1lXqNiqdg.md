@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 파병 티아라멘츠 vs 라뷰린스, 스네이크아이, 스네이크아이"
+title: [마스터 듀얼] 파병 티아라멘츠 vs 라뷰린스, 스네이크아이, 스네이크아이
 date: 2024-03-03
 categories: videos
 ---

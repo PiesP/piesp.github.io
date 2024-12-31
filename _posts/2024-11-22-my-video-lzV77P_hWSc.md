@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠 후공 최고의 순간 #shorts"
+title: [마스터 듀얼] 티아라멘츠 후공 최고의 순간 #shorts
 date: 2024-11-22
 categories: videos
 ---

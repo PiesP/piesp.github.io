@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 삼사라 티아라멘츠 vs 낙인 키메라, 언체인드 라뷰린스, 참기"
+title: [마스터 듀얼] 삼사라 티아라멘츠 vs 낙인 키메라, 언체인드 라뷰린스, 참기
 date: 2024-04-30
 categories: videos
 ---

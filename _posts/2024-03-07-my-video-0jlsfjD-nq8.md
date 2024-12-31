@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 레볼싱 티아라멘츠 vs 스네이크아이, 참기, 스네이크아이 주안"
+title: [마스터 듀얼] 레볼싱 티아라멘츠 vs 스네이크아이, 참기, 스네이크아이 주안
 date: 2024-03-07
 categories: videos
 ---

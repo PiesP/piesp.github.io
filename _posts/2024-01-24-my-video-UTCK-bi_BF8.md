@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 카르테시아 티아라멘츠 vs 용기사P: 결과물이 궁금해서 전개를 기켜봤는데"
+title: [마스터 듀얼] 카르테시아 티아라멘츠 vs 용기사P: 결과물이 궁금해서 전개를 기켜봤는데
 date: 2024-01-24
 categories: videos
 ---

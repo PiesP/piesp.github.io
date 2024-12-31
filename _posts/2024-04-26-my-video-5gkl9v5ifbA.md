@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠 vs 라뷰린스, R-ACE"
+title: [마스터 듀얼] 티아라멘츠 vs 라뷰린스, R-ACE
 date: 2024-04-26
 categories: videos
 ---

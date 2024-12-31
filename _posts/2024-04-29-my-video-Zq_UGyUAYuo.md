@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠 vs 천위 상검, 퓨어리"
+title: [마스터 듀얼] 티아라멘츠 vs 천위 상검, 퓨어리
 date: 2024-04-29
 categories: videos
 ---

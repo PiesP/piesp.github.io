@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 파병 티아라멘츠 vs 언체인드, 라뷰린스"
+title: [마스터 듀얼] 파병 티아라멘츠 vs 언체인드, 라뷰린스
 date: 2024-04-03
 categories: videos
 ---

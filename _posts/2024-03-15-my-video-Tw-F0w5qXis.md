@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 파병 티아라멘츠 vs 히어로, 낙인, 레드 데몬[듀얼리스트 컵]"
+title: [마스터 듀얼] 파병 티아라멘츠 vs 히어로, 낙인, 레드 데몬[듀얼리스트 컵]
 date: 2024-03-15
 categories: videos
 ---

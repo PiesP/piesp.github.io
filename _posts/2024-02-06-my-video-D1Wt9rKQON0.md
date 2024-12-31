@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠 vs 참기: 티아라를 좋아하는 이유는"
+title: [마스터 듀얼] 티아라멘츠 vs 참기: 티아라를 좋아하는 이유는
 date: 2024-02-06
 categories: videos
 ---

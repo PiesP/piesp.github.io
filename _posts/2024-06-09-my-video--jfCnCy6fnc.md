@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 크샤트리라 티아라멘츠 vs 샐러맨그레이트, 메타비트, R-ACE"
+title: [마스터 듀얼] 크샤트리라 티아라멘츠 vs 샐러맨그레이트, 메타비트, R-ACE
 date: 2024-06-09
 categories: videos
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 선공에 내 패를 터는 라뷰린스 #shorts"
+title: [마스터 듀얼] 선공에 내 패를 터는 라뷰린스 #shorts
 date: 2024-11-28
 categories: videos
 ---

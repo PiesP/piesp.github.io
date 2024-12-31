@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠 vs 패왕 마술사, 60 호루스 유벨 센츄리온 티아라멘츠, R-ACE"
+title: [마스터 듀얼] 티아라멘츠 vs 패왕 마술사, 60 호루스 유벨 센츄리온 티아라멘츠, R-ACE
 date: 2024-07-22
 categories: videos
 ---

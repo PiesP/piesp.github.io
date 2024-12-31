@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 카르테시아 티아라멘츠 vs 초중무사"
+title: [마스터 듀얼] 카르테시아 티아라멘츠 vs 초중무사
 date: 2024-01-24
 categories: videos
 ---

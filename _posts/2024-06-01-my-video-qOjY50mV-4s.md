@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠 vs 용사 호루스, 섬도희, 호루스 티아라멘츠, R-ACE"
+title: [마스터 듀얼] 티아라멘츠 vs 용사 호루스, 섬도희, 호루스 티아라멘츠, R-ACE
 date: 2024-06-01
 categories: videos
 ---

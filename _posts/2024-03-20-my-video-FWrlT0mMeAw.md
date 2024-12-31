@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 롤백 티아라멘츠 vs 네무렐리아, 참기"
+title: [마스터 듀얼] 롤백 티아라멘츠 vs 네무렐리아, 참기
 date: 2024-03-20
 categories: videos
 ---

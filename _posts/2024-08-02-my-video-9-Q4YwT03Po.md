@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠 vs 레드 데몬, 후완다리즈, 크샤트리라"
+title: [마스터 듀얼] 티아라멘츠 vs 레드 데몬, 후완다리즈, 크샤트리라
 date: 2024-08-02
 categories: videos
 ---

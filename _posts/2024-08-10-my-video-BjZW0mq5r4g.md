@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠 vs 60 초중 마제스펙터 펜듈럼, 순성"
+title: [마스터 듀얼] 티아라멘츠 vs 60 초중 마제스펙터 펜듈럼, 순성
 date: 2024-08-10
 categories: videos
 ---

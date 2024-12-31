@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠 vs 나츄르, 센츄리온, 유벨"
+title: [마스터 듀얼] 티아라멘츠 vs 나츄르, 센츄리온, 유벨
 date: 2024-09-11
 categories: videos
 ---

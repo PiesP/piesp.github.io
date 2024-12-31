@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠 vs 라뷰린스, 스프라이트, 레드 데몬 [레이팅]"
+title: [마스터 듀얼] 티아라멘츠 vs 라뷰린스, 스프라이트, 레드 데몬 [레이팅]
 date: 2024-10-29
 categories: videos
 ---

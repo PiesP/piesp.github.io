@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠(후) vs 참기(선): 마1 승급전"
+title: [마스터 듀얼] 티아라멘츠(후) vs 참기(선): 마1 승급전
 date: 2024-02-14
 categories: videos
 ---

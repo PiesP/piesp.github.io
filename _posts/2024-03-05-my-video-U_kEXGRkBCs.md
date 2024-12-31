@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 레볼싱 티아라멘츠 vs 초중무사, 참기, 낙인"
+title: [마스터 듀얼] 레볼싱 티아라멘츠 vs 초중무사, 참기, 낙인
 date: 2024-03-05
 categories: videos
 ---

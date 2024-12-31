@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 파병 티아라멘츠(선) vs 마술사(후)"
+title: [마스터 듀얼] 파병 티아라멘츠(선) vs 마술사(후)
 date: 2024-02-22
 categories: videos
 ---

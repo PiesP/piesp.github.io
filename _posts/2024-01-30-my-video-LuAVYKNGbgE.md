@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 마나둠 티아라멘츠 vs 육화: 전개 연습중"
+title: [마스터 듀얼] 마나둠 티아라멘츠 vs 육화: 전개 연습중
 date: 2024-01-30
 categories: videos
 ---

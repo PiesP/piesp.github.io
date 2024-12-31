@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠 vs 유벨, 파괴수 카구야 [DC 2024 SEP]"
+title: [마스터 듀얼] 티아라멘츠 vs 유벨, 파괴수 카구야 [DC 2024 SEP]
 date: 2024-09-29
 categories: videos
 ---

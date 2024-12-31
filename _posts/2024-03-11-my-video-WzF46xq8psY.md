@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠 vs 낙인, 스네이크아이: 나이트메어 발사!"
+title: [마스터 듀얼] 티아라멘츠 vs 낙인, 스네이크아이: 나이트메어 발사!
 date: 2024-03-11
 categories: videos
 ---

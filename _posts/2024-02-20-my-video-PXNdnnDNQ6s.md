@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 죄보 티아라멘츠(선) vs 섬도희(후)"
+title: [마스터 듀얼] 죄보 티아라멘츠(선) vs 섬도희(후)
 date: 2024-02-20
 categories: videos
 ---

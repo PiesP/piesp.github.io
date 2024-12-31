@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 호루스 티아라멘츠 vs R-ACE, 샐러맨그레이트, 마신왕 티아라멘츠, 스네이크아이 티아라멘츠"
+title: [마스터 듀얼] 호루스 티아라멘츠 vs R-ACE, 샐러맨그레이트, 마신왕 티아라멘츠, 스네이크아이 티아라멘츠
 date: 2024-05-24
 categories: videos
 ---

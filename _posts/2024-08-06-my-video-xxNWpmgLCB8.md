@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠 vs 크샤트리라, 섬도희, 마탄, 번, 라뷰린스"
+title: [마스터 듀얼] 티아라멘츠 vs 크샤트리라, 섬도희, 마탄, 번, 라뷰린스
 date: 2024-08-06
 categories: videos
 ---

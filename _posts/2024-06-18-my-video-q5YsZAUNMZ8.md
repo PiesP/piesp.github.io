@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠 vs R-ACE, 호루스 비트"
+title: [마스터 듀얼] 티아라멘츠 vs R-ACE, 호루스 비트
 date: 2024-06-18
 categories: videos
 ---

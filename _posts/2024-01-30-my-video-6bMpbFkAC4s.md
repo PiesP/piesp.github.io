@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 마나둠 티아라멘츠 vs 크샤트리라 티아라멘츠"
+title: [마스터 듀얼] 마나둠 티아라멘츠 vs 크샤트리라 티아라멘츠
 date: 2024-01-30
 categories: videos
 ---

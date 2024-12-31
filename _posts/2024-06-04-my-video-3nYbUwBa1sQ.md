@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 크샤트리라 티아라멘츠 vs 크샤트리라, 스네이크아이, 호루스 비트"
+title: [마스터 듀얼] 크샤트리라 티아라멘츠 vs 크샤트리라, 스네이크아이, 호루스 비트
 date: 2024-06-04
 categories: videos
 ---

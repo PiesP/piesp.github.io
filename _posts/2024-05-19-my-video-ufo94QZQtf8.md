@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 호루스 티아라멘츠 vs 호루스 티아라멘츠, 파괴수 미계역"
+title: [마스터 듀얼] 호루스 티아라멘츠 vs 호루스 티아라멘츠, 파괴수 미계역
 date: 2024-05-19
 categories: videos
 ---

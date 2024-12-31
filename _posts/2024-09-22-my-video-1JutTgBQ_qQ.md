@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠 vs 마술사, 센츄리온, 염왕, 60 GS, 라이트로드 [DC 2024 SEP]"
+title: [마스터 듀얼] 티아라멘츠 vs 마술사, 센츄리온, 염왕, 60 GS, 라이트로드 [DC 2024 SEP]
 date: 2024-09-22
 categories: videos
 ---

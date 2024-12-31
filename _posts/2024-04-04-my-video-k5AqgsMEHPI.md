@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠 vs 소환수 GS, 엑소시스터, LL 트라이브리게이드"
+title: [마스터 듀얼] 티아라멘츠 vs 소환수 GS, 엑소시스터, LL 트라이브리게이드
 date: 2024-04-04
 categories: videos
 ---

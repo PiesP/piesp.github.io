@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠 vs 참기 [스탠다드]"
+title: [마스터 듀얼] 티아라멘츠 vs 참기 [스탠다드]
 date: 2024-11-04
 categories: videos
 ---

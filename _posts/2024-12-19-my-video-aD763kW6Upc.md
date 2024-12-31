@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠 vs 참기, 낙인, 티아라멘츠 [스탠다드]"
+title: [마스터 듀얼] 티아라멘츠 vs 참기, 낙인, 티아라멘츠 [스탠다드]
 date: 2024-12-19
 categories: videos
 ---

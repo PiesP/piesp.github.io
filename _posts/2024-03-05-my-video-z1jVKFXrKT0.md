@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 미계역 티아라멘츠 vs 라뷰린스, VS"
+title: [마스터 듀얼] 미계역 티아라멘츠 vs 라뷰린스, VS
 date: 2024-03-05
 categories: videos
 ---

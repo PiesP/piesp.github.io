@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠 vs F.A., 미캉코, 참기 [레이팅]"
+title: [마스터 듀얼] 티아라멘츠 vs F.A., 미캉코, 참기 [레이팅]
 date: 2024-11-02
 categories: videos
 ---

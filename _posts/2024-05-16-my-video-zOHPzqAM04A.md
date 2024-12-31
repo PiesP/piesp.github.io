@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠 vs R-ACE, 60 낙인 키메라, 레볼싱 티아라멘츠"
+title: [마스터 듀얼] 티아라멘츠 vs R-ACE, 60 낙인 키메라, 레볼싱 티아라멘츠
 date: 2024-05-16
 categories: videos
 ---

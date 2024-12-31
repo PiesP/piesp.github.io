@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 낙인 티아라멘츠 vs 스케어클로 마나둠: 아나콘다로 날먹하려다 망함"
+title: [마스터 듀얼] 낙인 티아라멘츠 vs 스케어클로 마나둠: 아나콘다로 날먹하려다 망함
 date: 2024-01-20
 categories: videos
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠 vs 라이트로드, 스케어클로 [레이팅]"
+title: [마스터 듀얼] 티아라멘츠 vs 라이트로드, 스케어클로 [레이팅]
 date: 2024-11-01
 categories: videos
 ---

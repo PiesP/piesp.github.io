@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "마스터 듀얼\" 티아라멘츠 vs 스네이크아이: 한 듀얼에 데스트루도의 효과를 3번 씀"
+title: [마스터 듀얼] 티아라멘츠 vs 스네이크아이: 한 듀얼에 데스트루도의 효과를 3번 씀
 date: 2024-05-05
 categories: videos
 ---
