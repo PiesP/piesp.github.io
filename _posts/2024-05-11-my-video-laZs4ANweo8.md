@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [마스터 듀얼] 호루스 티아라멘츠 vs 60 R-ACE, 낙인
+title: "마스터 듀얼" 호루스 티아라멘츠 vs 60 R-ACE, 낙인
 date: 2024-05-11
 categories: videos
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [마스터 듀얼] 티아라멘츠 vs 스네이크아이, 크샤트리라
+title: "마스터 듀얼" 티아라멘츠 vs 스네이크아이, 크샤트리라
 date: 2024-04-18
 categories: videos
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [마스터 듀얼] 티아라멘츠 vs 롤백 티아라멘츠, 호루스 티아라멘츠, 스네이크아이
+title: "마스터 듀얼" 티아라멘츠 vs 롤백 티아라멘츠, 호루스 티아라멘츠, 스네이크아이
 date: 2024-05-25
 categories: videos
 ---

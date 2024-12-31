@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [마스터 듀얼] 파병 티아라멘츠(후) vs 초중무사(선): 캘러미티 발사 준비 완료!
+title: "마스터 듀얼" 파병 티아라멘츠(후) vs 초중무사(선): 캘러미티 발사 준비 완료!
 date: 2024-03-02
 categories: videos
 ---

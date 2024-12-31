@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [마스터 듀얼] 크샤트리라 티아라멘츠 vs 라뷰린스, 십이수
+title: "마스터 듀얼" 크샤트리라 티아라멘츠 vs 라뷰린스, 십이수
 date: 2024-03-28
 categories: videos
 ---

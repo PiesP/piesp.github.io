@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [마스터 듀얼] 매크로 박제용
+title: "마스터 듀얼" 매크로 박제용
 date: 2024-01-25
 categories: videos
 ---

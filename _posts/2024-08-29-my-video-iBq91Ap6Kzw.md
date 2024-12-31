@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [마스터 듀얼] 티아라멘츠 vs 순성 [레이팅]: 증식의 G 착지는 역시 순성
+title: "마스터 듀얼" 티아라멘츠 vs 순성 [레이팅]: 증식의 G 착지는 역시 순성
 date: 2024-08-29
 categories: videos
 ---

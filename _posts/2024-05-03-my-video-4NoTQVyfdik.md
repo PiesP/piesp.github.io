@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [마스터 듀얼] 티아라멘츠 vs 크샤트리라, 참기
+title: "마스터 듀얼" 티아라멘츠 vs 크샤트리라, 참기
 date: 2024-05-03
 categories: videos
 ---

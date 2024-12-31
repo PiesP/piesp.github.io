@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [마스터 듀얼] 미계역 티아라멘츠 vs 천위 상검, 후완다리즈, 참기, 미캉코
+title: "마스터 듀얼" 미계역 티아라멘츠 vs 천위 상검, 후완다리즈, 참기, 미캉코
 date: 2024-03-05
 categories: videos
 ---

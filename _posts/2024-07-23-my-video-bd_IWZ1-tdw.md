@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [마스터 듀얼] 티아라멘츠 vs 호루스 키메라, 호루스 퍼니멀, P.U.N.K. 크샤트리라, 60 낙인
+title: "마스터 듀얼" 티아라멘츠 vs 호루스 키메라, 호루스 퍼니멀, P.U.N.K. 크샤트리라, 60 낙인
 date: 2024-07-23
 categories: videos
 ---

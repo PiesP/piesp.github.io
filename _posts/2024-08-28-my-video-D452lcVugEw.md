@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [마스터 듀얼] 티아라멘츠 vs 스프라이트, 이빌트윈 [레이팅]: 티 폰의 활약
+title: "마스터 듀얼" 티아라멘츠 vs 스프라이트, 이빌트윈 [레이팅]: 티 폰의 활약
 date: 2024-08-28
 categories: videos
 ---

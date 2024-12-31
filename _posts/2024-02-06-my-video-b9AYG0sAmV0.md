@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [마스터 듀얼] 티아라멘츠(선) vs 라뷰린스(후): 라뷰랑 7턴 동안 듀얼함
+title: "마스터 듀얼" 티아라멘츠(선) vs 라뷰린스(후): 라뷰랑 7턴 동안 듀얼함
 date: 2024-02-06
 categories: videos
 ---

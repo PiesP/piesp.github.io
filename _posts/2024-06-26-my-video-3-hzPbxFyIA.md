@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [마스터 듀얼] 호루스 크샤트리라 티아라멘츠 vs 염왕, 플런드롤, 60 스프라이트
+title: "마스터 듀얼" 호루스 크샤트리라 티아라멘츠 vs 염왕, 플런드롤, 60 스프라이트
 date: 2024-06-26
 categories: videos
 ---

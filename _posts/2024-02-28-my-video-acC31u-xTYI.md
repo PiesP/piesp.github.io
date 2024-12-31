@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [마스터 듀얼] 티아라멘츠(후) vs 마나둠 티아라멘츠(선): 키토칼로스가 2장!
+title: "마스터 듀얼" 티아라멘츠(후) vs 마나둠 티아라멘츠(선): 키토칼로스가 2장!
 date: 2024-02-28
 categories: videos
 ---

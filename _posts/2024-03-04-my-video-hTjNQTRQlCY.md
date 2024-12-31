@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [마스터 듀얼] 미계역 티아라멘츠 vs 스네이크아이, R-ACE: 듀얼은 대화
+title: "마스터 듀얼" 미계역 티아라멘츠 vs 스네이크아이, R-ACE: 듀얼은 대화
 date: 2024-03-04
 categories: videos
 ---

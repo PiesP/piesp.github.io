@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [마스터 듀얼] 티아라멘츠 vs 상검, 라뷰린스, 스네이크아이, 염왕 스네이크아이
+title: "마스터 듀얼" 티아라멘츠 vs 상검, 라뷰린스, 스네이크아이, 염왕 스네이크아이
 date: 2024-07-11
 categories: videos
 ---

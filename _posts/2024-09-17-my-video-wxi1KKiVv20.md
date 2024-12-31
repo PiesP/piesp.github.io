@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [마스터 듀얼] 티아라멘츠 vs 참기, 센츄리온, R-ACE, 유벨 [레이팅]
+title: "마스터 듀얼" 티아라멘츠 vs 참기, 센츄리온, R-ACE, 유벨 [레이팅]
 date: 2024-09-17
 categories: videos
 ---

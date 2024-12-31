@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [마스터 듀얼] 레볼싱 티아라멘츠 vs 스네이크아이, 라뷰린스, 리추어 스프라이트
+title: "마스터 듀얼" 레볼싱 티아라멘츠 vs 스네이크아이, 라뷰린스, 리추어 스프라이트
 date: 2024-04-01
 categories: videos
 ---

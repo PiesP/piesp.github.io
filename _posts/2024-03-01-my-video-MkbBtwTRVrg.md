@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [마스터 듀얼] 마나둠 티아라멘츠(후) vs 히어로(선)
+title: "마스터 듀얼" 마나둠 티아라멘츠(후) vs 히어로(선)
 date: 2024-03-01
 categories: videos
 ---

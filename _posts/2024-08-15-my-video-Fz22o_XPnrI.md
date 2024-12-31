@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [마스터 듀얼] 티아라멘츠 vs 순성: 사엔퍼를 뚫지 못하네
+title: "마스터 듀얼" 티아라멘츠 vs 순성: 사엔퍼를 뚫지 못하네
 date: 2024-08-15
 categories: videos
 ---

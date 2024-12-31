@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [마스터 듀얼] 미계역 티아라멘츠 vs 천위 상검, 스네이크아이2
+title: "마스터 듀얼" 미계역 티아라멘츠 vs 천위 상검, 스네이크아이2
 date: 2024-03-04
 categories: videos
 ---

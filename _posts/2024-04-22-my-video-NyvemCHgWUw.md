@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [마스터 듀얼] 티아라멘츠 vs 60 티아라멘츠 퓨어리, 퓨어리, 미캉코
+title: "마스터 듀얼" 티아라멘츠 vs 60 티아라멘츠 퓨어리, 퓨어리, 미캉코
 date: 2024-04-22
 categories: videos
 ---

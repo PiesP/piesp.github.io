@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [마스터 듀얼] 솜털의 사자와 별의 용 [타임 트래블 2010]
+title: "마스터 듀얼" 솜털의 사자와 별의 용 [타임 트래블 2010]
 date: 2024-06-24
 categories: videos
 ---

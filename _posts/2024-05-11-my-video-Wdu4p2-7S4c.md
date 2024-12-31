@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [마스터 듀얼] 호루스 티아라멘츠 vs 샐러맨그레이트, R-ACE
+title: "마스터 듀얼" 호루스 티아라멘츠 vs 샐러맨그레이트, R-ACE
 date: 2024-05-11
 categories: videos
 ---

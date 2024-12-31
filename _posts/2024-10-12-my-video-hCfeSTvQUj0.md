@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [마스터 듀얼] 티아라멘츠 vs 천배룡 [스탠다드]
+title: "마스터 듀얼" 티아라멘츠 vs 천배룡 [스탠다드]
 date: 2024-10-12
 categories: videos
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [마스터 듀얼] 티아라멘츠 vs 60 라뷰린스 루닉, 마술사, 순성 [스탠다드]
+title: "마스터 듀얼" 티아라멘츠 vs 60 라뷰린스 루닉, 마술사, 순성 [스탠다드]
 date: 2024-12-12
 categories: videos
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [마스터 듀얼] 티아라멘츠 vs 크샤트리라, 천배룡, 미캉코, 유벨 [레이팅]
+title: "마스터 듀얼" 티아라멘츠 vs 크샤트리라, 천배룡, 미캉코, 유벨 [레이팅]
 date: 2024-10-27
 categories: videos
 ---

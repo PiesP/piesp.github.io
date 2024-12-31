@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [마스터 듀얼] 암흑계 티아라멘츠 vs 라뷰린스, 스네이크아이, 비스테드 크샤트리라
+title: "마스터 듀얼" 암흑계 티아라멘츠 vs 라뷰린스, 스네이크아이, 비스테드 크샤트리라
 date: 2024-04-09
 categories: videos
 ---

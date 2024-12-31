@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [마스터 듀얼] 레볼싱 티아라멘츠 vs 크샤트리라 스네이크아이(선)
+title: "마스터 듀얼" 레볼싱 티아라멘츠 vs 크샤트리라 스네이크아이(선)
 date: 2024-03-31
 categories: videos
 ---

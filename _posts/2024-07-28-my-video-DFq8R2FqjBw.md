@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [마스터 듀얼] 티아라멘츠 vs R-ACE, 루닉, 패왕 마술사, 티아라멘츠
+title: "마스터 듀얼" 티아라멘츠 vs R-ACE, 루닉, 패왕 마술사, 티아라멘츠
 date: 2024-07-28
 categories: videos
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [마스터 듀얼] 티아라멘츠(후) vs 낙인(선): 초융합 2장의 기적
+title: "마스터 듀얼" 티아라멘츠(후) vs 낙인(선): 초융합 2장의 기적
 date: 2024-02-08
 categories: videos
 ---

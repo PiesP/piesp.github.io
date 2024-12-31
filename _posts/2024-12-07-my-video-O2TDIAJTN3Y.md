@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [마스터 듀얼] 티아라멘츠 vs 티아라멘츠, 순성, 참기 [스탠다드]
+title: "마스터 듀얼" 티아라멘츠 vs 티아라멘츠, 순성, 참기 [스탠다드]
 date: 2024-12-07
 categories: videos
 ---

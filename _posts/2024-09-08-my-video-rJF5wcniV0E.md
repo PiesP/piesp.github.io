@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [마스터 듀얼] 티아라멘츠 vs 티아라멘츠, 참기, 인페르노이드
+title: "마스터 듀얼" 티아라멘츠 vs 티아라멘츠, 참기, 인페르노이드
 date: 2024-09-08
 categories: videos
 ---

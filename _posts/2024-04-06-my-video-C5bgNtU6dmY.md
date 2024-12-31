@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [마스터 듀얼] 티아라멘츠 vs 섬도희, 크샤트리라 스네이크아이, 참기, 미캉코
+title: "마스터 듀얼" 티아라멘츠 vs 섬도희, 크샤트리라 스네이크아이, 참기, 미캉코
 date: 2024-04-06
 categories: videos
 ---

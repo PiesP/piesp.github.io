@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [마스터 듀얼] 암흑계 티아라멘츠 vs 스네이크아이, 티아라멘츠
+title: "마스터 듀얼" 암흑계 티아라멘츠 vs 스네이크아이, 티아라멘츠
 date: 2024-04-10
 categories: videos
 ---

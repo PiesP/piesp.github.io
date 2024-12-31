@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [마스터 듀얼] 티아라멘츠 vs 염왕, 호루스FTK, 참기: 염왕과 한 가장 긴 듀얼
+title: "마스터 듀얼" 티아라멘츠 vs 염왕, 호루스FTK, 참기: 염왕과 한 가장 긴 듀얼
 date: 2024-06-30
 categories: videos
 ---

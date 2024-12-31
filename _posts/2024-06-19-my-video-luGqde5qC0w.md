@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [마스터 듀얼] 크샤트리라 티아라멘츠 vs 섬도희, 라뷰린스, 바르모니카
+title: "마스터 듀얼" 크샤트리라 티아라멘츠 vs 섬도희, 라뷰린스, 바르모니카
 date: 2024-06-19
 categories: videos
 ---

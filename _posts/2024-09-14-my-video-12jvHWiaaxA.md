@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [마스터 듀얼] Jesse Kotton 선수의 덱 1 [WCS2024 렌탈 컴페티션]
+title: "마스터 듀얼" Jesse Kotton 선수의 덱 1 [WCS2024 렌탈 컴페티션]
 date: 2024-09-14
 categories: videos
 ---

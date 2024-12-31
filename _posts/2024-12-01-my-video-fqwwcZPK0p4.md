@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [마스터 듀얼] 티아라멘츠 vs 티아라멘츠, 스프라이트, 드라이트론 [레이팅]
+title: "마스터 듀얼" 티아라멘츠 vs 티아라멘츠, 스프라이트, 드라이트론 [레이팅]
 date: 2024-12-01
 categories: videos
 ---

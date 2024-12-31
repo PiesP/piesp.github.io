@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [마스터 듀얼] 티아라멘츠 vs 60 낙인: 살로니르와 초융합의 대결
+title: "마스터 듀얼" 티아라멘츠 vs 60 낙인: 살로니르와 초융합의 대결
 date: 2024-02-05
 categories: videos
 ---

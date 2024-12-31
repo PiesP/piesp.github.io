@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [마스터 듀얼] 호루스 최고의 순간 #shorts
+title: "마스터 듀얼" 호루스 최고의 순간 #shorts
 date: 2024-05-13
 categories: videos
 ---
