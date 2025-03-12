@@ -16,15 +16,16 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: 'latest'
+          hugo-version: '0.123.6'
+
+      - name: Setup Git Submodules
+        run: |
+          git submodule update --init --recursive
+          echo "Submodules initialized successfully"
 
       - name: Build Hugo Site
         run: |
           cd piesp-blog
-          git submodule update --init --recursive
-          echo "Content of config.toml:"
-          cat config.toml
-          hugo config
           hugo --minify
           touch ./public/.nojekyll
           cp ../README.md ./public/ || echo "No README found"
