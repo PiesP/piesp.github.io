@@ -20,7 +20,7 @@ jobs:
 
       - name: Build Hugo Site
         run: |
-          cd piesp-blog
+          cd /home/runner/work/piesp.github.io/piesp.github.io
           hugo --minify
 
       - name: Deploy to GitHub Pages
