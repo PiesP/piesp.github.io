@@ -1,0 +1,89 @@
+{{ define "main" }}
+<article class="post-single">
+  <header class="post-header">
+    <h1 class="post-title">{{ .Title }}</h1>
+    <div class="post-meta">
+      {{ if .Date }}
+      <span>{{ .Date.Format "2006-01-02" }}</span>
+      {{ end }}
+      {{ if .Params.tags }}
+      <span class="post-tags">
+        {{ range .Params.tags }}
+        <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}/">{{ . }}</a>
+        {{ end }}
+      </span>
+      {{ end }}
+    </div>
+  </header>
+
+  <div class="post-content">
+    {{ .Content }}
+  </div>
+
+  <!-- 영상 포스트 간 이동 -->
+  <div class="post-nav">
+    {{ $currentPage := . }}
+    {{ $pages := (where .Site.RegularPages "Section" "videos").ByDate.Reverse }}
+    {{ $pages_count := len $pages }}
+    {{ range $index, $page := $pages }}
+      {{ if eq $page $currentPage }}
+        <div class="post-nav-links">
+          {{ if ne $index 0 }}
+            {{ $prev := index $pages (sub $index 1) }}
+            <div class="post-nav-prev">
+              <a href="{{ $prev.RelPermalink }}">
+                <span>이전 영상</span><br>
+                <span>{{ $prev.Title }}</span>
+              </a>
+            </div>
+          {{ end }}
+          
+          {{ if ne (add $index 1) $pages_count }}
+            {{ $next := index $pages (add $index 1) }}
+            <div class="post-nav-next">
+              <a href="{{ $next.RelPermalink }}">
+                <span>다음 영상</span><br>
+                <span>{{ $next.Title }}</span>
+              </a>
+            </div>
+          {{ end }}
+        </div>
+      {{ end }}
+    {{ end }}
+  </div>
+
+  {{ if .Site.Params.ShowShareButtons }}
+    {{ partial "share_icons.html" . }}
+  {{ end }}
+</article>
+{{ end }}
+
+<style>
+.post-nav {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2rem;
+}
+
+.post-nav-links {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.post-nav-prev, .post-nav-next {
+  max-width: 48%;
+}
+
+.post-nav a {
+  display: block;
+  padding: 10px;
+  border: 1px solid #eee;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.post-nav a:hover {
+  background-color: #f8f9fa;
+}
+</style>

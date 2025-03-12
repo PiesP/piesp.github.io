@@ -1,0 +1,67 @@
+{{ define "main" }}
+<main>
+  <!-- 최신 영상 한 개 고정 표시 -->
+  <div class="featured-video-container">
+    <h2>최신 영상</h2>
+    {{ $latest_video := (where .Site.RegularPages "Section" "videos").ByDate.Reverse | first 1 }}
+    {{ range $latest_video }}
+    <div class="featured-video">
+      <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+      <div class="video-container">
+        <iframe src="https://www.youtube.com/embed/{{ .Params.youtube_id }}" 
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" 
+          allowfullscreen title="YouTube Video"></iframe>
+      </div>
+      <div class="post-meta">
+        <span>{{ .Date.Format "2006-01-02" }}</span>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+
+  <!-- 나머지 포스트 (영상 카테고리 제외) -->
+  <div class="posts">
+    <h2>최근 포스트</h2>
+    {{ $paginator := .Paginate (where .Site.RegularPages "Section" "posts") }}
+    {{ range $paginator.Pages }}
+    <article class="post-entry">
+      <header class="entry-header">
+        <h3>
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </h3>
+      </header>
+      <div class="entry-content">
+        <p>{{ .Summary }}</p>
+      </div>
+      <footer class="entry-footer">
+        <span>{{ .Date.Format "2006-01-02" }}</span>
+      </footer>
+    </article>
+    {{ end }}
+  </div>
+
+  {{ partial "pagination.html" . }}
+</main>
+{{ end }}
+
+<style>
+.featured-video-container {
+  margin-bottom: 2rem;
+  padding: 1rem;
+  background-color: #f8f9fa;
+  border-radius: 5px;
+}
+
+.featured-video {
+  margin-bottom: 1rem;
+}
+
+.video-container {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; /* 16:9 비율 */
+  height: 0;
+  overflow: hidden;
+  margin-bottom: 1rem;
+}
+</style>
