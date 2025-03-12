@@ -24,6 +24,7 @@ jobs:
           git submodule update --init --recursive
           hugo --minify
           pwd
+          ls -l /home/runner/work/piesp.github.io/piesp.github.io/piesp-blog/public
           ls -l 
           ls -l public
 
