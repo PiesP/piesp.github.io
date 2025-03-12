@@ -1,0 +1,4 @@
+baseURL = "https://piesp.github.io/"
+languageCode = "en-us"
+title = "PiesP's Page"
+theme = "ananke"
