@@ -24,7 +24,7 @@ jobs:
           git submodule update --init --recursive
           echo "Content of config.toml:"
           cat config.toml
-          hugo config --debug
+          hugo config
           hugo --minify
           touch ./public/.nojekyll
           cp ../README.md ./public/ || echo "No README found"
