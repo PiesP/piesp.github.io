@@ -9,11 +9,11 @@ publishDir = "public"
 [pagination]
   pagerSize = 10  # 기존 paginate 제거 후 최신 설정 적용
 
-relativeURLs = true
+relativeURLs = false
 canonifyURLs = true
 
 [outputs]
-  home = ["HTML", "RSS"]
+  home = ["HTML", "RSS", "sitemap", "robots"]
   page = ["HTML"]
   section = ["HTML", "RSS"]
   taxonomy = ["HTML", "RSS"]
