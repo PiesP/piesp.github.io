@@ -6,14 +6,13 @@ defaultContentLanguage = "ko"
 enableRobotsTXT = true
 publishDir = "public"
 
-[pagination]
-  pagerSize = 10  # 기존 paginate 제거 후 최신 설정 적용
+paginate = 10  # 페이지당 포스트 수
 
 relativeURLs = false
 canonifyURLs = true
 
 [outputs]
-  home = ["HTML", "RSS", "sitemap", "robots"]
+  home = ["HTML", "RSS", "JSON", "sitemap", "robots"]
   page = ["HTML"]
   section = ["HTML", "RSS"]
   taxonomy = ["HTML", "RSS"]
@@ -23,6 +22,25 @@ canonifyURLs = true
   author = "PiesP"
   defaultTheme = "auto"
   dateFormat = "2006-01-02"
+  ShowShareButtons = true
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  
+  # SEO 설정
+  description = "PiesP의 개인 블로그입니다"
+  keywords = ["blog", "hugo", "PiesP"]
+  
+  # 소셜 미디어 공유 설정
+  [params.socialIcons]
+    # GitHub 아이콘 예시 (필요에 따라 수정하세요)
+    [[params.socialIcons]]
+      name = "Github"
+      url = "https://github.com/PiesP"
+    
+    # 다른 플랫폼도 추가할 수 있습니다 (Twitter, Facebook 등)
 
 [menu]
   [[menu.main]]
@@ -39,7 +57,10 @@ canonifyURLs = true
     name = "About"
     url = "/about/"
     weight = 3
+    
+  [[menu.main]]
+    name = "Search"
+    url = "/search/"
+    weight = 4
 
-[module]
-  [[module.imports]]
-    path = "PaperMod"
+# Module imports are not needed when using submodule
