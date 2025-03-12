@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
@@ -29,8 +29,8 @@ jobs:
 
       - name: Deploy to GitHub Pages
         if: github.ref == 'refs/heads/master'
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: /home/runner/work/piesp.github.io/piesp.github.io/piesp-blog/public
+          publish_dir: ./public
           keep_files: true
