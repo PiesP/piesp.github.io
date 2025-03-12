@@ -1,0 +1,28 @@
+baseURL = "https://piesp.github.io/"
+languageCode = "ko"
+title = "PiesP의 블로그"
+theme = "PaperMod"
+paginate = 10
+defaultContentLanguage = "ko"
+enableRobotsTXT = true
+
+[params]
+  author = "PiesP"
+  defaultTheme = "auto" # light, dark, or auto
+  dateFormat = "2006-01-02"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
