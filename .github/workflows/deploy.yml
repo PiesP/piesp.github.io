@@ -23,10 +23,7 @@ jobs:
           cd piesp-blog
           git submodule update --init --recursive
           hugo --minify
-          pwd
-          ls -l /home/runner/work/piesp.github.io/piesp.github.io/piesp-blog/public
-          ls -l 
-          ls -l public
+          touch ./piesp-blog/public/.nojekyll
 
       - name: Deploy to GitHub Pages
         if: github.ref == 'refs/heads/master'
