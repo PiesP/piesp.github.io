@@ -34,6 +34,10 @@ paginate = 10
   [[params.socialIcons]]
   name = "GitHub"
   url = "https://github.com/PiesP"
+  
+  [[params.socialIcons]]
+  name = "YouTube"
+  url = "https://www.youtube.com/@piesp"
 
 [menu]
   [[menu.main]]
@@ -45,13 +49,18 @@ paginate = 10
     name = "Posts"
     url = "/posts/"
     weight = 2
+    
+  [[menu.main]]
+    name = "Videos"
+    url = "/videos/"
+    weight = 3
 
   [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 3
+    weight = 4
     
   [[menu.main]]
     name = "Search"
     url = "/search/"
-    weight = 4
+    weight = 5

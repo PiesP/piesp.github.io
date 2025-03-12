@@ -1,0 +1,39 @@
+name: Import YouTube Videos
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 매일 자정에 실행
+  workflow_dispatch:  # 수동 실행도 가능하게 설정
+
+jobs:
+  import-videos:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # 전체 히스토리 가져오기
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install google-api-python-client pyyaml python-frontmatter pytz
+      
+      - name: Fetch YouTube videos
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          CHANNEL_ID: 'UCOt8sKxnjgZAM02Lc89Ijkw'  # @piesp 채널 ID
+        run: python .github/scripts/youtube-import.py
+      
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add piesp-blog/content/videos/
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update YouTube video posts"
+          git push
