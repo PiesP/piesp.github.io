@@ -22,6 +22,7 @@ jobs:
         run: |
           cd piesp-blog
           hugo --minify
+          ls -l public  
 
       - name: Deploy to GitHub Pages
         if: github.ref == 'refs/heads/master'
