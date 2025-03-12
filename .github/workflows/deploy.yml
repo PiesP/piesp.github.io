@@ -16,7 +16,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.123.6'
+          hugo-version: '0.126.1'
 
       - name: Setup Git Submodules
         run: |
