@@ -3,7 +3,7 @@ name: Deploy Hugo Blog
 on:
   push:
     branches:
-      - master  # master 브랜치에 푸시될 때 실행
+      - master
 
 jobs:
   build-and-deploy:
@@ -26,5 +26,5 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.ACTION_SECRET }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
