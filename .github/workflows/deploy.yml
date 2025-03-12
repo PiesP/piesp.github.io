@@ -8,21 +8,18 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout
-      uses: actions/checkout@v2
-
+    - uses: actions/checkout@v2
     - name: Setup Hugo
-      uses: peaceiris/actions-hugo@v2
-      with:
-        hugo-version: 'latest'
-
+    uses: peaceiris/actions-hugo@v2
+    with:
+        hugo-version: '0.92.2'
     - name: Install Hugo Modules
-      run: hugo mod get -u
-
+    run: |
+        hugo mod get -u
+        hugo mod tidy
     - name: Build
-      run: hugo --minify --config my-blog/config.toml
+    run: hugo --minify --config my-blog/config.toml
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
