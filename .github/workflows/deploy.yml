@@ -19,7 +19,9 @@ jobs:
           hugo-version: 'latest'
 
       - name: Build Hugo Site
-        run: hugo --minify
+        run: |
+          cd piesp-blog  # Hugo 프로젝트 폴더로 이동
+          hugo --minify
 
       - name: Deploy to GitHub Pages
         if: github.ref == 'refs/heads/master'
