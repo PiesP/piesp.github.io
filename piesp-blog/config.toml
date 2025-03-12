@@ -7,7 +7,7 @@ enableRobotsTXT = true
 publishDir = "public"
 
 [pagination]
-  pagerSize = 10
+  pagerSize = 10  # 기존 paginate 제거 후 최신 설정 적용
 
 relativeURLs = true
 canonifyURLs = true
@@ -18,6 +18,11 @@ canonifyURLs = true
   section = ["HTML", "RSS"]
   taxonomy = ["HTML", "RSS"]
   term = ["HTML", "RSS"]
+
+[params]
+  author = "PiesP"
+  defaultTheme = "auto"
+  dateFormat = "2006-01-02"
 
 [menu]
   [[menu.main]]
