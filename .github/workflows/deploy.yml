@@ -23,7 +23,9 @@ jobs:
           cd piesp-blog
           git submodule update --init --recursive
           hugo --minify
-          ls -l public  
+          pwd
+          ls -l 
+          ls -l public
 
       - name: Deploy to GitHub Pages
         if: github.ref == 'refs/heads/master'
