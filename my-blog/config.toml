@@ -2,3 +2,6 @@ baseURL = "https://piesp.github.io/"
 languageCode = "en-us"
 title = "PiesP's Page"
 theme = "ananke"
+[module]
+  [[module.imports]]
+    path = "github.com/theNewDynamic/gohugo-theme-ananke"
