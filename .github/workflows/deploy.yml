@@ -23,6 +23,7 @@ jobs:
           cd piesp-blog
           git submodule update --init --recursive
           hugo --minify
+          ls -l ./piesp-blog/public
           touch ./piesp-blog/public/.nojekyll
 
       - name: Deploy to GitHub Pages
