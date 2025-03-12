@@ -1,0 +1,33 @@
+# Hugo 빌드 디렉토리 (배포 시 제외)
+public/
+resources/
+hugo_stats.json
+
+# Hugo 캐시 파일
+.cache/
+hugo_cache/
+
+# .DS_Store (macOS) 및 Thumbs.db (Windows) 제거
+.DS_Store
+Thumbs.db
+
+# 로컬 환경 설정 파일
+config.toml.backup
+config.yaml.backup
+
+# Git 및 에디터 관련 파일
+.git/
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
+*.log
+
+# VSCode 관련 파일
+.vscode/
+*.code-workspace
+
+# macOS 및 Windows 불필요한 파일
+._*
+.idea/
