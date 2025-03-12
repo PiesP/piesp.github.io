@@ -22,7 +22,9 @@ jobs:
         run: |
           cd piesp-blog
           git submodule update --init --recursive
-          hugo config  
+          echo "Content of config.toml:"
+          cat config.toml
+          hugo config --debug
           hugo --minify
           touch ./public/.nojekyll
           cp ../README.md ./public/ || echo "No README found"

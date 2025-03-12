@@ -6,10 +6,7 @@ defaultContentLanguage = "ko"
 enableRobotsTXT = true
 publishDir = "public"
 
-paginate = 10  # 페이지당 포스트 수
-
-relativeURLs = false
-canonifyURLs = true
+paginate = 10
 
 [outputs]
   home = ["HTML", "RSS", "JSON", "sitemap", "robots"]
@@ -32,15 +29,11 @@ canonifyURLs = true
   # SEO 설정
   description = "PiesP의 개인 블로그입니다"
   keywords = ["blog", "hugo", "PiesP"]
-  
-  # 소셜 미디어 공유 설정
-  [params.socialIcons]
-    # GitHub 아이콘 예시 (필요에 따라 수정하세요)
-    [[params.socialIcons]]
-      name = "Github"
-      url = "https://github.com/PiesP"
-    
-    # 다른 플랫폼도 추가할 수 있습니다 (Twitter, Facebook 등)
+
+  # 소셜 링크 설정
+  [[params.socialIcons]]
+  name = "GitHub"
+  url = "https://github.com/PiesP"
 
 [menu]
   [[menu.main]]
@@ -62,5 +55,3 @@ canonifyURLs = true
     name = "Search"
     url = "/search/"
     weight = 4
-
-# Module imports are not needed when using submodule
