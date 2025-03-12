@@ -6,10 +6,11 @@ defaultContentLanguage = "ko"
 enableRobotsTXT = true
 publishDir = "public"
 
-paginate = 10
+[pagination]
+  pagerSize = 10
 
 [outputs]
-  home = ["HTML", "RSS", "JSON", "sitemap", "robots"]
+  home = ["HTML", "RSS", "JSON"]
   page = ["HTML"]
   section = ["HTML", "RSS"]
   taxonomy = ["HTML", "RSS"]
