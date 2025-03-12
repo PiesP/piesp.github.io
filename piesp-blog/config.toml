@@ -2,14 +2,22 @@ baseURL = "https://piesp.github.io/"
 languageCode = "ko"
 title = "PiesP의 블로그"
 theme = "PaperMod"
-paginate = 10
 defaultContentLanguage = "ko"
 enableRobotsTXT = true
+publishDir = "public"
 
-[params]
-  author = "PiesP"
-  defaultTheme = "auto" # light, dark, or auto
-  dateFormat = "2006-01-02"
+[pagination]
+  pagerSize = 10
+
+relativeURLs = true
+canonifyURLs = true
+
+[outputs]
+  home = ["HTML", "RSS"]
+  page = ["HTML"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  term = ["HTML", "RSS"]
 
 [menu]
   [[menu.main]]
@@ -26,3 +34,7 @@ enableRobotsTXT = true
     name = "About"
     url = "/about/"
     weight = 3
+
+[module]
+  [[module.imports]]
+    path = "PaperMod"
