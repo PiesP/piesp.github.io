@@ -1,9 +1,22 @@
 {{ define "main" }}
-<main>
+<main class="main">
+  <article class="first-entry home-info">
+    <header class="entry-header">
+      <h1>{{ .Site.Title }}</h1>
+    </header>
+    <div class="entry-content">
+      <p>{{ .Site.Params.description | default "PiesP의 개인 블로그입니다" }}</p>
+    </div>
+    <footer class="entry-footer">
+      {{ partial "social_icons.html" (dict "align" "center") }}
+    </footer>
+  </article>
+
   <!-- 최신 영상 한 개 고정 표시 -->
+  {{ $latest_video := (where .Site.RegularPages "Section" "videos").ByDate.Reverse | first 1 }}
+  {{ if $latest_video }}
   <div class="featured-video-container">
     <h2>최신 영상</h2>
-    {{ $latest_video := (where .Site.RegularPages "Section" "videos").ByDate.Reverse | first 1 }}
     {{ range $latest_video }}
     <div class="featured-video">
       <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
@@ -18,11 +31,14 @@
     </div>
     {{ end }}
   </div>
+  {{ end }}
 
-  <!-- 나머지 포스트 (영상 카테고리 제외) -->
+  <!-- 최근 포스트 (영상 카테고리 제외) -->
+  {{ $posts := where .Site.RegularPages "Section" "posts" }}
+  {{ if $posts }}
   <div class="posts">
     <h2>최근 포스트</h2>
-    {{ $paginator := .Paginate (where .Site.RegularPages "Section" "posts") }}
+    {{ $paginator := .Paginate $posts }}
     {{ range $paginator.Pages }}
     <article class="post-entry">
       <header class="entry-header">
@@ -39,17 +55,31 @@
     </article>
     {{ end }}
   </div>
-
-  {{ partial "pagination.html" . }}
+  <!-- Pagination -->
+  {{ if gt $paginator.TotalPages 1 }}
+  <nav class="pagination">
+    {{ if $paginator.HasPrev }}
+    <a class="prev" href="{{ $paginator.Prev.URL }}">&larr; {{ or .Site.Params.text.paginator.previous "Previous" }}</a>
+    {{ end }}
+    {{ if $paginator.HasNext }}
+    <a class="next" href="{{ $paginator.Next.URL }}">{{ or .Site.Params.text.paginator.next "Next" }} &rarr;</a>
+    {{ end }}
+  </nav>
+  {{ end }}
+  {{ end }}
 </main>
 {{ end }}
+
+{{ define "head" }}
+{{- partial "head.html" . -}}
 
 <style>
 .featured-video-container {
   margin-bottom: 2rem;
   padding: 1rem;
   background-color: #f8f9fa;
-  border-radius: 5px;
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
 }
 
 .featured-video {
@@ -64,4 +94,40 @@
   overflow: hidden;
   margin-bottom: 1rem;
 }
+
+.pagination {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.pagination a {
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  color: #333;
+}
+
+.pagination a:hover {
+  background-color: #f5f5f5;
+}
+
+/* 다크 모드 지원 */
+@media (prefers-color-scheme: dark) {
+  .featured-video-container {
+    background-color: #2d2d2d;
+  }
+  
+  .pagination a {
+    border-color: #444;
+    color: #eee;
+  }
+  
+  .pagination a:hover {
+    background-color: #444;
+  }
+}
 </style>
+{{ end }}
