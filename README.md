@@ -1,42 +1,97 @@
-# PiesP의 블로그
+# PiesP's Blog
 
-이 저장소는 Hugo를 사용하여 제작된 개인 블로그입니다. GitHub Pages를 통해 배포됩니다.
+[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-brightgreen)](https://piesp.github.io/)
+[![Hugo](https://img.shields.io/badge/powered%20by-Hugo-ff4088)](https://gohugo.io/)
+[![Theme](https://img.shields.io/badge/theme-PaperMod-blue)](https://github.com/adityatelange/hugo-PaperMod)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## 방문하기
-[블로그 방문하기](https://piesp.github.io/)
+A personal blog built with Hugo and deployed on GitHub Pages. Features a clean, responsive design with support for dark mode and multiple content types including blog posts and YouTube video archives.
 
-## 사용 기술
-- **프레임워크**: [Hugo](https://gohugo.io/)
-- **테마**: [PaperMod](https://github.com/adityatelange/hugo-PaperMod)
-- **배포**: GitHub Pages와 GitHub Actions
+## Features
 
-## 로컬 개발 환경 설정하기
+- Responsive design that works on mobile and desktop
+- Dark/light mode theme switching
+- Fast loading times with optimized static site generation
+- Content categories for easy navigation
+- Search functionality for finding specific content
+- YouTube video archive with automatic content updates
+- Markdown-based content creation workflow
+- Integrated with GitHub Actions for automatic deployment
 
-### 사전 요구사항
-- [Hugo 설치](https://gohugo.io/installation/) (v0.123.6 이상 권장)
+## Visit the Blog
+
+[Visit PiesP's Blog](https://piesp.github.io/)
+
+## Technology Stack
+
+- **Framework**: [Hugo](https://gohugo.io/) - A fast and modern static site generator
+- **Theme**: [PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A clean, responsive theme
+- **Deployment**: GitHub Pages with GitHub Actions workflow
+- **Content Management**: Markdown files with YAML front matter
+- **Automation**: Python scripts for YouTube content integration
+
+## Local Development Setup
+
+### Prerequisites
+
+- [Hugo](https://gohugo.io/installation/) (v0.123.6 or higher recommended)
 - Git
 
-### 로컬에서 실행하기
+### Running Locally
 
 ```bash
-# 저장소 클론
+# Clone the repository
 git clone https://github.com/PiesP/piesp.github.io.git
 cd piesp.github.io
 
-# 서브모듈 초기화
+# Initialize submodules
 git submodule update --init --recursive
 
-# Hugo 서버 실행
+# Start Hugo development server
 cd piesp-blog
 hugo server -D
 ```
 
-## 새 글 작성하기
+## Creating New Content
 
 ```bash
 cd piesp-blog
-hugo new content posts/새-글-제목.md
+hugo new content posts/new-post-title.md
 ```
 
-## 배포 방법
-master 브랜치에 변경사항을 푸시하면 GitHub Actions가 자동으로 빌드하고 GitHub Pages에 배포합니다.
+Edit the generated file in your favorite text editor, adding your content in Markdown format.
+
+## Deployment
+
+The blog is automatically deployed when changes are pushed to the master branch. The GitHub Actions workflow:
+
+1. Builds the site with Hugo
+2. Deploys the generated static files to GitHub Pages
+3. Updates any YouTube content via scheduled workflows
+
+## Content Organization
+
+- `/piesp-blog/content/posts/` - Blog articles
+- `/piesp-blog/content/videos/` - YouTube video archive
+- `/piesp-blog/content/about/` - About page information
+
+## YouTube Content Integration
+
+The blog features an integrated YouTube video archive that is automatically updated using GitHub Actions and Python scripts:
+
+1. The workflow runs on a schedule
+2. It fetches new videos from specified YouTube channels
+3. Generates Markdown files with embedded videos and metadata
+4. Commits changes to the repository
+
+## Contributing
+
+Suggestions and feedback are welcome! Please open an issue if you have ideas for improvements.
+
+## Acknowledgements
+
+This project was developed in collaboration with AI.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
