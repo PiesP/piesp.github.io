@@ -28,6 +28,9 @@ publishDir = "public"
   ShowCodeCopyButtons = true
   ShowToc = true
   
+  # 커스텀 CSS 추가
+  customCSS = ["css/custom.css"]
+  
   # SEO 설정
   description = "PiesP의 개인 블로그입니다"
   keywords = ["blog", "hugo", "PiesP"]

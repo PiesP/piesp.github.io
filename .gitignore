@@ -3,9 +3,16 @@ public/
 resources/
 hugo_stats.json
 
+# Hugo 락 파일
+.hugo_build.lock
+piesp-blog/.hugo_build.lock
+
 # Hugo 캐시 파일
 .cache/
 hugo_cache/
+piesp-blog/.cache/
+piesp-blog/hugo_cache/
+.hugo/
 
 # .DS_Store (macOS) 및 Thumbs.db (Windows) 제거
 .DS_Store
@@ -28,6 +35,47 @@ config.yaml.backup
 .vscode/
 *.code-workspace
 
+# LLM 관련 파일
+.llm-context/
+
 # macOS 및 Windows 불필요한 파일
 ._*
 .idea/
+
+# 테스트 소우스 및 배포 테스트 관련 파일
+TODO
+*.todo
+*.bak
+dev/
+tmp/
+piesp-blog/public/
+
+# Node 모듈 (MCP 서버 사용 시 생성될 수 있음)
+node_modules/
+package-lock.json
+yarn.lock
+npm-debug.log*
+.npm
+.pnpm-store/
+
+# Python 환경 (YouTube 스크립트 관련)
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+env/
+.venv/
+.pytest_cache/
+.coverage
+python_coverage/
+
+# 테마 관련 임시 파일
+piesp-blog/themes/*/node_modules/
+piesp-blog/themes/*/.git/
+piesp-blog/themes/*/.github/
+
+# 실험용/배포용 로컬 버전 파일
+.vercel
+.netlify
+
