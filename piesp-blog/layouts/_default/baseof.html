@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
+        <link rel="stylesheet" href="/css/custom.css">
+        <script src="/js/custom.js" defer></script>
+    </head>
+    <body>
+        <header class="site-header">
+            <div class="site-title">
+                <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+            </div>
+            <nav class="main-nav">
+                <ul>
+                    {{ range .Site.Menus.main }}
+                    <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+                    {{ end }}
+                </ul>
+            </nav>
+        </header>
+        
+        <main>
+            {{ block "main" . }}{{ end }}
+        </main>
+        
+        <footer class="site-footer">
+            <div class="footer-content">
+                <p>&copy; {{ now.Format "2006" }} {{ .Site.Title }}</p>
+                <p>{{ .Site.Params.footer.customText }}</p>
+            </div>
+        </footer>
+    </body>
+</html>

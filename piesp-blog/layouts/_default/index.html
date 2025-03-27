@@ -1,0 +1,47 @@
+{{ define "main" }}
+    <div style="display: flex; flex-direction: column;">
+        <!-- 최신 영상 섹션 -->
+        {{ $latest_video := (where .Site.RegularPages "Section" "videos").ByDate.Reverse | first 1 }}
+        {{ if $latest_video }}
+        <section style="margin-bottom: 3rem; order: 1;">
+            <h2>최신 영상</h2>
+            {{ range $latest_video }}
+            <div class="featured-video">
+                {{ partial "youtube-lazy.html" .Params.youtube_id }}
+                <div class="video-info">
+                    <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+                    <div class="video-meta">
+                        <time>{{ .Date.Format "2006-01-02" }}</time>
+                    </div>
+                </div>
+            </div>
+            {{ end }}
+            <div class="more-link">
+                <a href="/videos/">더 많은 영상 보기 &rarr;</a>
+            </div>
+        </section>
+        {{ end }}
+
+        <!-- 최근 포스트 섹션 -->
+        <section style="order: 2;">
+            <h2>최근 포스트</h2>
+            {{ $posts := where .Site.RegularPages "Section" "posts" }}
+            {{ range first 5 $posts.ByDate.Reverse }}
+                <article class="post-entry">
+                    <header>
+                        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+                    </header>
+                    <div class="entry-content">
+                        <p>{{ .Summary }}</p>
+                    </div>
+                    <footer>
+                        <time>{{ .Date.Format "2006-01-02" }}</time>
+                    </footer>
+                </article>
+            {{ end }}
+            <div class="more-link">
+                <a href="/posts/">더 많은 글 보기 &rarr;</a>
+            </div>
+        </section>
+    </div>
+{{ end }}

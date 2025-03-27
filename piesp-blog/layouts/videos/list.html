@@ -1,0 +1,26 @@
+{{ define "main" }}
+<header class="page-header">
+    <h1>{{ .Title }}</h1>
+    {{ with .Description }}
+    <p>{{ . }}</p>
+    {{ end }}
+</header>
+
+<div class="video-grid">
+    {{ range .Pages.ByDate.Reverse }}
+    <div class="video-card">
+        <a href="{{ .RelPermalink }}">
+            {{ partial "youtube-lazy.html" .Params.youtube_id }}
+            <div class="video-info">
+                <h3 class="video-title">{{ .Title }}</h3>
+                <div class="video-meta">
+                    <time>{{ .Date.Format "2006-01-02" }}</time>
+                </div>
+            </div>
+        </a>
+    </div>
+    {{ end }}
+</div>
+
+{{ template "_internal/pagination.html" . }}
+{{ end }}

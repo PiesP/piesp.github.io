@@ -1,147 +1,58 @@
 {{ define "main" }}
-<main class="main">
-  <article class="first-entry home-info">
-    <header class="entry-header">
-      <h1>{{ .Site.Title }}</h1>
-    </header>
-    <div class="entry-content">
-      <p>{{ .Site.Params.description | default "PiesP의 개인 블로그입니다" }}</p>
+<div class="home-container">
+    <div class="home-header">
+        <h1>{{ .Site.Title }}</h1>
+        <p>{{ .Site.Params.description | default "PiesP의 개인 블로그입니다" }}</p>
+        
+        <div class="social-icons">
+            {{ range .Site.Params.socialIcons }}
+            <a href="{{ .url }}" target="_blank" rel="noopener noreferrer" class="social-icon">
+                {{ .name }}
+            </a>
+            {{ end }}
+        </div>
     </div>
-    <footer class="entry-footer">
-      {{ partial "social_icons.html" (dict "align" "center") }}
-    </footer>
-  </article>
 
-  <!-- 최신 영상 한 개 고정 표시 -->
-  {{ $latest_video := (where .Site.RegularPages "Section" "videos").ByDate.Reverse | first 1 }}
-  {{ if $latest_video }}
-  <div class="featured-video-container">
-    <h2>최신 영상</h2>
-    {{ range $latest_video }}
-    <div class="featured-video">
-      <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-      <div class="video-container">
-        <iframe src="https://www.youtube.com/embed/{{ .Params.youtube_id }}" 
-          allowfullscreen title="YouTube Video"></iframe>
-      </div>
-      <div class="post-meta">
-        <span>{{ .Date.Format "2006-01-02" }}</span>
-      </div>
+    {{ $latest_video := (where .Site.RegularPages "Section" "videos").ByDate.Reverse | first 1 }}
+    {{ if $latest_video }}
+    <div class="featured-video-section">
+        <h2>최신 영상</h2>
+        {{ range $latest_video }}
+        <div class="featured-video">
+            {{ partial "youtube-lazy.html" .Params.youtube_id }}
+            <div class="video-info">
+                <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+                <div class="video-meta">
+                    <time>{{ .Date.Format "2006-01-02" }}</time>
+                </div>
+            </div>
+        </div>
+        {{ end }}
+        <div class="more-link">
+            <a href="/videos/">더 많은 영상 보기 &rarr;</a>
+        </div>
     </div>
     {{ end }}
-  </div>
-  {{ end }}
 
-  <!-- 최근 포스트 (영상 카테고리 제외) -->
-  {{ $posts := where .Site.RegularPages "Section" "posts" }}
-  {{ if $posts }}
-  <div class="posts">
-    <h2>최근 포스트</h2>
-    {{ $paginator := .Paginate $posts }}
-    {{ range $paginator.Pages }}
-    <article class="post-entry">
-      <header class="entry-header">
-        <h3>
-          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-        </h3>
-      </header>
-      <div class="entry-content">
-        <p>{{ .Summary }}</p>
-      </div>
-      <footer class="entry-footer">
-        <span>{{ .Date.Format "2006-01-02" }}</span>
-      </footer>
-    </article>
-    {{ end }}
-  </div>
-  <!-- Pagination -->
-  {{ if gt $paginator.TotalPages 1 }}
-  <nav class="pagination">
-    {{ if $paginator.HasPrev }}
-    <a class="prev" href="{{ $paginator.Prev.URL }}">&larr; 이전</a>
-    {{ end }}
-    {{ if $paginator.HasNext }}
-    <a class="next" href="{{ $paginator.Next.URL }}">다음 &rarr;</a>
-    {{ end }}
-  </nav>
-  {{ end }}
-  {{ end }}
-</main>
-{{ end }}
-
-{{ define "head" }}
-{{- partial "head.html" . -}}
-
-<style>
-.featured-video-container {
-  margin-bottom: 2rem;
-  padding: 1rem;
-  background-color: #f8f9fa;
-  border-radius: 8px;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
-}
-
-.featured-video {
-  margin-bottom: 1rem;
-}
-
-.video-container {
-  position: relative;
-  width: 100%;
-  max-width: 100%; /* 최대 폭을 100%로 변경 */
-  margin: 0 auto;
-  height: 350px;
-  margin-bottom: 1rem;
-  box-shadow: 0 1px 4px rgba(0,0,0,0.1);
-  border-radius: 6px;
-  overflow: hidden;
-}
-
-.video-container iframe {
-  width: 100%;
-  height: 100%;
-  border: 0;
-}
-
-@media (max-width: 768px) {
-  .video-container {
-    height: 250px;
-  }
-}
-
-.pagination {
-  display: flex;
-  justify-content: space-between;
-  margin-top: 2rem;
-  margin-bottom: 2rem;
-}
-
-.pagination a {
-  padding: 0.5rem 1rem;
-  text-decoration: none;
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  color: #333;
-}
-
-.pagination a:hover {
-  background-color: #f5f5f5;
-}
-
-/* 다크 모드 지원 */
-@media (prefers-color-scheme: dark) {
-  .featured-video-container {
-    background-color: #2d2d2d;
-  }
-  
-  .pagination a {
-    border-color: #444;
-    color: #eee;
-  }
-  
-  .pagination a:hover {
-    background-color: #444;
-  }
-}
-</style>
+    <section class="article-list">
+        <h2>최근 포스트</h2>
+        {{ $posts := where .Site.RegularPages "Section" "posts" }}
+        {{ range first 5 $posts.ByDate.Reverse }}
+            <article class="post-entry">
+                <header>
+                    <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+                </header>
+                <div class="entry-content">
+                    <p>{{ .Summary }}</p>
+                </div>
+                <footer>
+                    <time>{{ .Date.Format "2006-01-02" }}</time>
+                </footer>
+            </article>
+        {{ end }}
+        <div class="more-link">
+            <a href="/posts/">더 많은 글 보기 &rarr;</a>
+        </div>
+    </section>
+</div>
 {{ end }}

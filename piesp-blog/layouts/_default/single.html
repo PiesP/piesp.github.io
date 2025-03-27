@@ -8,10 +8,6 @@
     </header>
     
     <div class="article-content">
-        <div class="featured-video">
-            {{ partial "youtube-lazy.html" .Params.youtube_id }}
-        </div>
-        
         {{ .Content }}
         
         {{ if .Params.tags }}

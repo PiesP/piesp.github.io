@@ -1,0 +1,70 @@
+baseURL: "https://piesp.github.io/"
+languageCode: "ko"
+title: "PiesP의 블로그"
+theme: ""  # 테마를 사용하지 않고 직접 구현한 템플릿 사용
+defaultContentLanguage: "ko"
+enableRobotsTXT: true
+publishDir: "public"
+
+# 기본 언어 설정
+languages:
+  ko:
+    languageName: 한국어
+    title: PiesP의 블로그
+    weight: 1
+
+# 기본 설정
+paginate: 10
+
+# 출력 포맷
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+# 블로그 설정
+params:
+  mainSections:
+    - posts
+    - videos
+  
+  # 날짜 포맷
+  dateFormat:
+    published: 2006-01-02
+  
+  # 소셜 링크
+  socialIcons:
+    - name: github
+      url: https://github.com/PiesP
+    - name: youtube
+      url: https://www.youtube.com/@piesp
+  
+  # 푸터 설정
+  footer:
+    since: 2023
+    customText: "PiesP의 개인 블로그입니다"
+
+# 메뉴 설정
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 1
+    - identifier: posts
+      name: Posts
+      url: /posts
+      weight: 2
+    - identifier: videos
+      name: Videos
+      url: /videos
+      weight: 3
+    - identifier: about
+      name: About
+      url: /about
+      weight: 4
+    - identifier: search
+      name: Search
+      url: /search
+      weight: 5

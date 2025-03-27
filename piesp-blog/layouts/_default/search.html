@@ -1,0 +1,127 @@
+{{ define "main" }}
+<div class="search-container">
+    <header>
+        <h1>검색</h1>
+    </header>
+    
+    <div id="search-box">
+        <input type="text" id="search-input" placeholder="검색어를 입력하세요..." aria-label="검색">
+        <div id="search-results"></div>
+    </div>
+</div>
+
+<script>
+    // 검색 데이터 로드
+    let searchData;
+    
+    async function fetchSearchData() {
+        try {
+            const response = await fetch('/index.json');
+            if (!response.ok) throw new Error('Search index could not be loaded');
+            searchData = await response.json();
+        } catch (error) {
+            console.error('Error loading search data:', error);
+        }
+    }
+    
+    // 검색 함수
+    function search(query) {
+        if (!searchData) return [];
+        
+        query = query.toLowerCase();
+        return searchData.filter(item => {
+            return (
+                item.title.toLowerCase().includes(query) ||
+                item.content.toLowerCase().includes(query) ||
+                (item.summary && item.summary.toLowerCase().includes(query))
+            );
+        });
+    }
+    
+    // DOM 이벤트 리스너
+    document.addEventListener('DOMContentLoaded', () => {
+        fetchSearchData();
+        
+        const searchInput = document.getElementById('search-input');
+        const searchResults = document.getElementById('search-results');
+        
+        searchInput.addEventListener('input', () => {
+            const query = searchInput.value;
+            
+            if (query.length < 2) {
+                searchResults.innerHTML = '';
+                return;
+            }
+            
+            const results = search(query);
+            
+            if (results.length === 0) {
+                searchResults.innerHTML = '<div class="no-results">검색 결과가 없습니다.</div>';
+                return;
+            }
+            
+            let html = '';
+            results.forEach(item => {
+                html += `
+                    <div class="search-result">
+                        <h3><a href="${item.permalink}">${item.title}</a></h3>
+                        <p>${item.summary || item.content.substring(0, 150)}...</p>
+                    </div>
+                `;
+            });
+            
+            searchResults.innerHTML = html;
+        });
+    });
+</script>
+
+<style>
+    .search-container {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 2rem 1rem;
+    }
+    
+    #search-box {
+        margin-top: 2rem;
+    }
+    
+    #search-input {
+        width: 100%;
+        padding: 12px 16px;
+        font-size: 1rem;
+        border: 1px solid var(--border-color);
+        border-radius: 4px;
+        background-color: var(--card-background);
+        color: var(--text-color);
+    }
+    
+    #search-results {
+        margin-top: 1.5rem;
+    }
+    
+    .search-result {
+        margin-bottom: 1.5rem;
+        padding: 1rem;
+        border-radius: 4px;
+        background-color: var(--card-background);
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    }
+    
+    .search-result h3 {
+        margin-top: 0;
+        margin-bottom: 0.5rem;
+    }
+    
+    .search-result p {
+        margin: 0;
+        color: var(--text-secondary);
+    }
+    
+    .no-results {
+        padding: 1rem;
+        text-align: center;
+        color: var(--text-secondary);
+    }
+</style>
+{{ end }}
