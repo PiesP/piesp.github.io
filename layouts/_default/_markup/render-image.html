@@ -1,0 +1,9 @@
+{{ $image := .Page.Resources.GetMatch (printf "%s" (.Destination | safeURL)) }}
+{{ with $image }}
+  {{ $small := .Resize "800x" }}
+  {{ $medium := .Resize "1200x" }}
+  <picture>
+    <source srcset="{{ $medium.RelPermalink }}" media="(min-width: 800px)">
+    <img src="{{ $small.RelPermalink }}" alt="{{ $.Text }}" loading="lazy">
+  </picture>
+{{ end }}

@@ -1,0 +1,8 @@
+<div class="tag-cloud">
+  {{ range .Site.Taxonomies.tags }}
+  <a href="{{ .Page.RelPermalink }}" 
+     class="tag-{{ if gt .Count 5 }}large{{ else if gt .Count 2 }}medium{{ else }}small{{ end }}">
+    {{ .Page.Title }} ({{ .Count }})
+  </a>
+  {{ end }}
+</div>
