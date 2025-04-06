@@ -18,16 +18,26 @@ document.addEventListener('DOMContentLoaded', function() {
                 iframe.setAttribute('allow', 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture');
                 iframe.setAttribute('src', `https://www.youtube.com/embed/${videoId}?autoplay=1&rel=0`);
                 
+                // iframe 크기 설정
+                iframe.style.width = '100%';
+                iframe.style.height = '100%';
+                iframe.style.position = 'absolute';
+                iframe.style.top = '0';
+                iframe.style.left = '0';
+                
+                // 기존 콘텐츠 제거 전에 컨테이너 크기 저장
+                const containerWidth = thumbnail.offsetWidth;
+                const containerHeight = thumbnail.offsetHeight;
+                
                 // 기존 콘텐츠 제거
                 thumbnail.innerHTML = '';
+                
                 // iframe 추가
                 thumbnail.appendChild(iframe);
                 
-                // 플레이어가 로드된 후 z-index 조정
-                setTimeout(() => {
-                    iframe.style.zIndex = '2';
-                    container.style.zIndex = '1';
-                }, 100);
+                // 컨테이너 크기 유지
+                thumbnail.style.width = containerWidth + 'px';
+                thumbnail.style.height = containerHeight + 'px';
             });
         }
     });
