@@ -35,15 +35,15 @@
 .video-container {
   position: relative;
   width: 100%;
-  overflow: hidden;
-  background: var(--entry);
-  border-radius: 10px;
+  max-width: 100%;
+  margin: 0 auto;
 }
 
 .video-thumbnail {
   position: relative;
   width: 100%;
-  padding-top: 56.25%; /* 16:9 비율 */
+  padding-bottom: 56.25%; /* 16:9 비율 */
+  height: 0;
   overflow: hidden;
   background: #000;
   z-index: 1;
@@ -53,8 +53,10 @@
   position: absolute;
   top: 0;
   left: 0;
-  width: 100%;
-  height: 100%;
+  width: 100% !important;
+  height: 100% !important;
+  min-width: 100%;
+  min-height: 100%;
   border: 0;
   border-radius: 10px;
   z-index: 2;
