@@ -1,17 +1,19 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ .Title }} | PIESP Dev</title>
-    {{ $style := resources.Get "css/style.css" | resources.Minify }}
-    <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+    {{ partial "head.html" . }}
 </head>
 <body>
-    {{ partial "header.html" . }}
+    {{ partial "scroll-progress.html" . }}
+    <header>
+        {{ partial "header.html" . }}
+        {{ partial "search.html" . }}
+    </header>
     <main>
         {{ block "main" . }}{{ end }}
     </main>
-    {{ partial "footer.html" . }}
+    <footer>
+        {{ partial "footer.html" . }}
+    </footer>
 </body>
 </html>

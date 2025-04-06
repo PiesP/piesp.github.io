@@ -1,0 +1,12 @@
+<div class="scroll-progress">
+  <div class="scroll-progress-bar"></div>
+</div>
+
+<script>
+window.addEventListener('scroll', () => {
+  const winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+  const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+  const scrolled = (winScroll / height) * 100;
+  document.querySelector('.scroll-progress-bar').style.width = scrolled + '%';
+});
+</script>

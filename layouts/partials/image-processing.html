@@ -1,0 +1,18 @@
+{{ $image := .image }}
+{{ $alt := .alt }}
+{{ $class := .class }}
+
+{{ $tiny := $image.Resize "20x webp" }}
+{{ $small := $image.Resize "800x webp" }}
+{{ $medium := $image.Resize "1200x webp" }}
+
+<img
+  src="{{ $tiny.RelPermalink }}"
+  data-src="{{ $small.RelPermalink }}"
+  data-srcset="{{ $small.RelPermalink }} 800w, {{ $medium.RelPermalink }} 1200w"
+  alt="{{ $alt }}"
+  class="{{ $class }} lazy"
+  loading="lazy"
+  style="background-size: cover; background-image: url('{{ $tiny.RelPermalink }}')"
+  onload="this.style.backgroundImage='none'"
+>

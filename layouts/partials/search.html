@@ -1,0 +1,24 @@
+<div class="search-container">
+  <input type="text" id="search-input" placeholder="검색어를 입력하세요...">
+  <div id="search-results"></div>
+</div>
+
+<script>
+document.getElementById('search-input').addEventListener('input', async (e) => {
+  const query = e.target.value;
+  if (query.length < 2) {
+    document.getElementById('search-results').innerHTML = '';
+    return;
+  }
+  
+  const results = search.search(query);
+  const resultsHtml = results
+    .map(r => `<div class="search-result">
+      <a href="${r.permalink}">${r.title}</a>
+      <p>${r.content.substring(0, 150)}...</p>
+    </div>`)
+    .join('');
+    
+  document.getElementById('search-results').innerHTML = resultsHtml || '검색 결과가 없습니다.';
+});
+</script>
