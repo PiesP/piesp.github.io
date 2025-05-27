@@ -12,10 +12,9 @@ tags:
 - 마듀
 - MD
 - 유희왕
-title: '[마스터 듀얼] 티아라멘츠 vs 스네이크아이, 원석 푸른 눈 [레이팅]'
+title: '[마스터 듀얼] 티아라멘츠 vs 스네이크아이, 원석 푸른 눈 [스텐다드]'
 youtube_id: oRtqPUZM9Gk
 ---
-
 
 {{< youtube oRtqPUZM9Gk >}}
 

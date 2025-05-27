@@ -12,10 +12,9 @@ tags:
 - 마듀
 - MD
 - 유희왕
-title: '[마스터 듀얼] 티아라멘츠 vs 고티스 [레이팅]'
+title: '[마스터 듀얼] 티아라멘츠 vs 고티스 [스텐다드]'
 youtube_id: mDKqAUV_bEA
 ---
-
 
 {{< youtube mDKqAUV_bEA >}}
 
