@@ -12,10 +12,9 @@ tags:
 - 마듀
 - MD
 - 유희왕
-title: '[마스터 듀얼] 티아라멘츠 vs 낙인, 스네이크아이 [스텐다드]'
+title: '[마스터 듀얼] 티아라멘츠 vs 낙인, 스네이크아이 [스탠다드]'
 youtube_id: vHcMYgl_bQI
 ---
-
 
 {{< youtube vHcMYgl_bQI >}}
 
